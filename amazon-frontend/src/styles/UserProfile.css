@@ -1,0 +1,36 @@
+.user-dets-container{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 600px;
+    margin: auto;
+}
+
+.user-dets-container .form{
+    width: 40vw;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.update-btn{
+    background-color: #FFD812;
+    border-radius: 10px;
+    border-color: #f0c040;
+    border-style: solid;
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 30px;
+    font-size: 18px;
+    outline: 0;
+}
+
+@media(max-width: 900px){
+    .user-dets-container{
+        transform: translateY(16%);
+    }
+}
+

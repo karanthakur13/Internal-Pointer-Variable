@@ -1,0 +1,21 @@
+.products-container{
+    width: 80vw;
+    background-color: white;
+    margin-bottom: 25px;
+    padding: 2rem 2rem;
+}
+.products-container h1{
+    margin: 0;
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+.products-container hr{
+    margin: 0;
+    margin-top: 4px;
+    margin-bottom: 10px;
+}
+.products{
+    display: flex;
+    align-items: center;
+    gap:1.5rem;
+}

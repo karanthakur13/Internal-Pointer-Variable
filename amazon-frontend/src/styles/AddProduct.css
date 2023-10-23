@@ -1,0 +1,29 @@
+.addProduct{
+    padding: 4vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.addProduct form{
+    width: 40vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.addProduct label{
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+.addProduct input{
+    font-size: 1.2rem;
+    padding: 6px 4px;
+    margin-bottom: 15px;
+}
+.addProduct textarea{
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    padding: 6px 4px;
+    resize: none;
+}

@@ -1,0 +1,65 @@
+.signin-container{
+    height: 80vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form{
+    width: 30vw;
+    margin: 0 30px;
+    padding: 40px;
+    border: solid 2px grey;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.form-ip-sec{
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-ip-sec label{
+    color: rgb(78, 78, 78);
+    font-size: 14px;
+}
+
+.form-ip-sec input{
+    padding: 12px;
+    font-size: 18px;
+    margin-top: 10px;
+    border-radius: 4px;
+    border-style: solid;
+}
+
+.submit-btn{
+    background-color: #FFD812;
+    border-radius: 10px;
+    border-color: #f0c040;
+    border-style: solid;
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 30px;
+    font-size: 18px;
+    outline: 0;
+}
+
+.new-user-register{
+    margin-top: 30px;
+    font-size: 16px;
+}
+.new-user-register a{
+    color: blue;
+    margin-left: 6px;
+}
+
+@media(max-width: 900px){
+    .signin-container{
+        transform: translateY(36%);
+    }
+}

@@ -1,0 +1,43 @@
+.amzGreen{
+    background-color: #EAEDED;
+}
+
+.greenHeader{
+    border-top: 9px;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-style: solid;
+    border-color: #208C67;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    padding:0 20px;
+    height: 6vh;
+    width: 100%;
+    background-color: white;
+}
+
+.greenHeader button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: #909090;
+}
+.greenHeader h1{
+    color:#208C67;
+    font-weight: 300;
+    font-size: 1.8rem;
+}
+
+.greenHeader img{
+    width: 70px;
+}
+
+.greenProducts{
+    padding: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}

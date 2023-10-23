@@ -1,0 +1,77 @@
+.greenCredits{
+    padding: 2vw 24vw;
+    height: 80vh;
+    background-color: #EAEDED;
+}
+
+.greenCredits h1{
+    font-weight: 300;
+}
+hr{
+    margin-top: 1rem;
+}
+.credits{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.creditsSub p{
+    font-weight: 100;
+    font-style: italic;
+    font-size: 1.2rem;
+}
+
+.creditsContainer{
+    display: flex;
+    padding: 2rem 0;
+    padding: .5rem;
+}
+
+.creditsInfo{
+    padding: 1.5rem;
+    border-radius: 15px;
+    background-color: white;
+    box-sizing: border-box;
+}
+.creditsInfo p{
+    margin-bottom: 8px;
+    color: #868686;
+}
+.creditsInfo h1{
+    margin-bottom: 8px;
+}
+
+.left{
+    width: 50%;
+    height: 100%;
+}
+.left h1{
+    font-size: 1.2rem;
+}
+.credits h1{
+    font-size: 2rem;
+}
+.right{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.right img{
+    width: 100%;
+    height: 100%;
+}
+
+.credits h1{
+    font-weight: 400;
+    font-size: 2.2rem;
+}
+
+.creditsSub h1{
+    font-weight: 600;
+    font-style: italic;
+    font-size: 3rem;
+    color: #208C67;
+}
