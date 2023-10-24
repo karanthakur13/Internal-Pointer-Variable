@@ -43,7 +43,7 @@ const ProductPage = (props) => {
                             <Link to="/" className="back-res">Back to result</Link>
                             <div className="row">
                                 <div className="col-1">
-                                    <img className="large" src={`/productPhoto/${product.product_id}.jpeg`} alt="" />
+                                    <img className="large" src={product.image} alt="" />
                                 </div>
                                 <div className="col-2">
                                     <ul>
@@ -105,9 +105,9 @@ const ProductPage = (props) => {
                                         </ul>
                                     </div>
                                 </div>
-                            </div>
-                            <div className='recommendations'>
-                                {productRecommendation.productRecommendations ? productRecommendation.productRecommendations.map(item => <Product product={item} />) : null}
+                                <div className='recommendations'>
+                                    {productRecommendation.productRecommendations ? productRecommendation.productRecommendations.map(item => <Product product={item} />) : null}
+                                </div>
                             </div>
                         </div>
                     )
