@@ -1,12 +1,13 @@
 .shipping-form-container{
     max-width: 600px;
     margin: auto;
-    transform: translateY(20%);
 }
 
 .continue-btn{
-    background-color: #f0c040;
-    border-radius: 4px;
+    background-color: #FFD812;
+    border-radius: 10px;
+    border-color: #f0c040;
+    border-style: solid;
     display: block;
     width: 100%;
     text-align: center;
