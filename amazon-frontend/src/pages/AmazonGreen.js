@@ -3,20 +3,21 @@ import "../styles/AmazonGreen.css"
 import { useDispatch, useSelector } from "react-redux";
 import Product from "../components/Product";
 import HomePageRow from "../components/HomePageRow";
+import GreenHomePageRow from "../components/GreenHomePageRow";
 
 const AmazonGreen = () => {
 
-    const [category,setCategory] = useState(null);
-    
+    const [category, setCategory] = useState(null);
+
     const data = useSelector(state => state.productList);
-    const {loading,error,products,productListByCategory} = data;
+    const { loading, error, products, productListByCategory } = data;
     const dispatch = useDispatch();
 
 
     const handleClick = (e) => {
-        if(e.target.value == "all"){
+        if (e.target.value == "all") {
             setCategory(null);
-        }else{
+        } else {
             setCategory(e.target.value)
         }
     }
@@ -34,11 +35,11 @@ const AmazonGreen = () => {
                 <button onClick={handleClick} value="computer">Computers</button>
             </div>
             <div className="greenProducts">
-            {productListByCategory?
-                productListByCategory.map((productRow) => {
-                    return <HomePageRow productList={productRow}/>
-                }):null
-            }
+                {productListByCategory ?
+                    productListByCategory.map((productRow) => {
+                        return <GreenHomePageRow productList={productRow} />
+                    }) : null
+                }
             </div>
         </div>
     )

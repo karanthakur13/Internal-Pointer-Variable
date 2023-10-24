@@ -8,6 +8,7 @@ import MessageBox from '../components/MessageBox';
 import { detailsProduct } from '../actions/ProdcutActions';
 import { recommendationsProduct } from '../actions/ProdcutActions';
 import Product from '../components/Product';
+import { Container } from '@material-ui/core';
 
 const ProductPage = (props) => {
 
@@ -105,6 +106,13 @@ const ProductPage = (props) => {
                                         </ul>
                                     </div>
                                 </div>
+                            </div>
+                            <div style={{ "marginLeft": "2vw", "marginRight": '2vw' }}>
+                                <h2>
+                                    Similar Eco-friendly Alternatives
+                                </h2>
+                                <hr />
+
                             </div>
                             <div className='recommendations' width='100vw'>
                                 {productRecommendation.productRecommendations ? productRecommendation.productRecommendations.map(item => <Product product={item} />) : null}

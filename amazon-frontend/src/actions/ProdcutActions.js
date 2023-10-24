@@ -104,7 +104,7 @@ export const recommendationsProduct = (productID) => async (dispatch) => {
         let ecoFriendlyProducts = [];
 
         products.forEach(product => {
-            if (product.greenRating === 0 || product.greenRating === 2) {
+            if ((product.greenRating === 0 || product.greenRating === 2) && (product.product_id !== productID)) {
                 ecoFriendlyProducts.push(product)
             }
         });
