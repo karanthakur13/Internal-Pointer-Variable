@@ -6,11 +6,10 @@ import {
   useContractWrite,
 } from "@thirdweb-dev/react";
 import ethers from "ethers";
-import FormField from "../components/FormField";
-import Loader from "../components/Loader";
-import CustomButton from "../components/CustomButton";
+import FormField from "../../components/FormField";
+import Loader from "../../components/Loader";
 import QrCode from "qrcode";
-import "../styles/BCN.css";
+import "../../styles/BCN.css";
 
 const BlockchainFrontend = () => {
   const { contract } = useContract(

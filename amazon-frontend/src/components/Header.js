@@ -135,6 +135,12 @@ const Header = (props) => {
                                         <li>
                                             <Link to="/addProduct">Add Product</Link>
                                         </li>
+                                        <li>
+                                             <Link to="/manbc">ManBC</Link>
+                                        </li>
+                                        <li>
+                                             <Link to="/supbc">SupBC</Link>
+                                        </li>
                                           
                                     </ul>
                                 </div>

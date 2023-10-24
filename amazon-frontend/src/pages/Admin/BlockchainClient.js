@@ -6,10 +6,10 @@ import {
   useContractWrite,
 } from "@thirdweb-dev/react";
 import ethers from "ethers";
-import FormField from "../components/FormField";
-import Loader from "../components/Loader";
-import CustomButton from "../components/CustomButton";
-import Scanner from "../components/Scanner";
+import FormField from "../../components/FormField";
+import Loader from "../../components/Loader";
+import CustomButton from "../../components/CustomButton";
+import Scanner from "../../components/Scanner";
 
 import QrCode from "qrcode";
 

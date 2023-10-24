@@ -19,8 +19,8 @@ import CategoryBasedPage from "../pages/CategoryBasedPage";
 import AddProduct from "../pages/Admin/AddProduct";
 import GreenCredits from "../pages/GreenCredits";
 import AmazonGreen from "../pages/AmazonGreen";
-import BlockchainFrontend from "../pages/BlockchainFrontend";
-import BlockchainClient from "../pages/BlockchainClient";
+import BlockchainFrontend from "../pages/Admin/BlockchainFrontend";
+import BlockchainClient from "../pages/Admin/BlockchainClient";
 
 const App = () => {
   return (
