@@ -1,13 +1,25 @@
 .home-page-container{
+  position: relative;
     max-width: 1600px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
+.home-products{
+  z-index: 300;
+  position: relative;
+  transform: translateY(-30vh);
+}
 .banner-container{
-  width: 100vw;
+    position: relative;
+    z-index: 1;
+    width: 100vw;
     margin-bottom: 20px;
+}
+.banner-container img{
+  width: 100%;
+  object-fit: contain;
 }
 .banners{
     height: 60vh;

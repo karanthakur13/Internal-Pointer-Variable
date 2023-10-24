@@ -10,6 +10,7 @@ import FormField from "../components/FormField";
 import Loader from "../components/Loader";
 import CustomButton from "../components/CustomButton";
 import Scanner from "../components/Scanner";
+
 import QrCode from "qrcode";
 
 const BlockchainFrontend = () => {
