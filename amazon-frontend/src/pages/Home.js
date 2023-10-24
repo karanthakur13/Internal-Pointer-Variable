@@ -104,7 +104,7 @@ const Home = () => {
 
                 <Slider {...settings2}>
 
-                    {products && products.map((product)=>{
+                    {products && products.slice(0,20).map((product)=>{
                             return(
                                 <Product key={product._id} product={product} /> 
                             )

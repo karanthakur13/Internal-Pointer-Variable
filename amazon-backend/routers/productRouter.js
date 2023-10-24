@@ -3,6 +3,8 @@ import expressAsyncHandler from 'express-async-handler'
 import Product from '../models/productsModel.js'
 import { products } from '../products.js'
 import { spawn } from 'child_process'
+import path, { dirname } from 'path'
+import { log } from 'console'
 
 const productRouter = express.Router();
 
@@ -49,10 +51,11 @@ productRouter.get('/:id', expressAsyncHandler(async (req, res) => {
 
 productRouter.get('/getsimilar/:id', expressAsyncHandler(async (req, res) => {
     const id = req.params.id;
-
-    const pyProg = spawn('python3', ['../script/script.py', id]);
-
+    console.log(id);
+    const pyProg = spawn('python3', [process.cwd()+'/script/script.py', id]);
+    
     pyProg.stdout.on('data', (data) => {
+        console.log(data);
         res.send({ 'topSimilarItems': data.toString() });
     });
 

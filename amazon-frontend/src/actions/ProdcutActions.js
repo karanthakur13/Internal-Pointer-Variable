@@ -47,7 +47,14 @@ export const detailsProduct = (productID) => async (dispatch) =>{
         dispatch({
             type: PRODUCT_DETAILS_SUCCESS,
             payload: data
+        });
+        dispatch({
+            type:PRODUCT_RECOMMENDATIONS_REQUEST,
+            payload:data.product_id
         })
+        console.log(data.product_id);
+        dispatch(recommendationsProduct(data.product_id));
+
     }
     catch(error){
         dispatch({
@@ -90,12 +97,13 @@ export const recommendationsProduct = (productID) => async (dispatch) => {
     })
 
     try{
-        const {data} = await axios.get(`/api/products/recommendations/${productID}`);
+        const {data} = await axios.get(`/api/products/getsimilar/${productID}`);
+        console.log(data);
         //TODO: add recommendations api
         dispatch({
             type: PRODUCT_RECOMMENDATIONS_SUCCESS,
             payload: data
-        })
+        });
     }
     catch(error){
         dispatch({

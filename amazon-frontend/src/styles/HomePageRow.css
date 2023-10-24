@@ -2,6 +2,7 @@
     width: 80vw;
     background-color: white;
     margin-bottom: 25px;
+    overflow-x: scroll;
     padding: 2rem 2rem;
 }
 .products-container h1{

@@ -10,7 +10,7 @@ const HomePageRow = (props) =>{
                     <h1>{props.productList.category}</h1>
                     <hr/> 
                     <div className="products">
-                        {props.productList.products.map((product) =><Product product={product}/>)}
+                        {props.productList.products.slice(0,20).map((product) =><Product product={product}/>)}
                     </div>
                 </div>:null
             }

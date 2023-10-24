@@ -16,20 +16,15 @@ const ProductPage = (props) => {
     
 
     const productDetails = useSelector((state) => state.productDetails);
-    const productRecommendations = useSelector(state => state.productRecommendations);
+    const productRecommendation = useSelector(state => state.productRecommendation);
     const {loading,error,product} = productDetails;
-
-    console.log(product);
 
 
     const [qty, setQty] = useState(1);
 
-
     useEffect(() => {
         dispatch(detailsProduct(productID));
-        dispatch(recommendationsProduct(productID));
     }, [dispatch,productID]);
-
 
 
     const addToCart = () =>{
@@ -56,8 +51,9 @@ const ProductPage = (props) => {
                                 <li className="pd-rating">
                                     <Rating rating={product.rating}
                                     numRev={product.numRev} />
+                                    <img className='greenRating' src={`/Carbon${product.greenRating}.png`}/>
                                 </li>
-                                <li className="pd-price">${product.price}</li>
+                                <li className="pd-price">₹{product.price}</li>
                                 <li className="pd-desc">
                                     Description :
                                     <p>{product.description}</p>
@@ -110,7 +106,7 @@ const ProductPage = (props) => {
                             </div>
                         </div>
                         <div>
-                            {productRecommendations?productRecommendations.map(item => <Product product={item}/>):null}
+                            {productRecommendation.productRecommendations?productRecommendation.productRecommendations.map(item => <Product product={item}/>):null}
                         </div>
                     </div>
                 </div>

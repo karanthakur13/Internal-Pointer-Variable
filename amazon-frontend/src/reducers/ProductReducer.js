@@ -47,7 +47,6 @@ export const prodcutDetailsReducer = (state = {loading: true, product: {}} ,acti
             return {loading: true};
 
         case PRODUCT_DETAILS_SUCCESS:
-            console.log(action.payload.count)
             return {
                 loading: false,
                 product: action.payload
