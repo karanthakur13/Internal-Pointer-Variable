@@ -49,14 +49,26 @@ productRouter.get('/:id', expressAsyncHandler(async (req, res) => {
     }
 }))
 
+
+
+
+
+
+
+
+
 productRouter.get('/getsimilar/:id', expressAsyncHandler(async (req, res) => {
     const id = req.params.id;
-    console.log(id);
-    const pyProg = spawn('python3', [process.cwd()+'/script/script.py', id]);
-    
-    pyProg.stdout.on('data', (data) => {
-        console.log(data);
-        res.send({ 'topSimilarItems': data.toString() });
+    const pyProg = spawn('python3', [process.cwd() + '/script/script.py', id]);
+
+    pyProg.stdout.on('data', async (data) => {
+        console.log(data.toString());
+        let temp = data.toString();
+
+        temp = temp.substring(1, temp.length - 2)
+        const arr = temp.split(',').map(Number);
+        const products = await Product.find({ "product_id": { "$in": arr } });
+        res.send({ data: products });
     });
 
     pyProg.on('close', (code) => {
@@ -66,16 +78,8 @@ productRouter.get('/getsimilar/:id', expressAsyncHandler(async (req, res) => {
             console.log('Python script exited with an error code:', code);
         }
     });
-
 }))
 
-productRouter.post('/getRange',async (req,res) => {
-    let range = req.body.range;
-
-    const products = await Product.find({"product_id":{"$in":range}});
-    console.log(products);
-    res.send({products:products});
-})
 
 
 export default productRouter;

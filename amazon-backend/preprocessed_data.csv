@@ -1,0 +1,1001 @@
+Product Id,Product Name (Relevant company name),Categories,Subcategories,Tags,Keywords,Price in rupees,Ratings,Eco Friendly
+1001,kleenex ultra soft facial tissues kimberly clark,tissue paper,facial tissue,soft gentle absorbent,kleenex facial tissues soft tissues,299.0,4.8,1
+1002,puffs plus lotion facial tissues kimberly clark,tissue paper,facial tissue,soft gentle absorbent lotion,puffs facial tissues soft tissues lotion,349.0,4.7,1
+1003,angel soft facial tissues angel soft,tissue paper,facial tissue,soft gentle absorbent,angel soft facial tissues soft tissues,249.0,4.6,1
+1004,cottonelle facial tissues kimberly clark,tissue paper,facial tissue,soft gentle absorbent,cottonelle facial tissues soft tissues,299.0,4.5,1
+1005,kirkland signature signature facial tissues costco,tissue paper,facial tissue,soft gentle absorbent,kirkland signature facial tissues soft tissues,399.0,4.9,1
+1006,seventh generation facial tissues seventh generation,tissue paper,facial tissue,recycled sustainable eco friendly,seventh generation facial tissues recycled tissues,449.0,4.8,2
+1007,gives crap facial tissues gives crap,tissue paper,facial tissue,recycled sustainable eco friendly bamboo,gives crap facial tissues recycled tissues bamboo tissues,499.0,4.9,2
+1008,bambu facial tissues bambu,tissue paper,facial tissue,sustainable eco friendly bamboo,bambu facial tissues bamboo tissues,499.0,4.8,2
+1009,green forest facial tissues green forest,tissue paper,facial tissue,recycled sustainable eco friendly,green forest facial tissues recycled tissues,449.0,4.7,2
+1010,better life facial tissues better life,tissue paper,facial tissue,sustainable eco friendly chemical free,better life facial tissues chemical free tissues,499.0,4.9,2
+1011,kleenex toilet paper kimberly clark,tissue paper,toilet paper,soft strong absorbent,kleenex toilet paper,399.0,4.8,1
+1012,scott toilet paper kimberly clark,tissue paper,toilet paper,soft strong absorbent,scott toilet paper,299.0,4.7,1
+1013,angel soft toilet paper angel soft,tissue paper,toilet paper,soft strong absorbent,angel soft toilet paper,249.0,4.6,1
+1014,cottonelle toilet paper kimberly clark,tissue paper,toilet paper,soft strong absorbent,cottonelle toilet paper,399.0,4.5,1
+1015,kirkland signature signature toilet paper costco,tissue paper,toilet paper,soft strong absorbent,kirkland signature toilet paper,499.0,4.9,1
+1016,seventh generation toilet paper seventh generation,tissue paper,toilet paper,recycled sustainable eco friendly,seventh generation toilet paper recycled tissues,549.0,4.8,2
+1017,gives crap toilet paper gives crap,tissue paper,toilet paper,recycled sustainable eco friendly bamboo,gives crap toilet paper recycled tissues bamboo tissues,549.0,4.9,2
+1018,bambu toilet paper bambu,tissue paper,toilet paper,sustainable eco friendly bamboo,bambu toilet paper bamboo tissues,549.0,4.8,2
+1019,green forest toilet paper green forest,tissue paper,toilet paper,recycled sustainable eco friendly,green forest toilet paper recycled tissues,549.0,4.7,2
+1020,better life toilet paper better life,tissue paper,toilet paper,sustainable eco friendly chemical free,better life toilet paper chemical free tissues,549.0,4.9,2
+1021,plastic toothbrush colgate,bathroom,oral care,toothbrush,plastic toothbrush toothbrush adults,500.0,4.5,1
+1022,bamboo toothbrush radius,bathroom,oral care,toothbrush,bamboo toothbrush toothbrush adults,600.0,4.7,2
+1023,charcoal toothbrush burst,bathroom,oral care,toothbrush,charcoal toothbrush toothbrush adults,700.0,4.8,2
+1024,electric toothbrush plastic head oral b,bathroom,oral care,electric toothbrush,electric toothbrush plastic head toothbrush adults,1000.0,4.9,1
+1025,electric toothbrush bamboo head philips sonicare,bathroom,oral care,electric toothbrush,electric toothbrush bamboo head toothbrush adults,1200.0,4.9,2
+1026,miswak stick brand,bathroom,oral care,toothbrush,miswak stick natural toothbrush,500.0,4.6,2
+1027,neem stick brand,bathroom,oral care,toothbrush,neem stick natural toothbrush,500.0,4.7,2
+1028,coconut husk brush brand,bathroom,oral care,toothbrush,coconut husk brush natural toothbrush,500.0,4.8,2
+1029,finger brush brand,bathroom,oral care,toothbrush,finger brush natural toothbrush,500.0,4.9,2
+1030,tongue scraper brand,bathroom,oral care,tongue scraper,tongue scraper oral hygiene tool,500.0,4.9,2
+1031,water flosser brand,bathroom,oral care,water flosser,water flosser oral hygiene tool,2000.0,4.8,2
+1032,ultrasonic toothbrush usmile,bathroom,oral care,toothbrush,ultrasonic toothbrush electric toothbrush,4000.0,4.9,1
+1033,uv toothbrush sanitizer steripen,bathroom,oral care,toothbrush sanitizer,uv toothbrush sanitizer toothbrush sterilizer,2000.0,4.8,1
+1034,composable toothbrush head humble brush,bathroom,oral care,toothbrush head,compostable toothbrush head biodegradable toothbrush head,500.0,4.7,2
+1035,recycled toothbrush preserve,bathroom,oral care,toothbrush,recycled toothbrush eco friendly toothbrush,500.0,4.8,2
+1036,electric toothbrush recycled head bissell,bathroom,oral care,electric toothbrush,electric toothbrush recycled head eco friendly electric toothbrush,1500.0,4.9,2
+1037,bamboo toothbrush charcoal bristles burst,bathroom,oral care,toothbrush,bamboo toothbrush charcoal bristles eco friendly toothbrush,600.0,4.7,2
+1038,bamboo toothbrush compostable bristles humble brush,bathroom,oral care,toothbrush,bamboo toothbrush compostable bristles eco friendly toothbrush,700.0,4.8,2
+1039,electric toothbrush bamboo head compostable bristles radius,bathroom,oral care,electric toothbrush,electric toothbrush bamboo head compostable bristles eco friendly electric toothbrush,2000.0,4.9,2
+1040,toothbrush holder recycled materials preserve,bathroom,oral care,toothbrush holder,toothbrush holder recycled materials eco friendly toothbrush holder,1000.0,4.8,2
+1041,south curve laptop stand bamboo,laptop accessories,laptop stands,ergonomic portable adjustable bamboo,laptop stand ergonomic laptop stand portable laptop stand adjustable laptop stand bamboo laptop stand,5999.0,4.8,2
+1042,rain design mstand laptop stand bamboo,laptop accessories,laptop stands,ergonomic sleek durable bamboo,laptop stand ergonomic laptop stand sleek laptop stand durable laptop stand,5999.0,4.7,1
+1043,satechi bamboo laptop stand,laptop accessories,laptop stands,ergonomic minimalist stable bamboo,laptop stand ergonomic laptop stand minimalist laptop stand stable laptop stand,2999.0,4.6,1
+1044,boyata bamboo laptop stand desk,laptop accessories,laptop stands,adjustable foldable portable bamboo,laptop stand adjustable laptop stand foldable laptop stand portable laptop stand,2499.0,4.5,1
+1045,amazon basics bamboo laptop stand,laptop accessories,laptop stands,ergonomic adjustable affordable bamboo,laptop stand ergonomic laptop stand adjustable laptop stand affordable laptop stand bamboo laptop stand,1999.0,4.4,2
+1046,ergonomic laptop stand humanscale bamboo,laptop accessories,laptop stands,ergonomic adjustable height adjustable bamboo,laptop stand ergonomic laptop stand adjustable laptop stand height adjustable laptop stand,6999.0,4.9,2
+1047,laptop stand cooling fan havit bamboo,laptop accessories,laptop stands,cooling adjustable ergonomic bamboo,laptop stand cooling laptop stand adjustable laptop stand ergonomic laptop stand,3499.0,4.8,1
+1048,laptop stand phone holder moko bamboo,laptop accessories,laptop stands,multifunctional adjustable portable bamboo,laptop stand multifunctional laptop stand adjustable laptop stand portable laptop stand bamboo laptop stand,2999.0,4.7,0
+1049,roost laptop stand bamboo,laptop accessories,laptop stands,sustainable adjustable portable bamboo,laptop stand sustainable laptop stand adjustable laptop stand portable laptop stand bamboo laptop stand,6999.0,4.9,2
+1050,nexstand laptop stand bamboo,laptop accessories,laptop stands,foldable portable lightweight bamboo,laptop stand foldable laptop stand portable laptop stand lightweight laptop stand plastic,2499.0,4.6,1
+1051,grovemade wooden laptop stand,laptop accessories,laptop stands,ergonomic sustainable minimalist,laptop stand ergonomic laptop stand sustainable laptop stand minimalist laptop stand,7999.0,4.8,1
+1052,south curve laptop stand walnut,laptop accessories,laptop stands,ergonomic portable adjustable walnut,laptop stand ergonomic laptop stand portable laptop stand adjustable laptop stand,7999.0,4.9,1
+1053,rain design mstand laptop stand walnut,laptop accessories,laptop stands,ergonomic sleek durable walnut,laptop stand ergonomic laptop stand sleek laptop stand durable laptop stand walnut laptop stand,7999.0,4.8,1
+1054,satechi aluminum laptop stand wooden,laptop accessories,laptop stands,ergonomic minimalist stable,laptop stand ergonomic laptop stand minimalist laptop stand stable laptop stand wooden laptop stand,4999.0,4.7,1
+1055,boyata wooden laptop stand desk,laptop accessories,laptop stands,adjustable foldable portable,laptop stand adjustable laptop stand foldable laptop stand portable laptop stand wooden laptop stand,3999.0,4.6,1
+1056,amazon basics wooden laptop stand,laptop accessories,laptop stands,ergonomic adjustable affordable,laptop stand ergonomic laptop stand adjustable laptop stand affordable laptop stand wooden laptop stand,3499.0,4.5,1
+1057,ergonomic laptop stand humanscale wood,laptop accessories,laptop stands,ergonomic adjustable height adjustable,laptop stand ergonomic laptop stand adjustable laptop stand height adjustable laptop stand wooden laptop stand,9999.0,4.9,1
+1058,laptop stand cooling fan havit wood,laptop accessories,laptop stands,cooling adjustable ergonomic,laptop stand cooling laptop stand adjustable laptop stand ergonomic laptop stand wooden laptop stand,4999.0,4.8,2
+1059,laptop stand phone holder moko wood,laptop accessories,laptop stands,multifunctional adjustable portable,laptop stand multifunctional laptop stand adjustable laptop stand portable laptop stand wooden laptop stand,4499.0,4.7,2
+1060,roost laptop stand wood,laptop accessories,laptop stands,sustainable adjustable portable,laptop stand sustainable laptop stand adjustable laptop stand portable laptop stand wooden laptop stand,9999.0,4.9,2
+1061,cotton towel white towel company,bathroom,towels,cotton towel bath towel hand towel face towel,cotton towel bath hand face,100.0,4.5,1
+1062,bamboo towel cariloha,bathroom,towels,bamboo towel bath towel hand towel face towel,bamboo towel bath hand face,120.0,4.7,2
+1063,microfiber towel amazon basics,bathroom,towels,microfiber towel bath towel hand towel face towel,microfiber towel bath hand face,150.0,4.8,2
+1064,linen towel parachute home,bathroom,towels,linen towel bath towel hand towel face towel,linen towel bath hand face,200.0,4.9,2
+1065,turkish towel peshtemal,bathroom,towels,turkish towel peshtemal bath towel hand towel face towel,turkish cotton towel bath hand face,250.0,4.9,2
+1066,recycled cotton towel retowels,bathroom,towels,recycled cotton towel bath towel hand towel face towel,recycled cotton towel bath hand face,300.0,4.9,2
+1067,organic cotton towel coyuchi,bathroom,towels,organic cotton towel bath towel hand towel face towel,organic cotton towel bath hand face,350.0,4.9,2
+1068,hemp towel tencel,bathroom,towels,hemp towel bath towel hand towel face towel,hemp towel bath hand face,400.0,4.9,2
+1069,bamboo hooded towel keababies,bathroom,towels,bamboo hooded towel bath towel baby towel,bamboo towel bath baby hooded,450.0,4.9,2
+1070,microfiber hair towel aquis,bathroom,towels,microfiber hair towel hair towel turban,microfiber towel hair turban,500.0,4.9,2
+1071,linen table runner parachute home,kitchen,towels,linen table runner,linen table runner,550.0,4.9,2
+1072,cotton dish towel white towel company,kitchen,towels,cotton dish towel dish towel kitchen towel,cotton towel dish kitchen,600.0,4.5,1
+1073,bamboo dish towel cariloha,kitchen,towels,bamboo dish towel dish towel kitchen towel,bamboo towel dish kitchen,650.0,4.7,2
+1074,microfiber dish towel amazon basics,kitchen,towels,microfiber dish towel dish towel kitchen towel,microfiber towel dish kitchen,700.0,4.8,2
+1075,linen kitchen towel parachute home,kitchen,towels,linen kitchen towel kitchen towel,linen towel kitchen,750.0,4.9,2
+1076,recycled cotton dish towel retowels,kitchen,towels,recycled cotton dish towel dish towel kitchen towel,recycled cotton towel dish kitchen,800.0,4.9,2
+1077,organic cotton dish towel coyuchi,kitchen,towels,organic cotton dish towel dish towel kitchen towel,organic cotton towel dish kitchen,850.0,4.9,2
+1078,hemp kitchen towel tencel,kitchen,towels,hemp kitchen towel kitchen towel,hemp towel kitchen,900.0,4.9,2
+1079,bamboo bar towel cariloha,kitchen,towels,bamboo bar towel bar towel cocktail towel,bamboo towel bar cocktail,950.0,4.9,2
+1080,microfiber cleaning cloth amazon basics,household,cleaning cloths,microfiber cleaning cloth cleaning cloth purpose cloth,microfiber cloth cleaning purpose,1000.0,4.8,2
+1081,dining chair ikea,furniture,chairs,dining chair kitchen chair modern chair,chair dining kitchen modern ikea,500.0,4.5,1
+1082,office chair herman miller,furniture,chairs,office chair ergonomic chair task chair,chair office ergonomic task herman miller,1000.0,4.7,1
+1083,gaming chair secretlab,furniture,chairs,gaming chair racing chair computer chair,chair gaming racing computer secretlab,1500.0,4.8,1
+1084,rocking chair glider,furniture,chairs,rocking chair glider nursery chair,chair rocking glider nursery,2000.0,4.9,1
+1085,bean bag chair lovesac,furniture,chairs,bean bag chair sac chair floor chair,chair bean bag sac floor lovesac,2500.0,4.9,1
+1086,hammock chair eno,furniture,chairs,hammock chair hanging chair swing chair,chair hammock hanging swing eno,3000.0,4.9,1
+1087,floor pillow urban outfitters,furniture,chairs,floor pillow floor cushion meditation pillow,pillow floor cushion meditation urban outfitters,3500.0,4.9,1
+1088,adirondack chair home depot,furniture,chairs,adirondack chair outdoor chair lawn chair,chair adirondack outdoor lawn home depot,4000.0,4.9,1
+1089,folding chair walmart,furniture,chairs,folding chair portable chair camp chair,chair folding portable camp walmart,4500.0,4.9,1
+1090,chaise lounge target,furniture,chairs,chaise lounge lounge chair outdoor chair,chair chaise lounge lounge outdoor target,5000.0,4.9,1
+1091,bench ikea,furniture,chairs,bench outdoor bench indoor bench,chair bench outdoor indoor ikea,5500.0,4.9,1
+1092,stool west elm,furniture,chairs,stool counter stool bar stool,chair stool counter bar west elm,6000.0,4.9,1
+1093,ottoman anthropologie,furniture,chairs,ottoman footstool pouf,chair ottoman footstool pouf anthropologie,6500.0,4.9,1
+1094,adirondack chair recycled plastic polywood,furniture,chairs,adirondack chair outdoor chair lawn chair recycled plastic chair,chair adirondack outdoor lawn recycled plastic polywood,7000.0,4.9,2
+1095,folding chair bamboo serenelife,furniture,chairs,folding chair portable chair camp chair bamboo chair,chair folding portable camp bamboo serenelife,7500.0,4.9,2
+1096,chaise lounge sustainable wood teak,furniture,chairs,chaise lounge lounge chair outdoor chair sustainable wood chair,chair chaise lounge lounge outdoor sustainable wood teak,8000.0,4.9,2
+1097,bench recycled materials renew,furniture,chairs,bench outdoor bench indoor bench recycled materials chair,chair bench outdoor indoor recycled materials renew,8500.0,4.9,2
+1098,stool sustainable bamboo bambu,furniture,chairs,stool counter stool bar stool bamboo chair,chair stool counter bar bamboo bambu,9000.0,4.9,2
+1099,ottoman organic cotton coyuchi,furniture,chairs,ottoman footstool pouf organic cotton chair,chair ottoman footstool pouf organic cotton coyuchi,9500.0,4.9,2
+1100,rocking chair reclaimed wood rustic,furniture,chairs,rocking chair glider nursery chair reclaimed wood chair,chair rocking glider nursery reclaimed wood rustic,10000.0,4.9,2
+1101,casper original mattress,mattresses,memory foam,soft medium firm,casper memory foam mattress original mattress,1099.0,4.7,1
+1102,purple mattress,mattresses,memory foam,medium firm,purple memory foam mattress,1299.0,4.8,1
+1103,nectar mattress,mattresses,memory foam,medium firm,nectar memory foam mattress,999.0,4.6,1
+1104,saatva mattress,mattresses,hybrid,medium firm,saatva hybrid mattress,1399.0,4.9,1
+1105,tuft needle mattress,mattresses,memory foam,medium,tuft needle memory foam mattress,799.0,4.5,1
+1106,avocado green mattress,mattresses,natural latex,medium firm,avocado natural latex mattress green mattress,1599.0,4.9,2
+1107,birch mattress,mattresses,natural latex,medium firm,birch natural latex mattress,1399.0,4.8,2
+1108,winkbed mattress,mattresses,hybrid,medium firm,winkbed hybrid mattress,1799.0,4.9,1
+1109,helix mattress,mattresses,hybrid,medium firm,helix hybrid mattress,1199.0,4.7,1
+1110,layla mattress,mattresses,memory foam,medium firm,layla memory foam mattress,1499.0,4.8,1
+1111,naturepedic organic mattress,mattresses,natural latex,medium firm,naturepedic organic mattress natural latex mattress,1699.0,4.9,2
+1112,futon shop natural cotton futon,mattresses,organic cotton,medium firm,futon shop natural cotton futon organic cotton mattress,699.0,4.7,2
+1113,green mattress,mattresses,natural latex,medium firm,green mattress natural latex mattress,1499.0,4.8,2
+1114,essentia mattress,mattresses,natural talalay latex,medium firm,essentia natural talalay latex mattress,2099.0,4.9,2
+1115,eco terra mattress,mattresses,natural latex,medium firm,eco terra natural latex mattress,1399.0,4.8,2
+1116,plumen mattress,mattresses,natural latex,medium firm,plumen natural latex mattress,1199.0,4.7,2
+1117,birch natural mattress,mattresses,natural talalay latex,medium firm,birch natural talalay latex mattress,1499.0,4.9,2
+1118,zenhaven mattress,mattresses,natural latex,medium firm,zenhaven natural latex mattress,2299.0,4.9,2
+1119,saatva loom leaf mattress,mattresses,hybrid,medium firm,saatva loom leaf mattress hybrid mattress,2199.0,4.9,1
+1120,winkbed ecocloud mattress,mattresses,hybrid,medium firm,winkbed ecocloud mattress hybrid mattress,2099.0,4.9,1
+1121,dining table ikea,furniture,tables,dining table kitchen table,table dining kitchen ikea,500.0,4.5,1
+1122,coffee table west elm,furniture,tables,coffee table living room table,table coffee living room west elm,1000.0,4.7,1
+1123,end table target,furniture,tables,end table nightstand,table end nightstand target,1500.0,4.8,1
+1124,desk ikea,furniture,tables,desk office desk computer desk,table desk office computer ikea,2000.0,4.9,1
+1125,folding table walmart,furniture,tables,folding table portable table camp table,table folding portable camp walmart,2500.0,4.9,1
+1126,picnic table home depot,furniture,tables,picnic table outdoor table,table picnic outdoor home depot,3000.0,4.9,1
+1127,console table anthropologie,furniture,tables,console table entryway table,table console entryway anthropologie,3500.0,4.9,1
+1128,coffee table recycled wood polywood,furniture,tables,coffee table living room table recycled wood table,table coffee living room recycled wood polywood,4000.0,4.9,2
+1129,end table bamboo serenelife,furniture,tables,end table nightstand bamboo table,table end nightstand bamboo serenelife,4500.0,4.9,2
+1130,desk sustainable wood teak,furniture,tables,desk office desk computer desk sustainable wood table,table desk office computer sustainable wood teak,5000.0,4.9,2
+1131,folding table recycled materials renew,furniture,tables,folding table portable table camp table recycled materials table,table folding portable camp recycled materials renew,5500.0,4.9,2
+1132,picnic table sustainable bamboo bambu,furniture,tables,picnic table outdoor table sustainable bamboo table,table picnic outdoor sustainable bamboo bambu,6000.0,4.9,2
+1133,console table reclaimed wood rustic,furniture,tables,console table entryway table reclaimed wood table,table console entryway reclaimed wood rustic,6500.0,4.9,2
+1134,adjustable height table ikea,furniture,tables,adjustable height table standing desk,table adjustable height standing desk ikea,7000.0,4.9,1
+1135,nest tables west elm,furniture,tables,nest tables coffee table end table,table nest tables coffee table end table west elm,7500.0,4.9,1
+1136,writing desk recycled materials renew,furniture,tables,writing desk study table recycled materials table,table writing study recycled materials renew,8000.0,4.9,2
+1137,laptop table bamboo serenelife,furniture,tables,laptop table bed tray bamboo table,table laptop bed tray bamboo serenelife,8500.0,4.9,2
+1138,tv stand sustainable wood teak,furniture,tables,tv stand entertainment center sustainable wood table,table tv stand entertainment center sustainable wood teak,9000.0,4.9,2
+1139,nightstand reclaimed wood rustic,furniture,tables,nightstand end table reclaimed wood table,table nightstand end table reclaimed wood rustic,9500.0,4.9,2
+1140,coffee table storage recycled materials renew,furniture,tables,coffee table storage storage table recycled materials table,table coffee table storage table recycled materials renew,10000.0,4.9,2
+1141,handmade moroccan wool rug rug company,rugs,area rugs,moroccan wool handmade,rug area rug moroccan rug wool rug handmade rug,29999.0,4.5,2
+1142,modern shag rug ikea,rugs,area rugs,shag modern,rug area rug shag rug modern rug,19999.0,4.7,1
+1143,outdoor rug wayfair,rugs,outdoor rugs,outdoor plastic,rug outdoor rug plastic rug,9999.0,4.3,1
+1144,vintage persian rug 1stdibs,rugs,area rugs,persian vintage,rug area rug persian rug vintage rug,49999.0,4.9,1
+1145,braided jute rug pottery barn,rugs,area rugs,natural fiber braided,rug area rug natural fiber rug braided rug,14999.0,4.4,2
+1146,moroccan trellis rug west elm,rugs,area rugs,moroccan trellis,rug area rug moroccan rug trellis rug,34999.0,4.6,1
+1147,contemporary abstract rug cb2,rugs,area rugs,contemporary abstract,rug area rug contemporary rug abstract rug,24999.0,4.8,0
+1148,geometric rug rugs usa,rugs,area rugs,geometric,rug area rug geometric rug,39999.0,4.5,1
+1149,traditional floral rug overstock,rugs,area rugs,traditional floral,rug area rug traditional rug floral rug,49999.0,4.9,0
+1150,kids rug ruggable,rugs,kids rugs,playroom bedroom,rug kids rug playroom rug bedroom rug,19999.0,4.7,2
+1151,kilim rug pottery barn,rugs,area rugs,kilim wool,rug area rug kilim rug wool rug,39999.0,4.5,2
+1152,dhurrie rug west elm,rugs,area rugs,dhurrie cotton,rug area rug dhurrie rug cotton rug,19999.0,4.7,0
+1153,jute rug cb2,rugs,area rugs,natural fiber jute,rug area rug natural fiber rug jute rug,24999.0,4.8,2
+1154,moroccan pom pom rug rugs usa,rugs,area rugs,moroccan pom pom,rug area rug moroccan rug pom pom rug,14999.0,4.4,1
+1155,overstock traditional persian rug,rugs,area rugs,traditional persian,rug area rug traditional rug persian rug,49999.0,4.9,0
+1156,ruggable kids playroom rug,rugs,kids rugs,playroom colorful,rug kids rug playroom rug colorful rug,19999.0,4.7,2
+1157,wool rug ikea,rugs,area rugs,wool,rug area rug wool rug,39999.0,4.5,1
+1158,cotton rug wayfair,rugs,area rugs,cotton,rug area rug cotton rug,19999.0,4.7,0
+1159,synthetic rug overstock,rugs,area rugs,synthetic,rug area rug synthetic rug,24999.0,4.8,1
+1160,outdoor rug ruggable,rugs,outdoor rugs,outdoor durable,rug outdoor rug durable rug,14999.0,4.4,1
+1161,iphone se 2023 apple,mobile,smartphone,iphone se 2023 apple smartphone budget smartphone,smartphone iphone apple budget,40000.0,4.7,0
+1162,pixel 6a google,mobile,smartphone,pixel 6a google smartphone budget smartphone,smartphone pixel google budget,40000.0,4.3,0
+1163,nord ce 3 oneplus,mobile,smartphone,nord ce 3 oneplus smartphone budget smartphone,smartphone nord oneplus budget,40000.0,4.6,0
+1164,galaxy a23 5g samsung,mobile,smartphone,galaxy a23 5g samsung smartphone budget smartphone,smartphone galaxy samsung budget,40000.0,4.5,0
+1165,redmi 11 prime 5g xiaomi,mobile,smartphone,redmi 11 prime 5g xiaomi smartphone budget smartphone,smartphone redmi xiaomi budget,30000.0,4.2,1
+1166,realme 9i 5g realme,mobile,smartphone,realme 9i 5g realme smartphone budget smartphone,smartphone realme budget,30000.0,4.2,1
+1167,poco m4 pro xiaomi,mobile,smartphone,poco m4 pro xiaomi smartphone budget smartphone,smartphone poco xiaomi budget,30000.0,4.3,1
+1168,moto g71 5g motorola,mobile,smartphone,moto g71 5g motorola smartphone budget smartphone,smartphone moto motorola budget,30000.0,4.4,1
+1169,nokia g60 5g nokia,mobile,smartphone,nokia g60 5g nokia smartphone budget smartphone,smartphone nokia budget,30000.0,4.4,1
+1170,redmi 11 note 5g xiaomi,mobile,smartphone,redmi 11 note 5g xiaomi smartphone mid range smartphone,smartphone redmi xiaomi mid range,40000.0,4.1,1
+1171,realme 9 pro 5g realme,mobile,smartphone,realme 9 pro 5g realme smartphone mid range smartphone,smartphone realme mid range,40000.0,4.1,1
+1172,poco f4 gt xiaomi,mobile,smartphone,poco f4 gt xiaomi smartphone mid range smartphone,smartphone poco xiaomi mid range,40000.0,4.2,1
+1173,moto g82 5g motorola,mobile,smartphone,moto g82 5g motorola smartphone mid range smartphone,smartphone moto motorola mid range,40000.0,4.3,1
+1174,redmi note 11 pro 5g xiaomi,mobile,smartphone,redmi note 11 pro 5g xiaomi smartphone mid range smartphone,smartphone redmi xiaomi mid range,40000.0,4.4,1
+1175,realme gt neo 3t realme,mobile,smartphone,realme gt neo 3t realme smartphone mid range smartphone,smartphone realme gt neo 3t mid range,40000.0,4.5,1
+1176,poco x4 gt xiaomi,mobile,smartphone,poco x4 gt xiaomi smartphone mid range smartphone,smartphone poco xiaomi mid range,40000.0,4.5,1
+1177,moto edge 30 pro motorola,mobile,smartphone,moto edge 30 pro motorola smartphone mid range smartphone,smartphone moto edge 30 pro mid range,40000.0,4.3,1
+1178,nokia xr20 nokia,mobile,smartphone,nokia xr20 nokia smartphone rugged smartphone,smartphone nokia xr20 rugged,40000.0,4.2,1
+1179,iphone 14 apple,mobile,smartphone,iphone 14 apple smartphone flagship smartphone,smartphone iphone apple flagship,100000.0,4.8,0
+1180,oneplus 11 pro oneplus,mobile,smartphone,oneplus 11 pro oneplus smartphone flagship smartphone,smartphone oneplus 11 pro flagship,80000.0,4.7,0
+1181,rocketbook recycled paper spiral notebook,notebooks,recycled notebooks,spiral bound college ruled 100 pages,notebook recycled notebook spiral notebook college ruled notebook 100 pages,199.0,4.5,2
+1182,moleskine digital notebook,notebooks,digital notebooks,blank 200 pages,notebook digital notebook blank notebook 200 pages,399.0,4.7,0
+1183,moleskine smart notebook,notebooks,smart notebooks,blank 200 pages,notebook smart notebook blank notebook 200 pages,399.0,4.7,0
+1184,mead recycled paper composition notebook,notebooks,recycled notebooks,composition bound wide ruled 200 pages,notebook recycled notebook composition notebook wide ruled notebook 200 pages,149.0,4.7,2
+1185,day digital journal,notebooks,digital journals,blank 200 pages,notebook digital journal blank journal 200 pages,299.0,4.8,0
+1186,evernote smart journal,notebooks,smart journals,blank 200 pages,notebook smart journal blank journal 200 pages,299.0,4.8,0
+1187,strathmore recycled paper sketchbook,notebooks,recycled notebooks,sketchbook blank 100 pages,notebook recycled notebook sketchbook blank sketchbook 100 pages,249.0,4.5,2
+1188,procreate digital sketchbook,notebooks,digital sketchbooks,blank 100 pages,notebook digital sketchbook blank sketchbook 100 pages,199.0,4.7,0
+1189,leuchtturm1917 hardcover notebook,notebooks,hardcover notebooks,dot grid 251 pages,notebook hardcover notebook dot grid notebook 251 pages,499.0,4.7,1
+1190,field notes travel notebook,notebooks,travel notebooks,lined 48 pages,notebook travel notebook lined notebook 48 pages,199.0,4.8,2
+1191,rocketbook recycled paper spiral notebook executive ruled,notebooks,recycled notebooks,spiral bound executive ruled 80 pages,notebook recycled notebook spiral notebook executive ruled notebook 80 pages,199.0,4.5,2
+1192,moleskine digital notebook evernote,notebooks,digital notebooks,blank 200 pages,notebook digital notebook evernote blank notebook 200 pages,399.0,4.7,0
+1193,sony digital paper dpt rp1,notebooks,digital notebooks,blank 13 3 inches,notebook digital notebook sony digital paper dpt rp1 blank notebook 13 3 inches,39999.0,4.9,0
+1194,remarkable paper tablet,notebooks,digital notebooks,blank 10 3 inches,notebook digital notebook remarkable paper tablet blank notebook 10 3 inches,29999.0,4.8,0
+1195,likebook mars smart notebook,notebooks,smart notebooks,blank 10 3 inches,notebook smart notebook likebook mars smart notebook blank notebook 10 3 inches,19999.0,4.7,0
+1196,rocketbook flip reusable notebook,notebooks,reusable notebooks,spiral bound college ruled 80 pages,notebook reusable notebook spiral notebook college ruled notebook 80 pages,299.0,4.8,2
+1197,moleskine cahier journal,notebooks,classic notebooks,plain 80 pages,notebook classic notebook cahier journal plain notebook 80 pages,499.0,4.9,1
+1198,leuchtturm1917 master dot grid notebook,notebooks,dot grid notebooks,dot grid 251 pages,notebook dot grid notebook master dot grid notebook 251 pages,599.0,4.9,1
+1199,field notes expedition notebook,notebooks,field notebooks,lined 48 pages,notebook field notebook expedition notebook lined notebook 48 pages,199.0,4.8,2
+1200,midori traveler s notebook passport size,notebooks,traveler s notebooks,plain 64 pages,notebook traveler s notebook passport size plain notebook 64 pages,1999.0,4.9,1
+1201,glass bottle brand,beverage,bottle,glass bottle reusable bottle,bottle glass reusable,100.0,4.9,2
+1202,ceramic bottle brand,beverage,bottle,ceramic bottle reusable bottle,bottle ceramic reusable,120.0,4.9,2
+1203,stainless steel bottle brand,beverage,bottle,stainless steel bottle reusable bottle,bottle stainless steel reusable,150.0,4.9,2
+1204,plant based plastic bottle brand,beverage,bottle,plant based plastic bottle reusable bottle,bottle plant based plastic reusable,180.0,4.9,2
+1205,boxed water bottle brand,beverage,bottle,boxed water bottle paper bottle,bottle boxed water paper,200.0,4.9,1
+1206,brita filter bottle,beverage,bottle,filter bottle water filter bottle,bottle filter water filter,250.0,4.9,2
+1207,s bottle,beverage,bottle,insulated bottle stainless steel bottle,bottle insulated stainless steel,300.0,4.9,2
+1208,hydro flask bottle,beverage,bottle,insulated bottle stainless steel bottle,bottle insulated stainless steel,350.0,4.9,2
+1209,klean kanteen bottle,beverage,bottle,stainless steel bottle reusable bottle,bottle stainless steel reusable,400.0,4.9,2
+1210,lifestraw water bottle filter,beverage,bottle,filter bottle water filter bottle,bottle filter water filter,450.0,4.9,1
+1211,binchotan activated charcoal water bottle,beverage,bottle,water bottle filter activated charcoal water bottle,bottle filter activated charcoal,500.0,4.9,2
+1212,thermos insulated water bottle,beverage,bottle,insulated bottle stainless steel bottle,bottle insulated stainless steel,550.0,4.9,2
+1213,yeti rambler water bottle,beverage,bottle,insulated bottle stainless steel bottle,bottle insulated stainless steel,600.0,4.9,2
+1214,contigo autoseal water bottle,beverage,bottle,spill proof water bottle leak proof water bottle,bottle spill proof leak proof,650.0,4.9,1
+1215,camelbak eddy water bottle,beverage,bottle,bite valve water bottle sports water bottle,bottle bite valve sports,700.0,4.9,1
+1216,nalgene water bottle,beverage,bottle,durable water bottle reusable water bottle,bottle durable reusable,750.0,4.9,2
+1217,cove bpa free reusable bottle,beverage,bottle,reusable bottle bpa free bottle cove bottle,bottle reusable bpa free cove,300.0,4.9,2
+1218,larq self cleaning bottle,beverage,bottle,reusable bottle self cleaning water bottle,bottle reusable self cleaning,950.0,4.9,2
+1219,single use plastic water bottle,beverage,bottle,disposable water bottle plastic water bottle,bottle disposable plastic,10.0,4.9,0
+1220,single use aluminum water bottle,beverage,bottle,disposable water bottle aluminum water bottle,bottle disposable aluminum,150.0,4.9,0
+1221,stainless steel fruit basket amazon basics,home kitchen,cookware dining,fruit baskets,fruit basket stainless steel fruit basket kitchen fruit basket fruit bowl,1499.0,4.5,0
+1222,plastic fruit basket sterilite,home kitchen,cookware dining,fruit baskets,fruit basket plastic fruit basket kitchen fruit basket fruit bowl,999.0,4.2,1
+1223,wooden fruit basket handmade,home kitchen,cookware dining,fruit baskets,fruit basket wooden fruit basket kitchen fruit basket fruit bowl,2299.0,4.7,2
+1224,bamboo fruit basket wayfair,home kitchen,cookware dining,fruit baskets,fruit basket bamboo fruit basket kitchen fruit basket fruit bowl,1999.0,4.4,2
+1225,recycled plastic fruit basket eco products,home kitchen,cookware dining,fruit baskets,fruit basket recycled plastic fruit basket kitchen fruit basket fruit bowl,1299.0,4.3,2
+1226,leaf fruit basket handmade,home kitchen,cookware dining,fruit baskets,fruit basket leaf fruit basket kitchen fruit basket fruit bowl,2999.0,4.8,2
+1227,steel fruit basket oxo good grips,home kitchen,cookware dining,fruit baskets,fruit basket steel fruit basket kitchen fruit basket fruit bowl,1999.0,4.6,0
+1228,plastic fruit basket rubbermaid,home kitchen,cookware dining,fruit baskets,fruit basket plastic fruit basket kitchen fruit basket fruit bowl,1199.0,4.1,1
+1229,wooden fruit basket williams sonoma,home kitchen,cookware dining,fruit baskets,fruit basket wooden fruit basket kitchen fruit basket fruit bowl,2999.0,4.8,2
+1230,bamboo fruit basket ikea,home kitchen,cookware dining,fruit baskets,fruit basket bamboo fruit basket kitchen fruit basket fruit bowl,1499.0,4.4,2
+1231,ceramic fruit basket crate barrel,home kitchen,cookware dining,fruit baskets,fruit basket ceramic fruit basket kitchen fruit basket fruit bowl,2499.0,4.7,2
+1232,glass fruit basket ikea,home kitchen,cookware dining,fruit baskets,fruit basket glass fruit basket kitchen fruit basket fruit bowl,1999.0,4.5,2
+1233,wicker fruit basket world market,home kitchen,cookware dining,fruit baskets,fruit basket wicker fruit basket kitchen fruit basket fruit bowl,2999.0,4.8,2
+1234,wire fruit basket amazon basics,home kitchen,cookware dining,fruit baskets,fruit basket wire fruit basket kitchen fruit basket fruit bowl,1499.0,4.4,2
+1235,metal fruit basket target,home kitchen,cookware dining,fruit baskets,fruit basket metal fruit basket kitchen fruit basket fruit bowl,1999.0,4.6,1
+1236,stone fruit basket williams sonoma,home kitchen,cookware dining,fruit baskets,fruit basket stone fruit basket kitchen fruit basket fruit bowl,3999.0,4.9,2
+1237,acrylic fruit basket container store,home kitchen,cookware dining,fruit baskets,fruit basket acrylic fruit basket kitchen fruit basket fruit bowl,2499.0,4.7,2
+1238,paper mache fruit basket handmade,home kitchen,cookware dining,fruit baskets,fruit basket paper mache fruit basket kitchen fruit basket fruit bowl,1999.0,4.5,2
+1239,straw fruit basket handmade,home kitchen,cookware dining,fruit baskets,fruit basket straw fruit basket kitchen fruit basket fruit bowl,2999.0,4.8,2
+1240,corn husk fruit basket handmade,home kitchen,cookware dining,fruit baskets,fruit basket corn husk fruit basket kitchen fruit basket fruit bowl,2499.0,4.7,2
+1241,sprout pencil,writing office supplies,pen,plantable pencil sprout pencil eco friendly pencil,pencil plantable sprout eco friendly,20.0,4.9,2
+1242,onyx green bamboo ballpoint pen,writing office supplies,pen,bamboo pen eco friendly pen onyx green pen,pen bamboo eco friendly onyx green,30.0,4.9,2
+1243,simply genius recycled paper pen,writing office supplies,pen,recycled paper pen eco friendly pen simply genius pen,pen recycled paper eco friendly simply genius,40.0,4.9,2
+1244,pilot g2 refillable gel pen,writing office supplies,pen,gel pen refillable pen pilot g2 pen,pen gel refillable pilot g2,50.0,4.9,2
+1245,lamy safari fountain pen,writing office supplies,pen,fountain pen lamy safari pen eco friendly pen,pen fountain lamy safari eco friendly,200.0,4.9,2
+1246,twsbi eco fountain pen,writing office supplies,pen,fountain pen twsbi eco pen eco friendly pen,pen fountain twsbi eco eco friendly,300.0,4.9,2
+1247,kaweco perkeo fountain pen,writing office supplies,pen,fountain pen kaweco perkeo pen eco friendly pen,pen fountain kaweco perkeo eco friendly,250.0,4.9,2
+1248,pentel energel gel pen,writing office supplies,pen,gel pen,pen gel pentel energel,25.0,4.9,1
+1249,pilot metropolitan fountain pen,writing office supplies,pen,fountain pen,pen fountain pilot metropolitan,150.0,4.9,1
+1250,jinhao shark fountain pen,writing office supplies,pen,fountain pen,pen fountain jinhao shark,100.0,4.9,1
+1251,uni ball signo rt gel pen,writing office supplies,pen,gel pen,pen gel uni ball signo rt,20.0,4.9,1
+1252,bic cristal xtra bold ballpoint pen,writing office supplies,pen,ballpoint pen,pen ballpoint bic cristal xtra bold,7.5,4.9,0
+1253,sharpie fine point permanent marker,writing office supplies,pen,permanent marker,pen permanent marker sharpie fine point,15.0,4.9,0
+1254,paper mate inkjoy gel pen,writing office supplies,pen,gel pen,pen gel paper mate inkjoy,15.0,4.9,0
+1255,pilot precise v5 rt rolling ball pen,writing office supplies,pen,rolling ball pen,pen rolling ball pilot precise v5 rt,15.0,4.9,0
+1256,pilot acroball 0 7mm ballpoint pen,writing office supplies,pen,ballpoint pen,pen ballpoint pilot acroball 0 7mm,7.5,4.9,0
+1257,zebra mildliner highlighter,writing office supplies,pen,highlighter,highlighter zebra mildliner,20.0,4.9,1
+1258,crayola super tips washable marker,writing office supplies,pen,marker,marker crayola super tips washable,15.0,4.9,0
+1259,sharpie retractable fine point permanent marker,writing office supplies,pen,permanent marker,pen permanent marker sharpie retractable fine point,25.0,4.9,0
+1260,paper mate flair m felt tip pen,writing office supplies,pen,felt tip pen,pen felt tip paper mate flair m,15.0,4.9,0
+1261,ceramic dinner plate corelle,home kitchen,cookware dining,plates,ceramic plate dinner plate kitchen plate,999.0,4.7,2
+1262,glass dinner plate ikea,home kitchen,cookware dining,plates,glass plate dinner plate kitchen plate,799.0,4.5,2
+1263,porcelain dinner plate lenox,home kitchen,cookware dining,plates,porcelain plate dinner plate kitchen plate,1499.0,4.8,2
+1264,melamine dinner plate unbreakable kitchenware,home kitchen,cookware dining,plates,melamine plate dinner plate kitchen plate,499.0,4.4,1
+1265,plastic dinner plate corelle,home kitchen,cookware dining,plates,plastic plate dinner plate kitchen plate,399.0,4.1,1
+1266,bamboo dinner plate world market,home kitchen,cookware dining,plates,bamboo plate dinner plate kitchen plate,699.0,4.3,2
+1267,wooden dinner plate handmade,home kitchen,cookware dining,plates,wooden plate dinner plate kitchen plate,999.0,4.6,2
+1268,ceramic plate corelle,home kitchen,cookware dining,plates,ceramic plate plate kitchen plate,499.0,4.7,2
+1269,glass plate ikea,home kitchen,cookware dining,plates,glass plate plate kitchen plate,399.0,4.5,2
+1270,porcelain plate lenox,home kitchen,cookware dining,plates,porcelain plate plate kitchen plate,999.0,4.8,2
+1271,melamine plate unbreakable kitchenware,home kitchen,cookware dining,plates,melamine plate plate kitchen plate,399.0,4.4,1
+1272,plastic plate corelle,home kitchen,cookware dining,plates,plastic plate plate kitchen plate,299.0,4.1,1
+1273,bamboo plate world market,home kitchen,cookware dining,plates,bamboo plate plate kitchen plate,499.0,4.3,2
+1274,wooden plate handmade,home kitchen,cookware dining,plates,wooden plate plate kitchen plate,699.0,4.6,2
+1275,ceramic dessert plate corelle,home kitchen,cookware dining,plates,ceramic plate dessert plate kitchen plate,399.0,4.7,2
+1276,porcelain dessert plate lenox,home kitchen,cookware dining,plates,ceramic plate dessert plate kitchen plate,799.0,4.8,2
+1277,melamine dessert plate unbreakable kitchenware,home kitchen,cookware dining,plates,melamine plate dessert plate kitchen plate,299.0,4.4,1
+1278,plastic dessert plate corelle,home kitchen,cookware dining,plates,plastic plate dessert plate kitchen plate,199.0,4.1,1
+1279,bamboo dessert plate world market,home kitchen,cookware dining,plates,bamboo plate dessert plate kitchen plate,399.0,4.3,2
+1280,wooden dessert plate handmade,home kitchen,cookware dining,plates,wooden plate dessert plate kitchen plate,499.0,4.6,2
+1281,stainless steel straw,beverage,straw,reusable straw metal straw stainless steel straw,straw reusable metal stainless steel,50.0,4.9,0
+1282,bamboo straw,beverage,straw,reusable straw natural straw bamboo straw,straw reusable natural bamboo,30.0,4.9,0
+1283,glass straw,beverage,straw,reusable straw glass straw,straw reusable glass,40.0,4.9,0
+1284,silicone straw,beverage,straw,reusable straw silicone straw,straw reusable silicone,20.0,4.9,0
+1285,paper straw,beverage,straw,compostable straw paper straw,straw compostable paper,10.0,4.9,2
+1286,wheat straw,beverage,straw,compostable straw wheat straw,straw compostable wheat,15.0,4.9,2
+1287,pla straw,beverage,straw,compostable straw pla straw,straw compostable pla,20.0,4.9,2
+1288,reed straw,beverage,straw,compostable straw reed straw,straw compostable reed,15.0,4.9,2
+1289,sulapac straw,beverage,straw,compostable straw sulapac straw,straw compostable sulapac,30.0,4.9,2
+1290,plastic straw,beverage,straw,disposable straw plastic straw,straw disposable plastic,5.0,4.9,1
+1291,coated paper straw,beverage,straw,disposable straw coated paper straw,straw disposable coated paper,10.0,4.9,1
+1292,pla coated paper straw,beverage,straw,disposable straw pla coated paper straw,straw disposable pla coated paper,15.0,4.9,1
+1293,metal straw plastic coating,beverage,straw,reusable straw metal straw plastic coating,straw reusable metal plastic coating,50.0,4.9,1
+1294,silicone straw plastic tip,beverage,straw,reusable straw silicone straw plastic tip,straw reusable silicone plastic tip,20.0,4.9,1
+1295,glass straw plastic mouthpiece,beverage,straw,reusable straw glass straw plastic mouthpiece,straw reusable glass plastic mouthpiece,40.0,4.9,1
+1296,bamboo straw plastic tip,beverage,straw,reusable straw bamboo straw plastic tip,straw reusable bamboo plastic tip,30.0,4.9,1
+1297,wheat straw plastic tip,beverage,straw,reusable straw wheat straw plastic tip,straw reusable wheat plastic tip,15.0,4.9,1
+1298,metal straw silicone tip,beverage,straw,reusable straw metal straw silicone tip,straw reusable metal silicone tip,50.0,4.9,0
+1299,silicone straw bamboo tip,beverage,straw,reusable straw silicone straw bamboo tip,straw reusable silicone bamboo tip,20.0,4.9,0
+1300,bamboo straw metal tip,beverage,straw,reusable straw bamboo straw metal tip,straw reusable bamboo metal tip,30.0,4.9,2
+1301,ceramic mug corelle,home kitchen,drinkware,mugs,ceramic mug mug kitchen mug,999.0,4.7,2
+1302,glass mug ikea,home kitchen,drinkware,mugs,glass mug mug kitchen mug,799.0,4.5,2
+1303,porcelain mug lenox,home kitchen,drinkware,mugs,porcelain mug mug kitchen mug,1499.0,4.8,2
+1304,melamine mug unbreakable kitchenware,home kitchen,drinkware,mugs,melamine mug mug kitchen mug,499.0,4.4,1
+1305,plastic mug corelle,home kitchen,drinkware,mugs,plastic mug mug kitchen mug,399.0,4.1,1
+1306,bamboo mug world market,home kitchen,drinkware,mugs,bamboo mug mug kitchen mug,699.0,4.3,2
+1307,wooden mug handmade,home kitchen,drinkware,mugs,wooden mug mug kitchen mug,999.0,4.6,2
+1308,ceramic coffee mug corelle,home kitchen,drinkware,coffee mugs,ceramic coffee mug coffee mug kitchen mug,999.0,4.7,2
+1309,glass coffee mug ikea,home kitchen,drinkware,coffee mugs,glass coffee mug coffee mug kitchen mug,799.0,4.5,2
+1310,porcelain coffee mug lenox,home kitchen,drinkware,coffee mugs,porcelain coffee mug coffee mug kitchen mug,1499.0,4.8,2
+1311,ceramic travel mug contigo,home kitchen,drinkware,travel mugs,ceramic travel mug travel mug kitchen mug,1499.0,4.7,2
+1312,glass travel mug bodum,home kitchen,drinkware,travel mugs,glass travel mug travel mug kitchen mug,1299.0,4.5,2
+1313,porcelain teacup lenox,home kitchen,drinkware,teacups,porcelain teacup teacup kitchen mug,999.0,4.8,2
+1314,melamine tumbler unbreakable kitchenware,home kitchen,drinkware,tumblers,melamine tumbler tumbler kitchen mug,499.0,4.4,1
+1315,plastic tumbler corelle,home kitchen,drinkware,tumblers,plastic tumbler tumbler kitchen mug,399.0,4.1,1
+1316,bamboo tumbler world market,home kitchen,drinkware,tumblers,bamboo tumbler tumbler kitchen mug,699.0,4.3,2
+1317,wooden tumbler handmade,home kitchen,drinkware,tumblers,wooden tumbler tumbler kitchen mug,999.0,4.6,2
+1318,stainless steel tumbler s,home kitchen,drinkware,tumblers,stainless steel tumbler tumbler kitchen mug,1999.0,4.7,2
+1319,enamel tumbler falcon enamelware,home kitchen,drinkware,tumblers,enamel tumbler tumbler kitchen mug,1499.0,4.6,2
+1320,ceramic sippy cup munchkin,home kitchen,drinkware,sippy cups,ceramic sippy cup sippy cup kitchen mug,999.0,4.7,2
+1321,reusable cotton tote bag,shopping,tote bag,reusable bag cotton bag tote bag,bag reusable cotton tote,400.0,4.9,2
+1322,reusable canvas tote bag,shopping,tote bag,reusable bag canvas bag tote bag,bag reusable canvas tote,320.0,4.9,2
+1323,reusable polyester tote bag,shopping,tote bag,reusable bag polyester bag tote bag,bag reusable polyester tote,240.0,4.9,2
+1324,reusable nylon tote bag,shopping,tote bag,reusable bag nylon bag tote bag,bag reusable nylon tote,160.0,4.9,2
+1325,reusable jute tote bag,shopping,tote bag,reusable bag jute bag tote bag,bag reusable jute tote,80.0,4.9,2
+1326,reusable mesh bag,shopping,produce bag,reusable bag mesh bag produce bag,bag reusable mesh produce,80.0,4.9,2
+1327,reusable silicone bag,shopping,food storage bag,reusable bag silicone bag food storage bag,bag reusable silicone food storage,400.0,4.9,2
+1328,reusable beeswax wrap,food storage,food wrap,reusable wrap beeswax wrap food wrap,wrap reusable beeswax food,240.0,4.9,2
+1329,reusable bread bag,food storage,bread bag,reusable bag bread bag,bag reusable bread,160.0,4.9,2
+1330,reusable sandwich bag,food storage,sandwich bag,reusable bag sandwich bag,bag reusable sandwich,80.0,4.9,2
+1331,reusable snack bag,food storage,snack bag,reusable bag snack bag,bag reusable snack,80.0,4.9,2
+1332,reusable bulk bag,shopping,bulk bag,reusable bag bulk bag,bag reusable bulk,80.0,4.9,2
+1333,reusable shopping bag recycled materials,shopping,shopping bag,reusable bag recycled bag shopping bag,bag reusable recycled shopping,400.0,4.9,2
+1334,reusable produce bag recycled materials,shopping,produce bag,reusable bag recycled bag produce bag,bag reusable recycled produce,160.0,4.9,2
+1335,reusable food storage bag recycled materials,food storage,food storage bag,reusable bag recycled bag food storage bag,bag reusable recycled food storage,240.0,4.9,2
+1336,paper bag,shopping,shopping bag,paper bag,bag paper shopping,40.0,4.9,0
+1337,biodegradable plastic bag,shopping,shopping bag,biodegradable bag plastic bag shopping bag,bag biodegradable plastic shopping,80.0,4.9,1
+1338,compostable plastic bag,shopping,shopping bag,compostable bag plastic bag shopping bag,bag compostable plastic shopping,120.0,4.9,1
+1339,oxo degradable plastic bag,shopping,shopping bag,oxo degradable bag plastic bag shopping bag,bag oxo degradable plastic shopping,40.0,4.9,1
+1340,conventional plastic bag,shopping,shopping bag,plastic bag shopping bag,bag plastic shopping,8.0,4.9,1
+1341,clay pot,gardening,plant pot,clay pot plant pot,pot clay plant,415.0,4.9,2
+1342,terracotta pot,gardening,plant pot,terracotta pot plant pot,pot terracotta plant,332.0,4.9,2
+1343,ceramic pot,gardening,plant pot,ceramic pot plant pot,pot ceramic plant,249.0,4.9,2
+1344,stoneware pot,gardening,plant pot,stoneware pot plant pot,pot stoneware plant,166.0,4.9,2
+1345,concrete pot,gardening,plant pot,concrete pot plant pot,pot concrete plant,415.0,4.9,1
+1346,plastic pot,gardening,plant pot,plastic pot plant pot,pot plastic plant,83.0,4.9,1
+1347,peat pot,gardening,plant pot,peat pot plant pot,pot peat plant,41.5,4.9,1
+1348,biodegradable paper pot,gardening,plant pot,biodegradable pot paper pot plant pot,pot biodegradable paper plant,83.0,4.9,2
+1349,biodegradable coconut fiber pot,gardening,plant pot,biodegradable pot coconut fiber pot plant pot,pot biodegradable coconut fiber plant,124.5,4.9,2
+1350,biodegradable bamboo pot,gardening,plant pot,biodegradable pot bamboo pot plant pot,pot biodegradable bamboo plant,166.0,4.9,2
+1351,reused container,gardening,plant pot,reused container plant pot,pot reused container,50.0,4.9,2
+1352,diy plant pot,gardening,plant pot,diy plant pot,pot diy plant,60.0,4.9,2
+1353,reused plastic pot,gardening,plant pot,reused pot plastic pot plant pot,pot reused plastic plant,70.0,4.9,1
+1354,reused ceramic pot,gardening,plant pot,reused pot ceramic pot plant pot,pot reused ceramic plant,100.0,4.9,2
+1355,reused terracotta pot,gardening,plant pot,reused pot terracotta pot plant pot,pot reused terracotta plant,56.0,4.9,2
+1356,reused clay pot,gardening,plant pot,reused pot clay pot plant pot,pot reused clay plant,90.0,4.9,2
+1357,reused concrete pot,gardening,plant pot,reused pot concrete pot plant pot,pot reused concrete plant,100.0,4.9,1
+1358,reused stone pot,gardening,plant pot,reused pot stone pot plant pot,pot reused stone plant,200.0,4.9,2
+1359,reused metal pot,gardening,plant pot,reused pot metal pot plant pot,pot reused metal plant,100.0,4.9,2
+1360,reused wooden pot,gardening,plant pot,reused pot wooden pot plant pot,pot reused wooden plant,150.0,4.9,2
+1361,leather slippers cole haan,home kitchen,shoes,slippers,leather slippers slippers men s slippers women s slippers indoor slippers outdoor slippers,2499.0,4.7,1
+1362,suede slippers ugg,home kitchen,shoes,slippers,suede slippers slippers men s slippers women s slippers indoor slippers outdoor slippers,2999.0,4.8,1
+1363,canvas slippers toms,home kitchen,shoes,slippers,canvas slippers slippers men s slippers women s slippers indoor slippers outdoor slippers,1999.0,4.6,2
+1364,rubber slippers crocs,home kitchen,shoes,slippers,rubber slippers slippers men s slippers women s slippers indoor slippers outdoor slippers,1499.0,4.5,1
+1365,memory foam slippers skechers,home kitchen,shoes,slippers,memory foam slippers slippers men s slippers women s slippers indoor slippers outdoor slippers,1999.0,4.7,2
+1366,leather flip flops havaianas,home kitchen,shoes,sandals,leather flip flops flip flops men s flip flops women s flip flops indoor sandals outdoor sandals,1499.0,4.6,1
+1367,suede flip flops birkenstock,home kitchen,shoes,sandals,suede flip flops flip flops men s flip flops women s flip flops indoor sandals outdoor sandals,1999.0,4.7,1
+1368,canvas flip flops sanuk,home kitchen,shoes,sandals,canvas flip flops flip flops men s flip flops women s flip flops indoor sandals outdoor sandals,1299.0,4.5,2
+1369,rubber flip flops speedo,home kitchen,shoes,sandals,rubber flip flops flip flops men s flip flops women s flip flops indoor sandals outdoor sandals,999.0,4.4,1
+1370,memory foam flip flops oofos,home kitchen,shoes,sandals,memory foam flip flops flip flops men s flip flops women s flip flops indoor sandals outdoor sandals,1999.0,4.7,2
+1371,wool slippers ll bean,home kitchen,shoes,slippers,wool slippers slippers men s slippers women s slippers indoor slippers outdoor slippers,2499.0,4.7,2
+1372,felt slippers haflinger,home kitchen,shoes,slippers,felt slippers slippers men s slippers women s slippers indoor slippers outdoor slippers,2999.0,4.8,2
+1373,cork slippers birkenstock,home kitchen,shoes,slippers,cork slippers slippers men s slippers women s slippers indoor slippers outdoor slippers,1999.0,4.6,2
+1374,recycled plastic slippers rothy s,home kitchen,shoes,slippers,recycled plastic slippers slippers men s slippers women s slippers indoor slippers outdoor slippers,1499.0,4.5,2
+1375,recycled tire slippers grounds,home kitchen,shoes,slippers,recycled tire slippers slippers men s slippers women s slippers indoor slippers outdoor slippers,1999.0,4.7,2
+1376,wool flip flops glerups,home kitchen,shoes,sandals,wool flip flops flip flops men s flip flops women s flip flops indoor sandals outdoor sandals,2499.0,4.7,2
+1377,felt flip flops earth runners,home kitchen,shoes,sandals,felt flip flops flip flops men s flip flops women s flip flops indoor sandals outdoor sandals,2999.0,4.8,2
+1378,cork flip flops birkenstock,home kitchen,shoes,sandals,cork flip flops flip flops men s flip flops women s flip flops indoor sandals outdoor sandals,1999.0,4.6,2
+1379,recycled plastic flip flops rothy s,home kitchen,shoes,sandals,recycled plastic flip flops flip flops men s flip flops women s flip flops indoor sandals outdoor sandals,1499.0,4.5,2
+1380,recycled tire flip flops grounds,home kitchen,shoes,sandals,recycled tire flip flops flip flops men s flip flops women s flip flops indoor sandals outdoor sandals,1999.0,4.7,2
+1381,bamboo cutting board,kitchen,cutting board,bamboo cutting board wood cutting board,board bamboo wood cutting,249.0,4.9,0
+1382,wooden cutting board,kitchen,cutting board,wooden cutting board wood cutting board,board wooden wood cutting,415.0,4.9,0
+1383,end grain cutting board,kitchen,cutting board,end grain cutting board wood cutting board,board end grain wood cutting,830.0,4.9,0
+1384,glass cutting board,kitchen,cutting board,glass cutting board,board glass cutting,332.0,4.9,0
+1385,plastic cutting board,kitchen,cutting board,plastic cutting board,board plastic cutting,83.0,4.9,1
+1386,silicone cutting board,kitchen,cutting board,silicone cutting board,board silicone cutting,166.0,4.9,1
+1387,compostable cutting board,kitchen,cutting board,compostable cutting board,board compostable cutting,249.0,4.9,2
+1388,reused cutting board,kitchen,cutting board,reused cutting board,board reused cutting,299.0,4.9,2
+1389,diy cutting board,kitchen,cutting board,diy cutting board,board diy cutting,180.0,4.9,2
+1390,reused plastic cutting board,kitchen,cutting board,reused cutting board plastic cutting board,board reused plastic cutting,199.0,4.9,1
+1391,reused wooden cutting board,kitchen,cutting board,reused cutting board wooden cutting board,board reused wooden cutting,250.0,4.9,2
+1392,reused end grain cutting board,kitchen,cutting board,reused cutting board end grain cutting board,board reused end grain cutting,295.0,4.9,2
+1393,reused glass cutting board,kitchen,cutting board,reused cutting board glass cutting board,board reused glass cutting,239.0,4.9,2
+1394,compostable paper cutting board,kitchen,cutting board,compostable cutting board paper cutting board,board compostable paper cutting,83.0,4.9,2
+1395,compostable bamboo cutting board,kitchen,cutting board,compostable cutting board bamboo cutting board,board compostable bamboo cutting,249.0,4.9,2
+1396,compostable coconut fiber cutting board,kitchen,cutting board,compostable cutting board coconut fiber cutting board,board compostable coconut fiber cutting,290.5,4.9,2
+1397,diy paper cutting board,kitchen,cutting board,diy cutting board paper cutting board,board diy paper cutting,179.0,4.9,2
+1398,diy bamboo cutting board,kitchen,cutting board,diy cutting board bamboo cutting board,board diy bamboo cutting,199.0,4.9,2
+1399,diy coconut fiber cutting board,kitchen,cutting board,diy cutting board coconut fiber cutting board,board diy coconut fiber cutting,279.0,4.9,2
+1400,reused metal cutting board,kitchen,cutting board,reused cutting board metal cutting board,board reused metal cutting,349.0,4.9,2
+1401,lego star wars millennium falcon lego,toys games,construction toys,building blocks,lego star wars millennium falcon building blocks construction toys,19999.0,4.8,1
+1402,barbie dreamhouse mattel,toys games,dolls accessories,dolls,barbie dreamhouse dolls dollhouse accessories,9999.0,4.7,1
+1403,hot wheels playset mattel,toys games,vehicles playsets,playsets,hot wheels playset vehicles track cars,4999.0,4.6,0
+1404,play doh fun factory hasbro,toys games,arts crafts,play doh,play doh fun factory arts crafts modeling clay,2999.0,4.5,2
+1405,nerf fortnite blaster hasbro,toys games,outdoor toys,blasters,nerf fortnite blaster outdoor toys,1999.0,4.4,1
+1406,monopoly classic hasbro,toys games,board games,family games,monopoly classic board game family game,999.0,4.3,0
+1407,uno flip card game mattel,toys games,card games,family games,uno flip card game family game,499.0,4.2,2
+1408,wooden train set brio,toys games,educational toys,building toys,wooden train set train set building blocks educational toys,6999.0,4.1,2
+1409,puzzle ravensburger,toys games,puzzles,jigsaw puzzles,puzzle jigsaw puzzle educational toys,999.0,4.0,1
+1410,art set crayola,toys games,arts crafts,art sets,art set crayola arts crafts,1999.0,4.9,2
+1411,wooden building blocks grimm s,toys games,construction toys,building blocks,wooden building blocks building blocks construction toys educational toys,6999.0,4.8,2
+1412,organic cotton stuffed animals cuddle kind,toys games,dolls accessories,stuffed animals,organic cotton stuffed animals stuffed animals dolls accessories,2999.0,4.7,2
+1413,recycled plastic play kitchen green toys,toys games,vehicles playsets,play kitchens,recycled plastic play kitchen play kitchen vehicles playsets,4999.0,4.6,2
+1414,bamboo musical instruments plantoys,toys games,arts crafts,musical instruments,bamboo musical instruments musical instruments arts crafts,2999.0,4.5,2
+1415,fair trade wooden toys hape,toys games,educational toys,activity toys,fair trade wooden toys wooden toys educational toys activity toys,6999.0,4.4,2
+1416,open ended toys magformers,toys games,construction toys,magnetic toys,open ended toys magnetic toys construction toys educational toys,9999.0,4.3,2
+1417,montessori toys lovevery,toys games,educational toys,baby toys,montessori toys baby toys educational toys,999.0,4.2,2
+1418,stem toys lego education,toys games,educational toys,stem toys,stem toys lego education educational toys,19999.0,4.1,2
+1419,art supplies crayola,toys games,arts crafts,art supplies,art supplies crayola arts crafts,1999.0,4.9,2
+1420,outdoor toys little tikes,toys games,outdoor toys,outdoor toys,outdoor toys little tikes vehicles playsets,4999.0,4.8,1
+1421,bamboo knife,kitchen,knife,bamboo knife wooden knife,knife bamboo wood kitchen,249.0,4.9,0
+1422,wooden knife,kitchen,knife,wooden knife wood knife,knife wooden wood kitchen,415.0,4.9,0
+1423,stainless steel knife,kitchen,knife,stainless steel knife metal knife,knife stainless steel metal kitchen,830.0,4.9,0
+1424,ceramic knife,kitchen,knife,ceramic knife,knife ceramic kitchen,1245.0,4.9,0
+1425,plastic knife,kitchen,knife,plastic knife,knife plastic kitchen,83.0,4.9,1
+1426,compostable knife,kitchen,knife,compostable knife,knife compostable kitchen,166.0,4.9,2
+1427,reused knife,kitchen,knife,reused knife,knife reused kitchen,149.0,4.9,2
+1428,diy knife,kitchen,knife,diy knife,knife diy kitchen,139.0,4.9,2
+1429,reused plastic knife,kitchen,knife,reused knife plastic knife,knife reused plastic kitchen,99.0,4.9,1
+1430,reused bamboo knife,kitchen,knife,reused knife bamboo knife,knife reused bamboo kitchen,129.0,4.9,2
+1431,reused wooden knife,kitchen,knife,reused knife wooden knife,knife reused wooden kitchen,159.0,4.9,2
+1432,reused stainless steel knife,kitchen,knife,reused knife stainless steel knife,knife reused stainless steel kitchen,299.0,4.9,2
+1433,reused ceramic knife,kitchen,knife,reused knife ceramic knife,knife reused ceramic kitchen,349.0,4.9,2
+1434,compostable paper knife,kitchen,knife,compostable knife paper knife,knife compostable paper kitchen,83.0,4.9,2
+1435,compostable bamboo knife,kitchen,knife,compostable knife bamboo knife,knife compostable bamboo kitchen,166.0,4.9,2
+1436,compostable coconut fiber knife,kitchen,knife,compostable knife coconut fiber knife,knife compostable coconut fiber kitchen,207.5,4.9,2
+1437,diy paper knife,kitchen,knife,diy knife paper knife,knife diy paper kitchen,199.0,4.9,2
+1438,diy bamboo knife,kitchen,knife,diy knife bamboo knife,knife diy bamboo kitchen,100.0,4.9,2
+1439,diy coconut fiber knife,kitchen,knife,diy knife coconut fiber knife,knife diy coconut fiber kitchen,200.0,4.9,2
+1440,reused metal knife,kitchen,knife,reused knife metal knife,knife reused metal kitchen,499.0,4.9,2
+1441,rechargeable lithium ion battery,electronics,battery,rechargeable lithium ion battery lithium ion battery rechargeable battery,battery rechargeable lithium ion,830.0,4.9,0
+1442,rechargeable nickel metal hydride battery,electronics,battery,rechargeable nickel metal hydride battery nickel metal hydride battery rechargeable battery,battery rechargeable nickel metal hydride,415.0,4.9,0
+1443,rechargeable alkaline battery,electronics,battery,rechargeable alkaline battery alkaline battery rechargeable battery,battery rechargeable alkaline,249.0,4.9,0
+1444,solar battery,electronics,battery,solar battery solar powered battery,battery solar solar powered,1245.0,4.9,1
+1445,wind battery,electronics,battery,wind battery mechanical battery,battery wind mechanical,415.0,4.9,1
+1446,single use lithium battery,electronics,battery,single use lithium battery lithium battery battery,battery single use lithium,83.0,4.9,1
+1447,single use alkaline battery,electronics,battery,single use alkaline battery alkaline battery,battery single use alkaline,41.5,4.9,1
+1448,compostable battery,electronics,battery,compostable battery,battery compostable,166.0,4.9,2
+1449,reused battery,electronics,battery,reused battery,battery reused,100.0,4.9,2
+1450,diy battery,electronics,battery,diy battery,battery diy,199.0,4.9,2
+1451,reused single use lithium battery,electronics,battery,reused single use lithium battery single use lithium battery reused battery,battery reused single use lithium,40.0,4.9,2
+1452,reused single use alkaline battery,electronics,battery,reused single use alkaline battery single use alkaline battery reused battery,battery reused single use alkaline,80.0,4.9,2
+1453,compostable lithium battery,electronics,battery,compostable lithium battery lithium battery compostable battery,battery compostable lithium,249.0,4.9,2
+1454,compostable alkaline battery,electronics,battery,compostable alkaline battery alkaline battery compostable battery,battery compostable alkaline,207.5,4.9,2
+1455,diy lithium battery,electronics,battery,diy lithium battery lithium battery,battery diy lithium,90.0,4.9,2
+1456,diy alkaline battery,electronics,battery,diy alkaline battery alkaline battery,battery diy alkaline,120.0,4.9,2
+1457,pedal powered battery charger,electronics,battery accessory,pedal powered battery charger,battery charger pedal powered,1245.0,4.9,1
+1458,solar battery charger,electronics,battery accessory,solar battery charger,battery charger solar,830.0,4.9,1
+1459,wind battery charger,electronics,battery accessory,wind battery charger,battery charger wind,415.0,4.9,1
+1460,manual battery charger,electronics,battery accessory,manual battery charger,battery charger manual,249.0,4.9,1
+1461,biodegradable garbage bags ecoware,garbage bags,biodegradable,eco friendly compostable,compostable garbage bags biodegradable garbage bags ecoware garbage bags,200.0,4.5,2
+1462,heavy duty garbage bags trex,garbage bags,heavy duty,trash bags garbage bags heavy duty garbage bags,trex garbage bags heavy duty trash bags,150.0,4.0,0
+1463,scented garbage bags glad,garbage bags,scented,trash bags garbage bags scented garbage bags,glad garbage bags scented trash bags,100.0,3.5,0
+1464,drawstring garbage bags simplehuman,garbage bags,drawstring,trash bags garbage bags drawstring garbage bags,simplehuman garbage bags drawstring trash bags,250.0,4.8,1
+1465,compostable garbage bags biobag,garbage bags,compostable,eco friendly compostable,compostable garbage bags biodegradable garbage bags biobag garbage bags,300.0,4.9,2
+1466,recycled garbage bags seventh generation,garbage bags,recycled,eco friendly recycled,recycled garbage bags seventh generation garbage bags,200.0,4.7,1
+1467,trash compactor bags glad,garbage bags,trash compactor,trash bags garbage bags trash compactor bags,glad trash bags trash compactor bags,250.0,4.3,0
+1468,pet waste bags earth rated,garbage bags,pet waste,pet waste bags dog waste bags cat waste bags,earth rated pet waste bags dog waste bags cat waste bags,150.0,4.6,2
+1469,liners kitchen compost bins circle,garbage bags,compostable,eco friendly compostable,compostable kitchen compost bin liners circle kitchen compost bin liners,200.0,4.8,2
+1470,yard waste bags scotts,garbage bags,yard waste,yard waste bags lawn garden bags,scotts yard waste bags,100.0,4.1,0
+1471,odor blocking garbage bags glad,garbage bags,odor blocking,trash bags garbage bags odor blocking garbage bags,glad garbage bags odor blocking trash bags,150.0,4.2,0
+1472,leak proof garbage bags heavy duty,garbage bags,leak proof,trash bags garbage bags leak proof garbage bags,heavy duty garbage bags leak proof trash bags,200.0,4.4,0
+1473,unscented garbage bags simplehuman,garbage bags,unscented,trash bags garbage bags unscented garbage bags,simplehuman garbage bags unscented trash bags,250.0,4.7,1
+1474,drawstring kitchen trash bags reynolds,garbage bags,drawstring,trash bags garbage bags drawstring kitchen trash bags,reynolds garbage bags drawstring kitchen trash bags,100.0,4.3,0
+1475,compostable food waste bags care,garbage bags,compostable,eco friendly compostable,compostable food waste bags care food waste bags,200.0,4.8,2
+1476,recycled pet waste bags earth rated,garbage bags,pet waste,pet waste bags dog waste bags cat waste bags,earth rated pet waste bags recycled pet waste bags dog waste bags cat waste bags,150.0,4.6,2
+1477,liners bathroom waste bins circle,garbage bags,compostable,eco friendly compostable,compostable bathroom waste bin liners circle bathroom waste bin liners,200.0,4.8,2
+1478,yard waste bags biobag,garbage bags,yard waste,yard waste bags lawn garden bags,biobag yard waste bags,100.0,4.1,2
+1479,heavy duty trash liners uline,garbage bags,heavy duty,trash bags garbage bags heavy duty trash liners,uline trash bags heavy duty trash liners,250.0,4.4,0
+1480,clear garbage bags reliance products,garbage bags,clear,trash bags garbage bags clear garbage bags,reliance products garbage bags clear trash bags,100.0,4.2,0
+1481,led light bulb,lighting,light bulb,led light bulb,light bulb led energy efficient,249.0,4.9,0
+1482,compact fluorescent light bulb cfl,lighting,light bulb,cfl light bulb compact fluorescent light bulb,light bulb cfl energy efficient,166.0,4.9,1
+1483,incandescent light bulb,lighting,light bulb,incandescent light bulb,light bulb incandescent non energy efficient,83.0,4.9,1
+1484,halogen light bulb,lighting,light bulb,halogen light bulb,light bulb halogen non energy efficient,166.0,4.9,1
+1485,solar light bulb,lighting,light bulb,solar light bulb solar powered light bulb,light bulb solar solar powered,415.0,4.9,1
+1486,led candle bulb,lighting,light bulb,led candle bulb led candle light bulb,light bulb led candle decorative,332.0,4.9,0
+1487,led filament bulb,lighting,light bulb,led filament bulb led filament light bulb,light bulb led filament vintage,415.0,4.9,0
+1488,led plant bulb,lighting,light bulb,led plant bulb led grow light bulb,light bulb led plant grow light,415.0,4.9,0
+1489,led smart bulb,lighting,light bulb,led smart bulb smart light bulb,light bulb led smart controllable,830.0,4.9,0
+1490,reused light bulb,lighting,light bulb,reused light bulb,light bulb reused,90.0,4.9,2
+1491,diy light bulb,lighting,light bulb,diy light bulb,light bulb diy,200.0,4.9,2
+1492,compostable light bulb,lighting,light bulb,compostable light bulb,light bulb compostable,249.0,4.9,2
+1493,reused led light bulb,lighting,light bulb,reused led light bulb led light bulb,light bulb reused led,500.0,4.9,2
+1494,reused cfl light bulb,lighting,light bulb,reused cfl light bulb cfl light bulb,light bulb reused cfl,600.0,4.9,2
+1495,diy led light bulb,lighting,light bulb,diy led light bulb led light bulb,light bulb diy led,700.0,4.9,2
+1496,diy cfl light bulb,lighting,light bulb,diy cfl light bulb cfl light bulb,light bulb diy cfl,400.0,4.9,2
+1497,motion sensor light bulb,lighting,light bulb,motion sensor light bulb light bulb motion sensor,light bulb motion sensor,415.0,4.9,0
+1498,dimmer light bulb,lighting,light bulb,dimmer light bulb light bulb dimmer,light bulb dimmer,415.0,4.9,0
+1499,rgb light bulb,lighting,light bulb,rgb light bulb color changing light bulb,light bulb rgb color changing,830.0,4.9,0
+1500,led strip lights,lighting,light bulb,led strip lights led lights,light bulb led strip,1245.0,4.9,0
+1501,purina pro plan adult large breed chicken rice formula purina,dog food,adult,chicken rice,large breed dog food adult dog food chicken dog food rice dog food,1000.0,4.5,0
+1502,royal canin golden retriever adult dog food royal canin,dog food,adult,golden retriever,golden retriever dog food adult dog food,1200.0,4.7,0
+1503,hill s science diet adult advanced fitness chicken brown rice recipe dog food hill s,dog food,adult,chicken brown rice,adult dog food chicken dog food brown rice dog food,1500.0,4.8,0
+1504,eukanuba adult maintenance chicken recipe dry dog food eukanuba,dog food,adult,chicken,adult dog food chicken dog food,800.0,4.4,2
+1505,iams proactive health adult original dry dog food iams,dog food,adult,original,adult dog food original dog food,700.0,4.3,2
+1506,blue buffalo wilderness rocky mountain recipe high protein grain free dry dog food blue buffalo,dog food,adult,grain free,grain free dog food high protein dog food,1300.0,4.6,1
+1507,acana adult chicken brown rice recipe dry dog food acana,dog food,adult,chicken brown rice,adult dog food chicken dog food brown rice dog food,1400.0,4.7,2
+1508,orijen original dry dog food orijen,dog food,adult,high protein,high protein dog food,1600.0,4.8,1
+1509,fromm family gold adult large breed chicken la veg recipe dry dog food fromm,dog food,adult,large breed,large breed dog food adult dog food chicken dog food,1100.0,4.5,2
+1510,taste wild high prairie grain free dry dog food taste wild,dog food,adult,grain free,grain free dog food high protein dog food,1200.0,4.6,1
+1511,royal canin labrador retriever adult dog food royal canin,dog food,adult,labrador retriever,labrador retriever dog food adult dog food,1200.0,4.7,1
+1512,hill s science diet adult small breed chicken barley recipe dog food hill s,dog food,adult,small breed,adult dog food small breed dog food chicken dog food barley dog food,1500.0,4.8,1
+1513,eukanuba adult maintenance large breed chicken recipe dry dog food eukanuba,dog food,adult,large breed,large breed dog food adult dog food chicken dog food,800.0,4.4,2
+1514,iams proactive health adult sensitive skin stomach salmon brown rice recipe dry dog food iams,dog food,adult,sensitive skin stomach,adult dog food sensitive skin dog food sensitive stomach dog food salmon dog food brown rice dog food,700.0,4.3,1
+1515,blue buffalo wilderness rocky mountain recipe high protein grain free dry dog food puppies blue buffalo,dog food,puppy,grain free,grain free dog food high protein dog food puppy food,1300.0,4.6,2
+1516,acana puppy chicken brown rice recipe dry dog food acana,dog food,puppy,chicken brown rice,puppy food chicken dog food brown rice dog food,1400.0,4.7,1
+1517,orijen puppy large breed dry dog food orijen,dog food,puppy,large breed,puppy food large breed dog food,1600.0,4.8,1
+1518,fromm family gold puppy gold large breed chicken la veg recipe dry dog food fromm,dog food,puppy,large breed,puppy food large breed dog food chicken dog food,1100.0,4.5,2
+1519,taste wild pacific stream grain free dry dog food puppies taste wild,dog food,puppy,grain free,grain free dog food high protein dog food puppy food,1200.0,4.6,1
+1520,wellness complete health puppy chicken brown rice recipe dry dog food wellness,dog food,puppy,chicken brown rice,puppy food chicken dog food brown rice dog food,1000.0,4.5,2
+1521,bamboo spoon,kitchen,spoon,bamboo spoon,spoon bamboo wooden,249.0,4.9,0
+1522,wooden spoon,kitchen,spoon,wooden spoon,spoon wooden,166.0,4.9,0
+1523,stainless steel spoon,kitchen,spoon,stainless steel spoon,spoon stainless steel metal,83.0,4.9,0
+1524,ceramic spoon,kitchen,spoon,ceramic spoon,spoon ceramic,166.0,4.9,0
+1525,plastic spoon,kitchen,spoon,plastic spoon,spoon plastic,41.5,4.9,1
+1526,compostable spoon,kitchen,spoon,compostable spoon,spoon compostable,83.0,4.9,2
+1527,reused spoon,kitchen,spoon,reused spoon,spoon reused,20.0,4.9,2
+1528,diy spoon,kitchen,spoon,diy spoon,spoon diy,30.0,4.9,2
+1529,compostable paper spoon,kitchen,spoon,compostable paper spoon paper spoon,spoon compostable paper,83.0,4.9,2
+1530,compostable coconut fiber spoon,kitchen,spoon,compostable coconut fiber spoon coconut fiber spoon,spoon compostable coconut fiber,207.5,4.9,2
+1531,reused plastic spoon,kitchen,spoon,reused plastic spoon plastic spoon,spoon reused plastic,50.0,4.9,2
+1532,reused bamboo spoon,kitchen,spoon,reused bamboo spoon bamboo spoon,spoon reused bamboo,40.0,4.9,2
+1533,reused wooden spoon,kitchen,spoon,reused wooden spoon wooden spoon,spoon reused wooden,20.0,4.9,2
+1534,reused stainless steel spoon,kitchen,spoon,reused stainless steel spoon stainless steel spoon,spoon reused stainless steel,100.0,4.9,2
+1535,reused ceramic spoon,kitchen,spoon,reused ceramic spoon ceramic spoon,spoon reused ceramic,99.0,4.9,2
+1536,diy paper spoon,kitchen,spoon,diy paper spoon paper spoon,spoon diy paper,80.0,4.9,2
+1537,diy bamboo spoon,kitchen,spoon,diy bamboo spoon bamboo spoon,spoon diy bamboo,90.0,4.9,2
+1538,diy coconut fiber spoon,kitchen,spoon,diy coconut fiber spoon coconut fiber spoon,spoon diy coconut fiber,10.0,4.9,2
+1539,diy wooden spoon,kitchen,spoon,diy wooden spoon wooden spoon,spoon diy wooden,55.0,4.9,2
+1540,diy stainless steel spoon,kitchen,spoon,diy stainless steel spoon stainless steel spoon,spoon diy stainless steel,40.0,4.9,2
+1541,bamboo fork,kitchen,fork,bamboo fork,fork bamboo wooden,249.0,4.9,0
+1542,wooden fork,kitchen,fork,wooden fork,fork wooden,166.0,4.9,0
+1543,stainless steel fork,kitchen,fork,stainless steel fork,fork stainless steel metal,83.0,4.9,0
+1544,ceramic fork,kitchen,fork,ceramic fork,fork ceramic,166.0,4.9,0
+1545,plastic fork,kitchen,fork,plastic fork,fork plastic,41.5,4.9,1
+1546,compostable fork,kitchen,fork,compostable fork,fork compostable,83.0,4.9,2
+1547,reused fork,kitchen,fork,reused fork,fork reused,40.0,4.9,2
+1548,diy fork,kitchen,fork,diy fork,fork diy,50.0,4.9,2
+1549,compostable paper fork,kitchen,fork,compostable paper fork paper fork,fork compostable paper,83.0,4.9,2
+1550,compostable coconut fiber fork,kitchen,fork,compostable coconut fiber fork coconut fiber fork,fork compostable coconut fiber,207.5,4.9,2
+1551,reused plastic fork,kitchen,fork,reused plastic fork plastic fork,fork reused plastic,30.0,4.9,2
+1552,reused bamboo fork,kitchen,fork,reused bamboo fork bamboo fork,fork reused bamboo,20.0,4.9,2
+1553,reused wooden fork,kitchen,fork,reused wooden fork wooden fork,fork reused wooden,80.0,4.9,2
+1554,reused stainless steel fork,kitchen,fork,reused stainless steel fork stainless steel fork,fork reused stainless steel,70.0,4.9,2
+1555,reused ceramic fork,kitchen,fork,reused ceramic fork ceramic fork,fork reused ceramic,60.0,4.9,2
+1556,diy paper fork,kitchen,fork,diy paper fork paper fork,fork diy paper,20.0,4.9,2
+1557,diy bamboo fork,kitchen,fork,diy bamboo fork bamboo fork,fork diy bamboo,70.0,4.9,2
+1558,diy coconut fiber fork,kitchen,fork,diy coconut fiber fork coconut fiber fork,fork diy coconut fiber,80.0,4.9,2
+1559,diy wooden fork,kitchen,fork,diy wooden fork wooden fork,fork diy wooden,90.0,4.9,2
+1560,diy stainless steel fork,kitchen,fork,diy stainless steel fork stainless steel fork,fork diy stainless steel,100.0,4.9,2
+1561,enameled cast iron pan,kitchen,pan,enameled cast iron pan cast iron pan,pan cast iron enameled,4150.0,4.9,0
+1562,stainless steel pan,kitchen,pan,stainless steel pan,pan stainless steel,2490.0,4.9,0
+1563,ceramic pan,kitchen,pan,ceramic pan,pan ceramic,1660.0,4.9,0
+1564,aluminum pan,kitchen,pan,aluminum pan,pan aluminum,1500.0,4.9,1
+1565,non stick pan,kitchen,pan,non stick pan,pan non stick,1245.0,4.9,1
+1566,compostable pan,kitchen,pan,compostable pan,pan compostable,2075.0,4.9,2
+1567,reused pan,kitchen,pan,reused pan,pan reused,999.0,4.9,2
+1568,diy pan,kitchen,pan,diy pan,pan diy,849.0,4.9,2
+1569,compostable paper pan,kitchen,pan,compostable paper pan paper pan,pan compostable paper,800.0,4.9,2
+1570,compostable coconut fiber pan,kitchen,pan,compostable coconut fiber pan coconut fiber pan,pan compostable coconut fiber,2490.0,4.9,2
+1571,reused aluminum pan,kitchen,pan,reused aluminum pan aluminum pan,pan reused aluminum,1100.0,4.9,2
+1572,reused stainless steel pan,kitchen,pan,reused stainless steel pan stainless steel pan,pan reused stainless steel,1500.0,4.9,2
+1573,reused ceramic pan,kitchen,pan,reused ceramic pan ceramic pan,pan reused ceramic,1000.0,4.9,2
+1574,diy paper pan,kitchen,pan,diy paper pan paper pan,pan diy paper,800.0,4.9,2
+1575,diy coconut fiber pan,kitchen,pan,diy coconut fiber pan coconut fiber pan,pan diy coconut fiber,1490.0,4.9,2
+1576,diy aluminum pan,kitchen,pan,diy aluminum pan aluminum pan,pan diy aluminum,999.0,4.9,2
+1577,diy stainless steel pan,kitchen,pan,diy stainless steel pan stainless steel pan,pan diy stainless steel,1000.0,4.9,2
+1578,diy ceramic pan,kitchen,pan,diy ceramic pan ceramic pan,pan diy ceramic,929.0,4.9,2
+1579,diy paper pan,kitchen,pan,diy paper pan paper pan,pan diy paper,670.0,4.9,2
+1580,diy coconut fiber pan,kitchen,pan,diy coconut fiber pan coconut fiber pan,pan diy coconut fiber,1799.0,4.9,2
+1581,bamboo keychain ecoware,keychains,eco friendly,bamboo sustainable,bamboo keychain eco friendly keychain sustainable keychain,200.0,4.5,2
+1582,recycled metal keychain trex,keychains,recycled,metal eco friendly,recycled metal keychain eco friendly keychain,150.0,4.0,1
+1583,cork keychain corkzilla,keychains,eco friendly,cork natural,cork keychain eco friendly keychain natural keychain,100.0,3.5,2
+1584,silicone keychain earth rated,keychains,eco friendly,silicone food grade,silicone keychain eco friendly keychain food grade keychain,250.0,4.8,2
+1585,hemp keychain ecowair,keychains,eco friendly,hemp sustainable,hemp keychain eco friendly keychain sustainable keychain,300.0,4.7,2
+1586,upcycled keychain freecycle,keychains,recycled,unique upcycled,upcycled keychain recycled keychain unique keychain,200.0,4.4,1
+1587,wooden keychain woodchuck,keychains,eco friendly,wood sustainable,wooden keychain eco friendly keychain sustainable keychain,150.0,4.3,2
+1588,biodegradable keychain greenpax,keychains,eco friendly,biodegradable compostable,biodegradable keychain eco friendly keychain compostable keychain,250.0,4.8,2
+1589,recycled plastic keychain repreve,keychains,recycled,plastic eco friendly,recycled plastic keychain eco friendly keychain,100.0,4.1,1
+1590,fair trade keychain serrv international,keychains,fair trade,handmade artisanal,fair trade keychain handmade keychain artisanal keychain,200.0,4.6,2
+1591,seagrass keychain ecoware,keychains,eco friendly,seagrass natural,seagrass keychain eco friendly keychain natural keychain,200.0,4.5,2
+1592,recycled glass keychain trex,keychains,recycled,glass eco friendly,recycled glass keychain eco friendly keychain,150.0,4.0,1
+1593,organic cotton keychain corkzilla,keychains,eco friendly,organic cotton natural,organic cotton keychain eco friendly keychain natural keychain,100.0,3.5,2
+1594,recycled paper keychain earth rated,keychains,recycled,paper eco friendly,recycled paper keychain eco friendly keychain,250.0,4.8,2
+1595,bamboo fiber keychain ecowair,keychains,eco friendly,bamboo fiber sustainable,bamboo fiber keychain eco friendly keychain sustainable keychain,300.0,4.7,2
+1596,upcycled metal keychain freecycle,keychains,recycled,unique upcycled,upcycled metal keychain recycled keychain unique keychain,200.0,4.4,1
+1597,wooden keychain laser engraving woodchuck,keychains,eco friendly,wood sustainable engraved,wooden keychain eco friendly keychain engraved keychain,150.0,4.3,2
+1598,biodegradable keychain compostable packaging greenpax,keychains,eco friendly,biodegradable compostable,biodegradable keychain eco friendly keychain compostable keychain compostable packaging,250.0,4.8,2
+1599,recycled plastic keychain sustainable packaging repreve,keychains,recycled,plastic eco friendly,recycled plastic keychain eco friendly keychain sustainable packaging,100.0,4.1,1
+1600,fair trade keychain organic packaging serrv international,keychains,fair trade,handmade artisanal,fair trade keychain handmade keychain artisanal keychain organic packaging,200.0,4.6,1
+1601,mosiso eco friendly laptop case mosiso,laptop cases,eco friendly,sleeve case cover bag protection eco friendly,laptop case eco friendly laptop case sustainable laptop case recycled laptop case,500.0,4.5,2
+1602,amazon basics recycled laptop case amazon basics,laptop cases,eco friendly,sleeve case cover bag protection recycled,laptop case eco friendly laptop case sustainable laptop case recycled laptop case,300.0,4.0,1
+1603,thule gauntlet 3 0 eco friendly laptop case thule,laptop cases,eco friendly protective,sleeve case cover bag protection eco friendly shockproof water resistant,laptop case eco friendly laptop case sustainable laptop case recycled laptop case shockproof laptop case water resistant laptop case,1000.0,4.8,2
+1604,incase designs eco friendly laptop sleeve incase,laptop cases,eco friendly stylish,sleeve case cover bag protection eco friendly stylish,laptop case eco friendly laptop case sustainable laptop case recycled laptop case stylish laptop sleeve,700.0,4.7,2
+1605,tomtoc eco friendly laptop sleeve tomtoc,laptop cases,eco friendly slim,sleeve case cover bag protection eco friendly slim,laptop case eco friendly laptop case sustainable laptop case recycled laptop case slim laptop sleeve,600.0,4.6,2
+1606,waterfield designs eco friendly sleevecase waterfield designs,laptop cases,eco friendly premium,sleeve case cover bag protection eco friendly premium,laptop case eco friendly laptop case sustainable laptop case recycled laptop case premium laptop sleeve,1200.0,4.9,2
+1607,knomo london eco friendly laptop sleeve knomo london,laptop cases,eco friendly professional,sleeve case cover bag protection eco friendly professional,laptop case eco friendly laptop case sustainable laptop case recycled laptop case professional laptop sleeve,1500.0,4.8,2
+1608,timbuk2 eco friendly laptop sleeve timbuk2,laptop cases,eco friendly active,sleeve case cover bag protection eco friendly active,laptop case eco friendly laptop case sustainable laptop case recycled laptop case active laptop sleeve,800.0,4.7,2
+1609,targus eco friendly laptop sleeve targus,laptop cases,eco friendly durable,sleeve case cover bag protection eco friendly durable,laptop case eco friendly laptop case sustainable laptop case recycled laptop case durable laptop sleeve,400.0,4.6,2
+1610,sleeve south eco friendly laptop sleeve south,laptop cases,eco friendly minimalist,sleeve case cover bag protection eco friendly minimalist,laptop case eco friendly laptop case sustainable laptop case recycled laptop case minimalist laptop sleeve,900.0,4.9,2
+1611,ecoware bamboo laptop case ecoware,laptop cases,eco friendly,sleeve case cover bag protection bamboo,laptop case eco friendly laptop case sustainable laptop case bamboo laptop case,500.0,4.5,2
+1612,trex recycled metal laptop case trex,laptop cases,eco friendly protective,sleeve case cover bag protection eco friendly recycled shockproof water resistant,laptop case eco friendly laptop case sustainable laptop case recycled laptop case shockproof laptop case water resistant laptop case,1000.0,4.8,1
+1613,corkzilla cork laptop case corkzilla,laptop cases,eco friendly stylish,sleeve case cover bag protection eco friendly cork,laptop case eco friendly laptop case sustainable laptop case cork laptop case stylish laptop sleeve,700.0,4.7,2
+1614,earth rated silicone laptop case earth rated,laptop cases,eco friendly slim,sleeve case cover bag protection eco friendly silicone slim,laptop case eco friendly laptop case sustainable laptop case silicone laptop case slim laptop sleeve,600.0,4.6,2
+1615,ecowair hemp laptop case ecowair,laptop cases,eco friendly durable,sleeve case cover bag protection eco friendly hemp durable,laptop case eco friendly laptop case sustainable laptop case hemp laptop case durable laptop sleeve,400.0,4.5,2
+1616,freecycle upcycled metal laptop case freecycle,laptop cases,eco friendly unique,sleeve case cover bag protection eco friendly upcycled unique,laptop case eco friendly laptop case sustainable laptop case upcycled laptop case unique laptop sleeve,500.0,4.4,1
+1617,woodchuck wooden laptop case woodchuck,laptop cases,eco friendly professional,sleeve case cover bag protection eco friendly wooden professional,laptop case eco friendly laptop case sustainable laptop case wooden laptop case professional laptop sleeve,1000.0,4.8,2
+1618,greenpax biodegradable laptop case greenpax,laptop cases,eco friendly active,sleeve case cover bag protection eco friendly biodegradable compostable active,laptop case eco friendly laptop case sustainable laptop case biodegradable laptop case compostable laptop case active laptop sleeve,800.0,4.7,2
+1619,repreve recycled plastic laptop case repreve,laptop cases,eco friendly durable,sleeve case cover bag protection eco friendly recycled plastic durable,laptop case eco friendly laptop case sustainable laptop case recycled laptop case plastic laptop case durable laptop sleeve,400.0,4.6,1
+1620,serrv international fair trade cotton laptop case serrv international,laptop cases,eco friendly stylish fair trade,sleeve case cover bag protection eco friendly cotton fair trade,laptop case eco friendly laptop case sustainable laptop case cotton laptop case fair trade laptop sleeve stylish laptop sleeve,700.0,4.7,2
+1621,organic cotton t shirt,clothing,,organic cotton t shirt t shirt organic cotton sustainable clothing,t shirt organic sustainable,1400.0,4.9,0
+1622,recycled polyester t shirt,clothing,,recycled polyester t shirt t shirt recycled polyester sustainable clothing,t shirt recycled sustainable,1750.0,4.9,0
+1623,linen t shirt,clothing,,linen t shirt t shirt linen sustainable clothing,t shirt linen sustainable,2100.0,4.9,0
+1624,hemp t shirt,clothing,,hemp t shirt t shirt hemp sustainable clothing,t shirt hemp sustainable,2450.0,4.9,0
+1625,tencel t shirt,clothing,,tencel t shirt t shirt tencel sustainable clothing,t shirt tencel sustainable,2800.0,4.9,0
+1626,vintage t shirt,clothing,,vintage t shirt t shirt vintage sustainable clothing,t shirt vintage sustainable,700.0,4.9,2
+1627,reused t shirt,clothing,,reused t shirt t shirt reused sustainable clothing,t shirt reused sustainable,350.0,4.9,2
+1628,diy t shirt,clothing,,diy t shirt t shirt diy sustainable clothing,t shirt diy sustainable,100.0,4.9,2
+1629,organic cotton t shirt design,clothing,,organic cotton t shirt t shirt organic cotton sustainable clothing design,t shirt organic sustainable design,1750.0,4.9,0
+1630,recycled polyester t shirt design,clothing,,recycled polyester t shirt t shirt recycled polyester sustainable clothing design,t shirt recycled sustainable design,2100.0,4.9,0
+1631,linen t shirt design,clothing,,linen t shirt t shirt linen sustainable clothing design,t shirt linen sustainable design,2450.0,4.9,0
+1632,hemp t shirt design,clothing,,hemp t shirt t shirt hemp sustainable clothing design,t shirt hemp sustainable design,2800.0,4.9,0
+1633,tencel t shirt design,clothing,,tencel t shirt t shirt tencel sustainable clothing design,t shirt tencel sustainable design,3150.0,4.9,0
+1634,vintage t shirt design,clothing,,vintage t shirt t shirt vintage sustainable clothing design,t shirt vintage sustainable design,1400.0,4.9,2
+1635,reused t shirt design,clothing,,reused t shirt t shirt reused sustainable clothing design,t shirt reused sustainable design,700.0,4.9,2
+1636,diy t shirt design,clothing,,diy t shirt t shirt diy sustainable clothing design,t shirt diy sustainable design,50.0,4.9,2
+1637,organic cotton t shirt pocket,clothing,,organic cotton t shirt t shirt organic cotton sustainable clothing pocket,t shirt organic sustainable pocket,1750.0,4.9,0
+1638,recycled polyester t shirt pocket,clothing,,recycled polyester t shirt t shirt recycled polyester sustainable clothing pocket,t shirt recycled sustainable pocket,2100.0,4.9,0
+1639,linen t shirt pocket,clothing,,linen t shirt t shirt linen sustainable clothing pocket,t shirt linen sustainable pocket,2450.0,4.9,0
+1640,hemp t shirt pocket,clothing,,hemp t shirt t shirt hemp sustainable clothing pocket,t shirt hemp sustainable pocket,2800.0,4.9,0
+1641,gold plated necklace shining diva,necklaces,gold plated,women s fashion jewellery,necklace gold plated shining diva,500.0,4.5,0
+1642,silver plated earrings yellow chimes,earrings,silver plated,women s fashion jewellery,earrings silver plated yellow chimes,300.0,4.2,0
+1643,american diamond bracelet zaveri pearls,bracelets,american diamond,women s fashion jewellery,bracelet american diamond zaveri pearls,700.0,4.7,1
+1644,pearl pendant set jewellery junction,pendant sets,pearl,women s fashion jewellery,pendant set pearl jewellery junction,1000.0,4.9,0
+1645,kundan ring shree shyam jewellers,rings,kundan,women s fashion jewellery,ring kundan shree shyam jewellers,400.0,4.4,1
+1646,oxidised silver anklet myntra,anklets,oxidised silver,women s fashion jewellery,anklet oxidised silver myntra,200.0,4.1,0
+1647,men s silver chain amazon,chains,silver,men s fashion jewellery,chain silver men s jewellery,600.0,4.6,0
+1648,men s black leather bracelet flipkart,bracelets,leather,men s fashion jewellery,bracelet leather men s jewellery,400.0,4.3,1
+1649,kids hair band kidzee,hair accessories,kids jewellery,hair band kids jewellery,opens new window www amazon kids hair band,150.0,4.0,0
+1650,kids necklace peora,necklaces,kids jewellery,necklace kids jewellery,opens new window www flipkart com kids necklace,200.0,4.2,1
+1651,gold plated jhumka earrings fabindia,earrings,jhumka,women s fashion jewellery,earrings jhumka gold plated fabindia,600.0,4.7,1
+1652,silver oxidised anklet ajio,anklets,oxidised silver,women s fashion jewellery,anklet oxidised silver ajio,300.0,4.2,0
+1653,american diamond pendant set voylla,pendant sets,american diamond,women s fashion jewellery,pendant set american diamond voylla,1200.0,4.9,1
+1654,pearl bracelet melorra,bracelets,pearl,women s fashion jewellery,bracelet pearl melorra,800.0,4.8,0
+1655,kundan ring zaveri pearls,rings,kundan,women s fashion jewellery,ring kundan zaveri pearls,500.0,4.5,1
+1656,oxidised silver nose ring nykaa fashion,nose rings,oxidised silver,women s fashion jewellery,nose ring oxidised silver nykaa fashion,200.0,4.1,0
+1657,men s gold plated bracelet voylla,bracelets,gold plated,men s fashion jewellery,bracelet gold plated men s jewellery,700.0,4.6,1
+1658,men s leather watch strap amazon,watch straps,leather,men s fashion jewellery,watch strap leather men s jewellery,500.0,4.4,0
+1659,kids hair clip h m,hair accessories,kids jewellery,hair clip kids jewellery,opens new window m indiamart com kids hair clip,100.0,4.0,1
+1660,kids bracelet set babyoye,bracelets,kids jewellery,bracelet set kids jewellery,opens new window www amazon kids bracelet set,300.0,4.2,0
+1661,bamboo comb,grooming,comb,bamboo comb comb bamboo sustainable grooming,comb bamboo sustainable,50.0,4.9,0
+1662,wooden comb,grooming,comb,wooden comb comb wooden sustainable grooming,comb wooden sustainable,60.0,4.9,0
+1663,horn comb,grooming,comb,horn comb comb horn sustainable grooming,comb horn sustainable,100.0,4.9,0
+1664,metal comb,grooming,comb,metal comb comb metal sustainable grooming,comb metal sustainable,80.0,4.9,0
+1665,ceramic comb,grooming,comb,ceramic comb comb ceramic sustainable grooming,comb ceramic sustainable,120.0,4.9,0
+1666,compostable comb,grooming,comb,compostable comb comb compostable sustainable grooming,comb compostable sustainable,50.0,4.9,2
+1667,plastic comb wide teeth,grooming,comb,plastic comb comb plastic wide teeth sustainable grooming,comb plastic sustainable wide teeth,20.0,4.9,1
+1668,plastic comb fine teeth,grooming,comb,plastic comb comb plastic fine teeth sustainable grooming,comb plastic sustainable fine teeth,30.0,4.9,1
+1669,bamboo comb wide teeth,grooming,comb,bamboo comb comb bamboo wide teeth sustainable grooming,comb bamboo sustainable wide teeth,60.0,4.9,0
+1670,wooden comb fine teeth,grooming,comb,wooden comb comb wooden fine teeth sustainable grooming,comb wooden sustainable fine teeth,70.0,4.9,0
+1671,horn comb handle,grooming,comb,horn comb comb horn handle sustainable grooming,comb horn sustainable handle,110.0,4.9,0
+1672,metal comb folding design,grooming,comb,metal comb comb metal folding sustainable grooming,comb metal sustainable folding,90.0,4.9,0
+1673,ceramic comb heat resistance,grooming,comb,ceramic comb comb ceramic heat resistant sustainable grooming,comb ceramic sustainable heat resistant,130.0,4.9,0
+1674,compostable comb double sided teeth,grooming,comb,compostable comb comb compostable double sided sustainable grooming,comb compostable sustainable double sided,60.0,4.9,2
+1675,reused comb unique design,grooming,comb,reused comb comb reused unique design sustainable grooming,comb reused sustainable unique design,40.0,4.9,2
+1676,diy comb natural materials,grooming,comb,diy comb comb diy natural materials sustainable grooming,comb diy sustainable natural materials,20.0,4.9,2
+1677,bamboo comb detangling bristles,grooming,comb,bamboo comb comb bamboo detangling bristles sustainable grooming,comb bamboo sustainable detangling,70.0,4.9,0
+1678,wooden comb afro teeth,grooming,comb,wooden comb comb wooden afro teeth sustainable grooming,comb wooden sustainable afro teeth,80.0,4.9,0
+1679,horn comb lice comb,grooming,comb,horn comb comb horn lice comb sustainable grooming,comb horn sustainable lice comb,120.0,4.9,0
+1680,metal comb beard comb,grooming,comb,metal comb comb metal beard comb sustainable grooming,comb metal sustainable beard comb,100.0,4.9,0
+1681,amazonbasics 4 tier adjustable shoe rack,shoe racks,door shoe racks,shoe rack organizer storage,shoes storage organization,999.0,4.5,1
+1682,ikea trones shoe rack doors,shoe racks,free standing shoe racks,shoe rack organizer storage,shoes storage organization,1999.0,4.8,0
+1683,pepperfry 3 tier shoe rack bench,shoe racks,free standing shoe racks,shoe rack organizer storage bench,shoes storage organization seating,2999.0,4.7,2
+1684,urban ladder 4 tier metal shoe rack,shoe racks,free standing shoe racks,shoe rack organizer storage,shoes storage organization,3999.0,4.9,1
+1685,fabindia 2 tier wooden shoe rack,shoe racks,free standing shoe racks,shoe rack organizer storage,shoes storage organization,4999.0,5.0,2
+1686,hometown 3 tier shoe rack shelves,shoe racks,free standing shoe racks,shoe rack organizer storage shelves,shoes storage organization display,5999.0,4.6,0
+1687,lifestyle 4 tier shoe rack wheels,shoe racks,free standing shoe racks,shoe rack organizer storage wheels,shoes storage organization mobility,6999.0,4.8,1
+1688,godrej interio 5 tier shoe rack mirror,shoe racks,free standing shoe racks,shoe rack organizer storage mirror,shoes storage organization display,7999.0,4.9,2
+1689,nilkamal 6 tier shoe rack cabinet,shoe racks,free standing shoe racks,shoe rack organizer storage cabinet,shoes storage organization concealment,8999.0,4.7,0
+1690,durian 7 tier shoe rack cushion,shoe racks,free standing shoe racks,shoe rack organizer storage cushion,shoes storage organization comfort,9999.0,4.9,1
+1691,ikea skubb shoe organizer,shoe racks,bed shoe racks,shoe rack organizer storage,shoes storage organization,499.0,4.4,0
+1692,hometown door shoe organizer,shoe racks,door shoe racks,shoe rack organizer storage,shoes storage organization,699.0,4.6,1
+1693,lifestyle wall mounted shoe rack,shoe racks,wall mounted shoe racks,shoe rack organizer storage,shoes storage organization,899.0,4.8,2
+1694,godrej interio corner shoe rack,shoe racks,corner shoe racks,shoe rack organizer storage,shoes storage organization,1099.0,4.9,1
+1695,nilkamal wooden shoe rack drawers,shoe racks,free standing shoe racks,shoe rack organizer storage drawers,shoes storage organization concealment,1299.0,4.7,0
+1696,durian metal shoe rack shoe horns,shoe racks,free standing shoe racks,shoe rack organizer storage shoe horns,shoes storage organization convenience,1499.0,4.9,1
+1697,amazonbasics 2 tier shoe rack seat,shoe racks,free standing shoe racks,shoe rack organizer storage seat,shoes storage organization seating,1699.0,4.5,2
+1698,ikea trones shoe rack baskets,shoe racks,free standing shoe racks,shoe rack organizer storage baskets,shoes storage organization concealment,1899.0,4.8,0
+1699,pepperfry 3 tier shoe rack doors,shoe racks,free standing shoe racks,shoe rack organizer storage doors,shoes storage organization concealment,2099.0,4.7,1
+1700,urban ladder 4 tier shoe rack shelves,shoe racks,free standing shoe racks,shoe rack organizer storage shelves,shoes storage organization display,2299.0,4.9,2
+1701,wooden clothespins eco products,home kitchen,laundry,clothespins,wooden eco friendly sustainable,200.0,4.5,2
+1702,stainless steel clothespins greenliving,home kitchen,laundry,clothespins,stainless steel rust proof durable,300.0,4.0,0
+1703,plastic clothespins clothespin central,home kitchen,laundry,clothespins,plastic affordable colorful,100.0,3.5,1
+1704,bamboo clothespins ecofriendlyhome,home kitchen,laundry,clothespins,bamboo sustainable biodegradable,250.0,4.2,2
+1705,spring clothespins clothespinworld,home kitchen,laundry,clothespins,spring loaded easy use secure,150.0,3.7,1
+1706,decorative clothespins clothespincreative,home kitchen,laundry,clothespins,fun colorful unique,120.0,3.8,1
+1707,travel clothespins clothespintogo,travel,accessories,clothespins,lightweight portable compact,180.0,4.1,0
+1708,heavy duty clothespins clothespinstrong,home kitchen,laundry,clothespins,strong durable weather,350.0,4.6,1
+1709,solar powered clothespins greenliving,home kitchen,laundry,clothespins,solar powered eco friendly efficient,500.0,4.3,0
+1710,smart clothespins clothespinsmart,home kitchen,laundry,clothespins,smart wi fi enabled connected,800.0,4.8,1
+1711,wooden clothespins pegs eco products,home kitchen,laundry,clothespins,wooden eco friendly sustainable pegs,220.0,4.6,2
+1712,stainless steel clothespins springs greenliving,home kitchen,laundry,clothespins,stainless steel rust proof durable spring loaded,320.0,4.1,0
+1713,plastic clothespins grips clothespin central,home kitchen,laundry,clothespins,plastic affordable colorful grips,110.0,3.6,1
+1714,bamboo clothespins hooks ecofriendlyhome,home kitchen,laundry,clothespins,bamboo sustainable biodegradable hooks,260.0,4.3,2
+1715,spring clothespins clips clothespinworld,home kitchen,laundry,clothespins,spring loaded easy use secure clips,160.0,3.8,1
+1716,decorative clothespins patterns clothespincreative,home kitchen,laundry,clothespins,fun colorful unique patterns,130.0,3.9,1
+1717,travel clothespins pouch clothespintogo,travel,accessories,clothespins,lightweight portable compact pouch,190.0,4.2,0
+1718,heavy duty clothespins double springs clothespinstrong,home kitchen,laundry,clothespins,strong durable weather double springs,360.0,4.7,1
+1719,solar powered clothespins light greenliving,home kitchen,laundry,clothespins,solar powered eco friendly efficient light,520.0,4.4,0
+1720,smart clothespins app control clothespinsmart,home kitchen,laundry,clothespins,smart wi fi enabled connected app control,820.0,4.9,1
+1721,wooden hanger standard hook,clothing,hanger,wooden hanger hanger wooden standard hook sustainable clothing,hanger wooden sustainable standard hook,699.0,4.9,0
+1722,metal hanger velvet coating,clothing,hanger,metal hanger hanger metal velvet coating sustainable clothing,hanger metal sustainable velvet coating,1099.0,4.9,0
+1723,bamboo hanger non slip design,clothing,hanger,bamboo hanger hanger bamboo non slip sustainable clothing,hanger bamboo sustainable non slip,1299.0,4.9,0
+1724,plastic hanger standard hook,clothing,hanger,plastic hanger hanger plastic standard hook sustainable clothing,hanger plastic sustainable standard hook,899.0,4.9,1
+1725,plastic hanger velvet coating,clothing,hanger,plastic hanger hanger plastic velvet coating sustainable clothing,hanger plastic sustainable velvet coating,1245.0,4.9,1
+1726,wooden hanger cascading hooks,clothing,hanger,wooden hanger hanger wooden cascading hooks sustainable clothing,hanger wooden sustainable cascading hooks,1999.0,4.9,0
+1727,plastic hanger space saving design,clothing,hanger,plastic hanger hanger plastic space saving sustainable clothing,hanger plastic sustainable space saving,1100.0,4.9,1
+1728,metal hanger adjustable height,clothing,hanger,metal hanger hanger metal adjustable height sustainable clothing,hanger metal sustainable adjustable height,1499.0,4.9,0
+1729,plastic hanger heavy duty construction,clothing,hanger,plastic hanger hanger plastic heavy duty sustainable clothing,hanger plastic sustainable heavy duty,989.0,4.9,1
+1730,bamboo hanger eco friendly finish,clothing,hanger,bamboo hanger hanger bamboo eco friendly finish sustainable clothing,hanger bamboo sustainable eco friendly finish,1599.0,4.9,0
+1731,plastic hanger personalized engraving,clothing,hanger,plastic hanger hanger plastic personalized engraving sustainable clothing,hanger plastic sustainable personalized engraving,1499.0,4.9,1
+1732,wooden hanger cascading hooks,clothing,hanger,wooden hanger hanger wooden cascading hooks sustainable clothing,hanger wooden sustainable cascading hooks,1399.0,4.9,0
+1733,plastic hanger non slip coating,clothing,hanger,plastic hanger hanger plastic non slip coating sustainable clothing,hanger plastic sustainable non slip coating,1299.0,4.9,1
+1734,metal hanger rust resistant finish,clothing,hanger,metal hanger hanger metal rust resistant finish sustainable clothing,hanger metal sustainable rust resistant finish,1359.0,4.9,0
+1735,plastic hanger tiered design,clothing,hanger,plastic hanger hanger plastic tiered sustainable clothing,hanger plastic sustainable tiered,1259.0,4.9,1
+1736,wooden hanger child size design,clothing,hanger,wooden hanger hanger wooden child size sustainable clothing,hanger wooden sustainable child size,1349.0,4.9,0
+1737,metal hanger velvet covered clips,clothing,hanger,metal hanger hanger metal velvet covered clips sustainable clothing,hanger metal sustainable velvet covered clips,1399.0,4.9,0
+1738,plastic hanger extendable design,clothing,hanger,plastic hanger hanger plastic extendable sustainable clothing,hanger plastic sustainable extendable,1249.0,4.9,1
+1739,wooden hanger non slip rubber grips,clothing,hanger,wooden hanger hanger wooden non slip rubber grips sustainable clothing,hanger wooden sustainable non slip rubber grips,1299.0,4.9,0
+1740,metal hanger heavy duty swivel hook,clothing,hanger,metal hanger hanger metal heavy duty swivel hook sustainable clothing,hanger metal sustainable heavy duty swivel hook,1139.0,4.9,0
+1741,aluminium extension ladder bosch,tools hardware,ladders scaffolding,aluminium extension bosch,aluminium extension ladder bosch,2500.0,4.5,1
+1742,fiberglass step ladder werner,tools hardware,ladders scaffolding,fiberglass step werner,fiberglass step ladder werner,3000.0,4.7,2
+1743,multi purpose ladder little giant,tools hardware,ladders scaffolding,multi purpose little giant,multi purpose ladder little giant,3500.0,4.8,1
+1744,attic ladder fakro,tools hardware,ladders scaffolding,attic fakro,attic ladder fakro,4000.0,4.6,0
+1745,telescopic ladder wolf,tools hardware,ladders scaffolding,telescopic wolf,telescopic ladder wolf,4500.0,4.8,1
+1746,scaffolding ladder layher,tools hardware,ladders scaffolding,scaffolding layher,scaffolding ladder layher,5000.0,4.7,2
+1747,garden ladder spear jackson,gardening diy,ladders steps,garden spear jackson,garden ladder spear jackson,2000.0,4.4,1
+1748,step stool rubbermaid,home kitchen,ladders steps,step stool rubbermaid,step stool rubbermaid,1500.0,4.3,0
+1749,ladder dolly kwik step,tools hardware,ladders scaffolding,ladder dolly kwik step,ladder dolly kwik step,1000.0,4.6,1
+1750,ladder stabilizer xtend climb,tools hardware,ladders scaffolding,ladder stabilizer xtend climb,ladder stabilizer xtend climb,500.0,4.7,2
+1751,wooden step ladder louisville ladder,tools hardware,ladders scaffolding,wooden step louisville ladder,wooden step ladder louisville ladder,2700.0,4.3,1
+1752,foldable ladder gorilla ladders,tools hardware,ladders scaffolding,foldable gorilla ladders,foldable ladder gorilla ladders,3200.0,4.5,2
+1753,platform ladder werner,tools hardware,ladders scaffolding,platform werner,platform ladder werner,3700.0,4.6,1
+1754,painter s ladder little giant,tools hardware,ladders scaffolding,painter s little giant,painter s ladder little giant,4200.0,4.7,2
+1755,roof ladder werner,tools hardware,ladders scaffolding,roof werner,roof ladder werner,4700.0,4.8,1
+1756,industrial ladder louisville ladder,tools hardware,ladders scaffolding,industrial louisville ladder,industrial ladder louisville ladder,5200.0,4.7,2
+1757,orchard ladder gorilla ladders,gardening diy,ladders steps,orchard gorilla ladders,orchard ladder gorilla ladders,2200.0,4.4,1
+1758,step ladder handrail rubbermaid,home kitchen,ladders steps,step ladder handrail rubbermaid,step ladder handrail rubbermaid,1700.0,4.3,0
+1759,ladder extension kwik step,tools hardware,ladders scaffolding,ladder extension kwik step,ladder extension kwik step,1200.0,4.6,1
+1760,ladder leveler xtend climb,tools hardware,ladders scaffolding,ladder leveler xtend climb,ladder leveler xtend climb,600.0,4.7,2
+1761,manduka eko lite yoga mat,fitness exercise,yoga mats,eco friendly yoga mat yoga mat eco friendly sustainable,yoga mat eco friendly sustainable,1400.0,4.9,0
+1762,jadeyoga harmony yoga mat,fitness exercise,yoga mats,sustainable yoga mat yoga mat sustainable eco friendly,yoga mat sustainable eco friendly,1500.0,4.9,0
+1763,b yoga b mat everyday yoga mat,fitness exercise,yoga mats,natural rubber yoga mat yoga mat natural rubber eco friendly,yoga mat natural rubber eco friendly,1200.0,4.9,0
+1764,corkyogis natural cork yoga mat,fitness exercise,yoga mats,cork yoga mat natural cork yoga mat eco friendly,yoga mat cork eco friendly,1300.0,4.9,0
+1765,gaiam yoga mat eco friendly,fitness exercise,yoga mats,eco friendly yoga mat yoga mat eco friendly sustainable,yoga mat eco friendly sustainable,1000.0,4.9,0
+1766,pvc yoga mat,fitness exercise,yoga mats,yoga mat pvc non eco friendly,yoga mat pvc non eco friendly,400.0,4.9,1
+1767,nbr yoga mat,fitness exercise,yoga mats,yoga mat nbr non eco friendly,yoga mat nbr non eco friendly,300.0,4.9,1
+1768,tpe yoga mat,fitness exercise,yoga mats,yoga mat tpe non eco friendly,yoga mat tpe non eco friendly,600.0,4.9,1
+1769,eva yoga mat,fitness exercise,yoga mats,yoga mat eva non eco friendly,yoga mat eva non eco friendly,500.0,4.9,1
+1770,recycled plastic yoga mat,fitness exercise,yoga mats,yoga mat recycled plastic non eco friendly,yoga mat recycled plastic non eco friendly,800.0,4.9,1
+1771,hemp yoga mat,fitness exercise,yoga mats,yoga mat hemp eco friendly,yoga mat hemp eco friendly,1500.0,4.9,0
+1772,organic cotton yoga mat,fitness exercise,yoga mats,yoga mat organic cotton eco friendly,yoga mat organic cotton eco friendly,1600.0,4.9,0
+1773,natural rubber yoga mat,fitness exercise,yoga mats,yoga mat natural rubber eco friendly,yoga mat natural cork eco friendly,1800.0,4.9,0
+1774,cork yoga mat,fitness exercise,yoga mats,yoga mat cork eco friendly,yoga mat cork eco friendly,1300.0,4.9,0
+1775,bamboo yoga mat,fitness exercise,yoga mats,yoga mat bamboo eco friendly,yoga mat bamboo eco friendly,1400.0,4.9,0
+1776,jute yoga mat,fitness exercise,yoga mats,yoga mat jute eco friendly,yoga mat jute eco friendly,1500.0,4.9,0
+1777,wool yoga mat,fitness exercise,yoga mats,yoga mat wool eco friendly,yoga mat wool eco friendly,1600.0,4.9,0
+1778,pvc yoga mat,fitness exercise,yoga mats,yoga mat pvc non eco friendly,yoga mat pvc non eco friendly,400.0,4.9,1
+1779,nbr yoga mat,fitness exercise,yoga mats,yoga mat nbr non eco friendly,yoga mat nbr non eco friendly,300.0,4.9,1
+1780,tpe yoga mat,fitness exercise,yoga mats,yoga mat tpe non eco friendly,yoga mat tpe non eco friendly,600.0,4.9,1
+1781,mrf kashmir willow cricket bat,bats,english willow bats,kashmir willow bat,cricket bat english willow kashmir willow mrf,10000.0,4.5,2
+1782,ss ton cricket bat,bats,english willow bats,ss ton bat,cricket bat english willow ss ton,15000.0,4.8,0
+1783,sg icon cricket bat,bats,english willow bats,sg icon bat,cricket bat english willow sg icon,20000.0,4.9,2
+1784,kookaburra kahuna cricket bat,bats,australian willow bats,kookaburra kahuna bat,cricket bat australian willow kookaburra kahuna,25000.0,5.0,0
+1785,gray nicolls masterclass cricket bat,bats,english willow bats,gray nicolls masterclass bat,cricket bat english willow gray nicolls masterclass,30000.0,4.7,2
+1786,gunn moore diamond cricket bat,bats,english willow bats,gunn moore diamond bat,cricket bat english willow gunn moore diamond,35000.0,4.9,0
+1787,masuri ghost cricket bat,bats,english willow bats,masuri ghost bat,cricket bat english willow masuri ghost,40000.0,5.0,2
+1788,adidas adipower cricket shoe,cricket,shoe,adidas adipower bat,cricket bat english willow adidas adipower,45000.0,4.8,1
+1789,nike air zoom cricket bat,bats,english willow bats,nike air zoom bat,cricket bat english willow nike air zoom,50000.0,4.9,2
+1790,puma evopower cricket bat,bats,english willow bats,puma evopower bat,cricket bat english willow puma evopower,55000.0,5.0,0
+1791,ram crazy plastic cricket bat,bats,plastic bats,plastic bat,cricket bat plastic bat ram crazy,500.0,3.5,1
+1792,grs kids zone heavy grade plastic cricket bat,bats,plastic bats,kids plastic bat,cricket bat plastic bat kids plastic bat,750.0,4.0,1
+1793,cw plastic cricket bat,bats,plastic bats,plastic bat,cricket bat plastic bat cw,1000.0,4.5,1
+1794,ranrox fitness plastic cricket bat,bats,plastic bats,plastic bat,cricket bat plastic bat ranrox fitness,1250.0,4.7,1
+1795,hyper heavy grade hard plastic cricket bat,bats,plastic bats,hard plastic bat,cricket bat hard plastic bat hyper,1500.0,4.9,1
+1796,ram crazy rubber cricket bat,bats,rubber bats,rubber bat,cricket bat rubber bat ram crazy,1000.0,3.5,1
+1797,grs kids zone heavy grade rubber cricket bat,bats,rubber bats,kids rubber bat,cricket bat rubber bat kids rubber bat,1250.0,4.0,0
+1798,cw rubber cricket bat,bats,rubber bats,rubber bat,cricket bat rubber bat cw,1500.0,4.5,2
+1799,ranrox fitness rubber cricket bat,bats,rubber bats,rubber bat,cricket bat rubber bat ranrox fitness,1750.0,4.7,2
+1800,hyper heavy grade hard rubber cricket bat,bats,rubber bats,hard rubber bat,cricket bat hard rubber bat hyper,2000.0,4.9,2
+1801,konjac sponge,bath body,loofahs,konjac sponge loofah eco friendly sustainable,konjac sponge loofah eco friendly sustainable,100.0,4.9,0
+1802,luffa sponge,bath body,loofahs,luffa sponge loofah eco friendly sustainable,luffa sponge loofah eco friendly sustainable,50.0,4.9,0
+1803,bamboo loofah,bath body,loofahs,bamboo loofah loofah eco friendly sustainable,bamboo loofah eco friendly sustainable,70.0,4.9,0
+1804,hemp loofah,bath body,loofahs,hemp loofah loofah eco friendly sustainable,hemp loofah eco friendly sustainable,80.0,4.9,0
+1805,sisal loofah,bath body,loofahs,sisal loofah loofah eco friendly sustainable,sisal loofah eco friendly sustainable,60.0,4.9,0
+1806,plastic loofah,bath body,loofahs,plastic loofah loofah plastic non eco friendly,plastic loofah non eco friendly,30.0,4.9,1
+1807,synthetic loofah,bath body,loofahs,synthetic loofah loofah synthetic non eco friendly,synthetic loofah non eco friendly,40.0,4.9,1
+1808,sea wool loofah,bath body,loofahs,sea wool loofah loofah eco friendly sustainable,sea wool loofah eco friendly sustainable,90.0,4.9,0
+1809,loofah scrubber,bath body,loofahs,loofah scrubber loofah eco friendly sustainable,loofah scrubber eco friendly sustainable,100.0,4.9,0
+1810,loofah facial pad,bath body,loofahs,loofah facial pad loofah eco friendly sustainable,loofah facial pad eco friendly sustainable,70.0,4.9,0
+1811,loofah exfoliating gloves,bath body,loofahs,loofah exfoliating gloves loofah eco friendly sustainable,loofah exfoliating gloves eco friendly sustainable,120.0,4.9,0
+1812,loofah soap pouch,bath body,loofahs,loofah soap pouch loofah eco friendly sustainable,loofah soap pouch eco friendly sustainable,80.0,4.9,0
+1813,loofah dish scrubber,bath body,loofahs,loofah dish scrubber loofah eco friendly sustainable,loofah dish scrubber eco friendly sustainable,60.0,4.9,0
+1814,loofah body brush,bath body,loofahs,loofah body brush loofah eco friendly sustainable,loofah body brush eco friendly sustainable,90.0,4.9,0
+1815,loofah shoe brush,bath body,loofahs,loofah shoe brush loofah eco friendly sustainable,loofah shoe brush eco friendly sustainable,80.0,4.9,0
+1816,loofah pot scrubber,bath body,loofahs,loofah pot scrubber loofah eco friendly sustainable,loofah pot scrubber eco friendly sustainable,70.0,4.9,0
+1817,loofah vegetable brush,bath body,loofahs,loofah vegetable brush loofah eco friendly sustainable,loofah vegetable brush eco friendly sustainable,60.0,4.9,0
+1818,plastic loofah brush,bath body,loofahs,plastic loofah brush loofah plastic non eco friendly,plastic loofah non eco friendly,30.0,4.9,1
+1819,synthetic loofah brush,bath body,loofahs,synthetic loofah brush loofah synthetic non eco friendly,synthetic loofah non eco friendly,40.0,4.9,1
+1820,loofah pet brush,bath body,loofahs,loofah pet brush loofah eco friendly sustainable,loofah pet brush eco friendly sustainable,80.0,4.9,0
+1821,bamboo laundry basket ikea,home kitchen,laundry,laundry baskets,bamboo laundry basket ikea,1000.0,4.8,2
+1822,fabric laundry basket walmart,home kitchen,laundry,laundry baskets,fabric laundry basket walmart,750.0,4.3,1
+1823,wicker laundry basket target,home kitchen,laundry,laundry baskets,wicker laundry basket target,1200.0,4.7,2
+1824,stainless steel laundry basket home depot,home kitchen,laundry,laundry baskets,stainless steel laundry basket home depot,2000.0,4.9,1
+1825,foldable laundry basket tj maxx,home kitchen,laundry,laundry baskets,foldable laundry basket tj maxx,600.0,4.4,0
+1826,hanging laundry basket overstock,home kitchen,laundry,laundry baskets,hanging laundry basket overstock,800.0,4.6,1
+1827,collapsible laundry basket bed bath,home kitchen,laundry,laundry baskets,collapsible laundry basket bed bath,700.0,4.5,1
+1828,stackable laundry basket container store,home kitchen,laundry,laundry baskets,stackable laundry basket container store,1100.0,4.7,2
+1829,rolling laundry basket wayfair,home kitchen,laundry,laundry baskets,rolling laundry basket wayfair,1500.0,4.9,1
+1830,plastic laundry basket amazon,home kitchen,laundry,laundry baskets,plastic laundry basket amazon,500.0,4.5,0
+1831,mesh laundry basket bed bath,home kitchen,laundry,laundry baskets,mesh laundry basket bed bath,700.0,4.5,1
+1832,plastic laundry bag amazon,home kitchen,laundry,laundry bags,plastic laundry bag amazon,300.0,4.2,0
+1833,hamper target,home kitchen,laundry,hampers,hamper target,1000.0,4.7,1
+1834,laundry sorter home depot,home kitchen,laundry,laundry sorters,laundry sorter home depot,1500.0,4.8,2
+1835,laundry basket organizer overstock,home kitchen,laundry,laundry organizers,laundry organizer overstock,800.0,4.6,1
+1836,pop laundry basket container store,home kitchen,laundry,laundry baskets,pop laundry basket container store,600.0,4.4,0
+1837,underbed laundry basket bed bath,home kitchen,laundry,laundry baskets,underbed laundry basket bed bath,700.0,4.5,1
+1838,wall mounted laundry basket wayfair,home kitchen,laundry,laundry baskets,wall mounted laundry basket wayfair,800.0,4.6,1
+1839,laundry cart amazon,home kitchen,laundry,laundry carts,laundry cart amazon,1200.0,4.7,0
+1840,laundry hamper lid target,home kitchen,laundry,hampers,hamper lid target,1000.0,4.7,1
+1841,biodegradable mailer bags ecoenclose,shipping bags,compostable mailers,biodegradable compostable eco friendly shipping bags,mailer bags compost bags green packaging,200.0,4.5,2
+1842,recycled paper bubble wrap better packaging company,cushioning materials,recycled bubble wrap,recycled paper cushioning bubble wrap,eco friendly packaging green packaging recycled materials,300.0,4.8,1
+1843,plant based packing peanuts packing peanuts direct,cushioning materials,plant based packing peanuts,plant based biodegradable compostable packing peanuts,eco friendly packaging green packaging sustainable packaging,400.0,4.7,2
+1844,reusable shipping boxes repack,shipping boxes,reusable shipping boxes,reusable shipping boxes eco friendly,sustainable packaging green packaging cost effective packaging,500.0,4.9,1
+1845,recycled paper tape uline,shipping tape,recycled paper tape,recycled paper shipping tape eco friendly,sustainable packaging green packaging strong tape,100.0,4.6,1
+1846,water activated paper tape eco products,shipping tape,water activated paper tape,water activated paper shipping tape eco friendly,sustainable packaging green packaging biodegradable tape,150.0,4.7,2
+1847,compostable food packaging greenware,food packaging,compostable food packaging,compostable food packaging eco friendly,sustainable packaging green packaging disposable packaging,250.0,4.8,2
+1848,recycled glass jars ball mason jars,food packaging,recycled glass jars,recycled glass food packaging eco friendly,sustainable packaging green packaging reusable packaging,350.0,4.9,1
+1849,bamboo utensils eco bamboo products,food utensils,bamboo utensils,bamboo food utensils eco friendly,sustainable packaging green packaging reusable utensils,450.0,4.7,1
+1850,reusable shopping bags chicobag,shopping bags,reusable shopping bags,reusable shopping bags eco friendly,sustainable packaging green packaging cost effective packaging,550.0,4.9,1
+1851,recycled paper void better packaging company,cushioning materials,recycled paper void,recycled paper void eco friendly,sustainable packaging green packaging protective packaging,200.0,4.5,1
+1852,biodegradable air pillows ecoenclose,cushioning materials,biodegradable air pillows,biodegradable air pillows cushioning eco friendly,sustainable packaging green packaging protective packaging,300.0,4.8,2
+1853,plant based packing cubes packing peanuts direct,cushioning materials,plant based packing cubes,plant based biodegradable compostable packing cubes,eco friendly packaging green packaging sustainable packaging,400.0,4.7,2
+1854,reusable shipping envelopes repack,shipping envelopes,reusable shipping envelopes,reusable shipping envelopes eco friendly,sustainable packaging green packaging cost effective packaging,500.0,4.9,1
+1855,recycled kraft paper uline,wrapping paper,recycled kraft paper,recycled kraft paper wrapping paper eco friendly,sustainable packaging green packaging brown paper,100.0,4.6,1
+1856,eco friendly shipping labels eco products,shipping labels,eco friendly shipping labels,eco friendly shipping labels recycled,sustainable packaging green packaging compostable labels,150.0,4.7,2
+1857,compostable food service containers greenware,food service containers,compostable food service containers,compostable food service containers eco friendly,sustainable packaging green packaging disposable containers,250.0,4.8,2
+1858,recycled plastic cups ball mason jars,food service containers,recycled plastic cups,recycled plastic cups food service containers eco friendly,sustainable packaging green packaging reusable cups,350.0,4.9,1
+1859,bamboo straws eco bamboo products,food utensils,bamboo straws,bamboo food utensils straws eco friendly,sustainable packaging green packaging reusable utensils,450.0,4.7,1
+1860,reusable shopping totes chicobag,shopping bags,reusable shopping totes,reusable shopping totes eco friendly,sustainable packaging green packaging cost effective packaging,550.0,4.9,1
+1861,ethique shampoo bar,bath body,soaps,shampoo bar eco friendly sustainable zero waste,shampoo bar eco friendly sustainable zero waste,100.0,4.9,0
+1862,dr bronner s magic soaps,bath body,soaps,liquid soap eco friendly sustainable cruelty free,liquid soap eco friendly sustainable cruelty free,120.0,4.9,0
+1863,castile soap,bath body,soaps,castile soap eco friendly sustainable vegan,castile soap eco friendly sustainable vegan,80.0,4.9,0
+1864,glycerin soap,bath body,soaps,glycerin soap eco friendly sustainable moisturizing,glycerin soap eco friendly sustainable moisturizing,90.0,4.9,0
+1865,shea butter soap,bath body,soaps,shea butter soap eco friendly sustainable nourishing,shea butter soap eco friendly sustainable nourishing,100.0,4.9,0
+1866,goat s milk soap,bath body,soaps,goat s milk soap eco friendly sustainable gentle,goat s milk soap eco friendly sustainable gentle,110.0,4.9,0
+1867,aleppo soap,bath body,soaps,aleppo soap eco friendly sustainable traditional,aleppo soap eco friendly sustainable traditional,120.0,4.9,0
+1868,olive oil soap,bath body,soaps,olive oil soap eco friendly sustainable moisturizing,olive oil soap eco friendly sustainable moisturizing,90.0,4.9,0
+1869,coconut oil soap,bath body,soaps,coconut oil soap eco friendly sustainable cleansing,coconut oil soap eco friendly sustainable cleansing,80.0,4.9,0
+1870,honey soap,bath body,soaps,honey soap eco friendly sustainable nourishing,honey soap eco friendly sustainable nourishing,100.0,4.9,0
+1871,oatmeal soap,bath body,soaps,oatmeal soap eco friendly sustainable soothing,oatmeal soap eco friendly sustainable soothing,90.0,4.9,0
+1872,lavender soap,bath body,soaps,lavender soap eco friendly sustainable calming,lavender soap eco friendly sustainable calming,80.0,4.9,0
+1873,ethique shampoo bar,bath body,soaps,shampoo bar eco friendly sustainable zero waste,shampoo bar eco friendly sustainable zero waste,100.0,4.9,0
+1874,dr bronner s magic soaps,bath body,soaps,liquid soap eco friendly sustainable cruelty free,liquid soap eco friendly sustainable cruelty free,120.0,4.9,0
+1875,castile soap,bath body,soaps,castile soap eco friendly sustainable vegan,castile soap eco friendly sustainable vegan,80.0,4.9,0
+1876,glycerin soap,bath body,soaps,glycerin soap eco friendly sustainable moisturizing,glycerin soap eco friendly sustainable moisturizing,90.0,4.9,0
+1877,shea butter soap,bath body,soaps,shea butter soap eco friendly sustainable nourishing,shea butter soap eco friendly sustainable nourishing,100.0,4.9,0
+1878,goat s milk soap,bath body,soaps,goat s milk soap eco friendly sustainable gentle,goat s milk soap eco friendly sustainable gentle,110.0,4.9,0
+1879,palm oil soap,bath body,soaps,palm oil soap non eco friendly unsustainable,palm oil soap non eco friendly unsustainable,50.0,4.9,1
+1880,detergent bar,bath body,soaps,detergent bar non eco friendly unsustainable,detergent bar non eco friendly unsustainable,30.0,4.9,1
+1881,plastic rope abc company,home garden,hardware,rope,plastic rope,200.0,4.5,2
+1882,jute rope xyz company,home garden,hardware,rope,jute rope,300.0,5.0,0
+1883,wool rope pqr company,home garden,hardware,rope,wool rope,400.0,4.0,0
+1884,synthetic rope mno company,home garden,hardware,rope,synthetic rope,500.0,3.5,1
+1885,rubber rope lko company,home garden,hardware,rope,rubber rope,600.0,4.0,1
+1886,steel rope jkl company,home garden,hardware,rope,steel rope,700.0,4.5,2
+1887,plastic rope def company,industrial scientific,construction,rope,plastic rope,800.0,4.0,2
+1888,jute rope ghi company,industrial scientific,construction,rope,jute rope,900.0,5.0,0
+1889,wool rope rst company,marine,boating,rope,wool rope,1000.0,4.0,0
+1890,synthetic rope uvw company,marine,boating,rope,synthetic rope,1100.0,3.5,1
+1891,aramid rope abc company,safety security,climbing,rope,aramid rope,1200.0,4.5,2
+1892,cotton rope xyz company,home garden,arts crafts,rope,cotton rope,1300.0,5.0,0
+1893,bamboo rope pqr company,pet supplies,toys,rope,bamboo rope,1400.0,4.0,0
+1894,hemp rope mno company,sports outdoors,camping hiking,rope,hemp rope,1500.0,3.5,0
+1895,coir rope lko company,marine,fishing,rope,coir rope,1600.0,4.0,0
+1896,sisal rope jkl company,industrial scientific,agriculture,rope,sisal rope,1700.0,4.5,1
+1897,manila rope def company,industrial scientific,mining,rope,manila rope,1800.0,5.0,1
+1898,dyneema rope ghi company,safety security,rescue,rope,dyneema rope,1900.0,4.0,2
+1899,vectran rope rst company,marine,sailing,rope,vectran rope,2000.0,3.5,2
+1900,spectra rope uvw company,sports outdoors,mountaineering,rope,spectra rope,2100.0,4.0,2
+1901,manduka bamboo paperweight,office school supplies,paperweights,bamboo paperweight eco friendly sustainable,bamboo paperweight eco friendly sustainable,100.0,4.9,0
+1902,corkyogis cork paperweight,office school supplies,paperweights,cork paperweight eco friendly sustainable,cork paperweight eco friendly sustainable,120.0,4.9,0
+1903,recycled paper paperweight,office school supplies,paperweights,recycled paper paperweight eco friendly sustainable,recycled paper paperweight eco friendly sustainable,80.0,4.9,0
+1904,seed paper paperweight,office school supplies,paperweights,seed paper paperweight eco friendly sustainable,seed paper paperweight eco friendly sustainable,100.0,4.9,0
+1905,glass paperweight,office school supplies,paperweights,glass paperweight non eco friendly,glass paperweight non eco friendly,50.0,4.9,1
+1906,metal paperweight,office school supplies,paperweights,metal paperweight non eco friendly,metal paperweight non eco friendly,30.0,4.9,1
+1907,plastic paperweight,office school supplies,paperweights,plastic paperweight non eco friendly,plastic paperweight non eco friendly,20.0,4.9,1
+1908,stone paperweight,office school supplies,paperweights,stone paperweight non eco friendly,stone paperweight non eco friendly,40.0,4.9,1
+1909,ceramic paperweight,office school supplies,paperweights,ceramic paperweight non eco friendly,ceramic paperweight non eco friendly,50.0,4.9,1
+1910,crystal paperweight,office school supplies,paperweights,crystal paperweight non eco friendly,crystal paperweight non eco friendly,100.0,4.9,1
+1911,wood paperweight,office school supplies,paperweights,wood paperweight non eco friendly,wood paperweight non eco friendly,80.0,4.9,1
+1912,leather paperweight,office school supplies,paperweights,leather paperweight non eco friendly,leather paperweight non eco friendly,120.0,4.9,1
+1913,recycled plastic paperweight,office school supplies,paperweights,recycled plastic paperweight eco friendly sustainable,recycled plastic paperweight eco friendly sustainable,70.0,4.9,1
+1914,silicone paperweight,office school supplies,paperweights,silicone paperweight non eco friendly,silicone paperweight non eco friendly,50.0,4.9,1
+1915,acrylic paperweight,office school supplies,paperweights,acrylic paperweight non eco friendly,acrylic paperweight non eco friendly,40.0,4.9,1
+1916,resin paperweight,office school supplies,paperweights,resin paperweight non eco friendly,resin paperweight non eco friendly,60.0,4.9,1
+1917,epoxy paperweight,office school supplies,paperweights,epoxy paperweight non eco friendly,epoxy paperweight non eco friendly,80.0,4.9,1
+1918,concrete paperweight,office school supplies,paperweights,concrete paperweight non eco friendly,concrete paperweight non eco friendly,100.0,4.9,1
+1919,marble paperweight,office school supplies,paperweights,marble paperweight non eco friendly,marble paperweight non eco friendly,120.0,4.9,1
+1920,gemstone paperweight,office school supplies,paperweights,gemstone paperweight non eco friendly,gemstone paperweight non eco friendly,150.0,4.9,1
+1921,l oreal paris revitalift hyaluronic acid serum,skincare,serums,hyaluronic acid anti aging,moisturizing hydrating plumping,999.0,4.5,1
+1922,maybelline new york fit matte poreless foundation,makeup,face,foundation,matte coverage long wearing,599.0,4.8,2
+1923,plum bodylovin shower gel mandarin jasmine,bath body,shower gels,mandarin jasmine,refreshing cleansing moisturizing,299.0,4.7,0
+1924,body shop british rose body butter,bath body,body lotions creams,rose,moisturizing nourishing soothing,899.0,4.9,1
+1925,mamaearth onion black seed hair oil,hair care,hair oils,onion black seed,hair growth hair fall control scalp care,399.0,4.6,2
+1926,nykaa naturals coco charcoal face mask,skincare,face masks,charcoal,deep cleaning pore minimizing blackhead removal,499.0,4.4,1
+1927,sugar cosmetics contour force mini highlighter,makeup,face,highlighter,natural glow shimmer luminous,399.0,4.7,0
+1928,myglamm lit liquid lipstick scarlet siren,makeup,lips,lipstick,matte transfer proof long wearing,499.0,4.6,2
+1929,lakme absolute shine line matte lipstick berry divine,makeup,lips,lipstick,matte creamy pigmented,399.0,4.8,1
+1930,bella voste flawless finish foundation brush,makeup tools,brushes,foundation brush,synthetic bristles soft angled,699.0,4.9,0
+1931,minimalist 2 alpha arbutin serum,skincare,serums,alpha arbutin dark spot removal,brightening toned glowing,499.0,4.7,2
+1932,dermafique sunscreen spf 50 pa,skincare,sunscreens,spf 50 pa,broad spectrum protection water resistant sweat resistant,699.0,4.9,1
+1933,biotique bio bhringraj fresh green tea shampoo,hair care,shampoos,bhringraj green tea,hair growth hair fall control dandruff removal,299.0,4.8,1
+1934,innisfree real squeeze mask green tea,skincare,face masks,green tea,hydrating soothing refreshing,199.0,4.9,2
+1935,kama ayurveda kumkumadi tailam night serum,skincare,serums,kumkumadi oil saffron,brightening anti aging nourishing,1299.0,4.8,0
+1936,forest essentials facial treatment essential facial oil sandalwood turmeric,skincare,facial oils,sandalwood turmeric,brightening anti aging soothing,1999.0,4.9,1
+1937,moms natural eye cream,skincare,eye creams,eye cream,caffeine hyaluronic acid,599.0,4.7,2
+1938,good vibes vitamin c face serum,skincare,serums,vitamin c hyaluronic acid,brightening antioxidant hydrating,299.0,4.8,1
+1939,mcaffeine coffee body scrub,bath body,body scrubs,coffee,exfoliating moisturizing brightening,499.0,4.9,2
+1940,face shop rice water bright cleansing foam,skincare,cleansers,face wash,rice water hyaluronic acid,499.0,4.8,1
+1941,buffy breeze pillow,home garden,pillows,buffy breeze pillow pillows eco friendly sustainable,buffy breeze pillow pillows eco friendly sustainable,100.0,4.9,0
+1942,avocado green pillow,home garden,pillows,avocado green pillow pillows eco friendly sustainable,avocado green pillow pillows eco friendly sustainable,120.0,4.9,0
+1943,coyuchi organic latex molded pillow,home garden,pillows,coyuchi organic latex molded pillow pillows eco friendly sustainable,coyuchi organic latex molded pillow pillows eco friendly sustainable,140.0,4.9,0
+1944,hullo buckwheat pillow,home garden,pillows,hullo buckwheat pillow pillows eco friendly sustainable,hullo buckwheat pillow pillows eco friendly sustainable,90.0,4.9,0
+1945,coop sleep goods original pillow,home garden,pillows,coop sleep goods original pillow pillows eco friendly sustainable,coop sleep goods original pillow pillows eco friendly sustainable,110.0,4.9,0
+1946,naturepedic pla pillow,home garden,pillows,naturepedic pla pillow pillows eco friendly sustainable,naturepedic pla pillow pillows eco friendly sustainable,130.0,4.9,0
+1947,nest bedding luxury shredded memory foam pillow,home garden,pillows,nest bedding luxury shredded memory foam pillow pillows non eco friendly,nest bedding luxury shredded memory foam pillow pillows non eco friendly,140.0,4.9,1
+1948,tempur pedic tempur neck pillow,home garden,pillows,tempur pedic tempur neck pillow pillows non eco friendly,tempur pedic tempur neck pillow pillows non eco friendly,150.0,4.9,1
+1949,organic bamboo pillow,home garden,pillows,organic bamboo pillow eco friendly sustainable,organic bamboo pillow eco friendly sustainable,80.0,4.9,0
+1950,alternative pillow,home garden,pillows,alternative pillow eco friendly sustainable,alternative pillow eco friendly sustainable,70.0,4.9,0
+1951,buckwheat hull pillow,home garden,pillows,buckwheat hull pillow eco friendly sustainable,buckwheat hull pillow eco friendly sustainable,60.0,4.9,0
+1952,memory foam pillow,home garden,pillows,memory foam pillow non eco friendly,memory foam pillow non eco friendly,50.0,4.9,1
+1953,kapok pillow,home garden,pillows,kapok pillow eco friendly sustainable,kapok pillow eco friendly sustainable,100.0,4.9,0
+1954,wool pillow,home garden,pillows,wool pillow eco friendly sustainable,wool pillow eco friendly sustainable,120.0,4.9,0
+1955,soybean pillow,home garden,pillows,soybean pillow eco friendly sustainable,soybean pillow eco friendly sustainable,140.0,4.9,0
+1956,buckwheat hull pillow,home garden,pillows,buckwheat hull pillow eco friendly sustainable,buckwheat hull pillow eco friendly sustainable,90.0,4.9,0
+1957,memory foam pillow,home garden,pillows,memory foam pillow non eco friendly,memory foam pillow non eco friendly,110.0,4.9,1
+1958,latex pillow,home garden,pillows,latex pillow non eco friendly,latex pillow non eco friendly,130.0,4.9,1
+1959,synthetic fiber pillow,home garden,pillows,synthetic fiber pillow non eco friendly,synthetic fiber pillow non eco friendly,140.0,4.9,1
+1960,feather pillow,home garden,pillows,feather pillow non eco friendly,feather pillow non eco friendly,150.0,4.9,1
+1961,neem oil organic india,gardening supplies,insecticides,neem oil,organic insecticide neem,200.0,4.5,2
+1962,compost bin bokashi,gardening supplies,composting bins,bokashi,composting bokashi bin,1000.0,4.8,1
+1963,garden gloves gardeners supply company,gardening supplies,gloves,garden gloves,gloves gardening,300.0,4.7,0
+1964,watering gardena,gardening supplies,watering cans,watering,watering,500.0,4.6,0
+1965,pruning shears felco,gardening supplies,pruning shears,pruning shears,pruning shears,800.0,4.9,0
+1966,organic fertilizer mother earth products,gardening supplies,fertilizers,organic fertilizer,organic fertilizer,400.0,4.8,2
+1967,vegetable seeds burpee,gardening supplies,seeds,vegetable seeds,seeds vegetables,100.0,4.7,0
+1968,flower seeds park seed,gardening supplies,seeds,flower seeds,seeds flowers,50.0,4.6,0
+1969,garden hose suncast,gardening supplies,hoses,garden hose,hose watering,700.0,4.5,0
+1970,garden cart gorilla carts,gardening supplies,carts,garden cart,cart garden,1200.0,4.9,0
+1971,compost tea brewer worm s way,gardening supplies,composting accessories,compost tea brewer,compost tea brewer,2500.0,4.4,1
+1972,soil test kit lamotte,gardening supplies,soil testing kits,soil test kit,soil test kit,1000.0,4.6,0
+1973,raised garden bed earthbox,gardening supplies,raised garden beds,raised garden bed,raised bed garden,3000.0,4.7,1
+1974,garden thermometer taylor precision products,gardening supplies,garden thermometers,garden thermometer,thermometer garden,500.0,4.5,0
+1975,garden hose nozzle melnor,gardening supplies,hose nozzles,garden hose nozzle,nozzle hose,300.0,4.4,0
+1976,garden trowel gardeners supply company,gardening supplies,hand tools,garden trowel,trowel garden,200.0,4.6,0
+1977,garden shears felco,gardening supplies,hand tools,garden shears,shears garden,400.0,4.7,0
+1978,garden fork gardeners supply company,gardening supplies,hand tools,garden fork,fork garden,300.0,4.8,0
+1979,wheelbarrow marathon wheelbarrows,gardening supplies,carts,wheelbarrow,wheelbarrow cart,1500.0,4.9,0
+1980,garden kneeler gardeners supply company,gardening supplies,accessories,garden kneeler,kneeler garden,500.0,4.6,0
+1981,manduka bamboo shuttlecock,sports outdoors,badminton,bamboo shuttlecock eco friendly sustainable,bamboo shuttlecock eco friendly sustainable,100.0,4.9,0
+1982,corkyogis cork shuttlecock,sports outdoors,badminton,cork shuttlecock eco friendly sustainable,cork shuttlecock eco friendly sustainable,120.0,4.9,0
+1983,recycled paper shuttlecock,sports outdoors,badminton,recycled paper shuttlecock eco friendly sustainable,recycled paper shuttlecock eco friendly sustainable,80.0,4.9,0
+1984,seed paper shuttlecock,sports outdoors,badminton,seed paper shuttlecock eco friendly sustainable,seed paper shuttlecock eco friendly sustainable,100.0,4.9,0
+1985,goose feather shuttlecock,sports outdoors,badminton,goose feather shuttlecock non eco friendly,goose feather shuttlecock non eco friendly,150.0,4.9,1
+1986,duck feather shuttlecock,sports outdoors,badminton,duck feather shuttlecock non eco friendly,duck feather shuttlecock non eco friendly,120.0,4.9,1
+1987,plastic shuttlecock,sports outdoors,badminton,plastic shuttlecock non eco friendly,plastic shuttlecock non eco friendly,50.0,4.9,1
+1988,nylon shuttlecock,sports outdoors,badminton,nylon shuttlecock non eco friendly,nylon shuttlecock non eco friendly,30.0,4.9,1
+1989,synthetic shuttlecock,sports outdoors,badminton,synthetic shuttlecock non eco friendly,synthetic shuttlecock non eco friendly,20.0,4.9,1
+1990,feathered shuttlecock,sports outdoors,badminton,feathered shuttlecock non eco friendly,feathered shuttlecock non eco friendly,10.0,4.9,1
+1991,bamboo cork shuttlecock,sports outdoors,badminton,bamboo cork shuttlecock eco friendly sustainable,bamboo cork shuttlecock eco friendly sustainable,150.0,4.9,0
+1992,recycled plastic shuttlecock,sports outdoors,badminton,recycled plastic shuttlecock eco friendly sustainable,recycled plastic shuttlecock eco friendly sustainable,100.0,4.9,0
+1993,feathered cork shuttlecock,sports outdoors,badminton,feathered cork shuttlecock non eco friendly,feathered cork shuttlecock non eco friendly,120.0,4.9,1
+1994,feathered plastic shuttlecock,sports outdoors,badminton,feathered plastic shuttlecock non eco friendly,feathered plastic shuttlecock non eco friendly,150.0,4.9,1
+1995,goose feather shuttlecock durable,sports outdoors,badminton,goose feather shuttlecock durable non eco friendly,goose feather durable shuttlecock non eco friendly,200.0,4.9,1
+1996,duck feather shuttlecock durable,sports outdoors,badminton,duck feather shuttlecock durable non eco friendly,duck feather durable shuttlecock non eco friendly,180.0,4.9,1
+1997,synthetic feather shuttlecock durable,sports outdoors,badminton,synthetic feather shuttlecock durable non eco friendly,synthetic feather durable shuttlecock non eco friendly,150.0,4.9,1
+1998,plastic shuttlecock durable,sports outdoors,badminton,plastic shuttlecock durable non eco friendly,plastic durable shuttlecock non eco friendly,120.0,4.9,1
+1999,nylon shuttlecock durable,sports outdoors,badminton,nylon shuttlecock durable non eco friendly,nylon durable shuttlecock non eco friendly,100.0,4.9,1
+2000,synthetic shuttlecock indoor,sports outdoors,badminton,synthetic shuttlecock indoor non eco friendly,synthetic indoor shuttlecock non eco friendly,80.0,4.9,1

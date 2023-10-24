@@ -1,10 +1,10 @@
 import axios from "../Axios";
-import { 
-    PRODUCT_LIST_REQUEST, 
-    PRODUCT_LIST_FAIL, 
+import {
+    PRODUCT_LIST_REQUEST,
+    PRODUCT_LIST_FAIL,
     PRODUCT_LIST_SUCCESS,
-    PRODUCT_DETAILS_REQUEST, 
-    PRODUCT_DETAILS_FAIL, 
+    PRODUCT_DETAILS_REQUEST,
+    PRODUCT_DETAILS_FAIL,
     PRODUCT_DETAILS_SUCCESS,
     PRODUCT_ADD_REQUEST,
     PRODUCT_ADD_FAIL,
@@ -14,20 +14,20 @@ import {
     PRODUCT_RECOMMENDATIONS_SUCCESS
 } from "../constants/ProductConstants";
 
-export const listProducts = () => async (dispatch) =>{
+export const listProducts = () => async (dispatch) => {
     dispatch({
-        type: PRODUCT_LIST_REQUEST 
+        type: PRODUCT_LIST_REQUEST
     });
 
-    try{
-        const {data} = await axios.get("/api/products");
+    try {
+        const { data } = await axios.get("/api/products");
         const count = data.length;
         dispatch({
             type: PRODUCT_LIST_SUCCESS,
             payload: data
         })
     }
-    catch(error){
+    catch (error) {
         dispatch({
             type: PRODUCT_LIST_FAIL,
             payload: error.message
@@ -35,84 +35,91 @@ export const listProducts = () => async (dispatch) =>{
     }
 }
 
-export const detailsProduct = (productID) => async (dispatch) =>{
+export const detailsProduct = (productID) => async (dispatch) => {
     dispatch({
         type: PRODUCT_DETAILS_REQUEST,
         payload: productID
     });
 
-    try{
-        const {data} = await axios.get(`/api/products/${productID}`);
-   
+    try {
+        const { data } = await axios.get(`/api/products/${productID}`);
+
         dispatch({
             type: PRODUCT_DETAILS_SUCCESS,
             payload: data
         });
         dispatch({
-            type:PRODUCT_RECOMMENDATIONS_REQUEST,
-            payload:data.product_id
+            type: PRODUCT_RECOMMENDATIONS_REQUEST,
+            payload: data.product_id
         })
         console.log(data.product_id);
         dispatch(recommendationsProduct(data.product_id));
 
     }
-    catch(error){
+    catch (error) {
         dispatch({
             type: PRODUCT_DETAILS_FAIL,
             payload: error.response && error.response.data.mesaage
-            ? error.response.data.message
-            : error.message,
+                ? error.response.data.message
+                : error.message,
         });
     }
 };
 
 export const addProduct = (product) => async (dispatch) => {
     dispatch({
-        type:PRODUCT_ADD_REQUEST,
-        payload:product
+        type: PRODUCT_ADD_REQUEST,
+        payload: product
     })
 
-    try{
-        const result = await axios.post(`/api/products/addProduct`,product);
+    try {
+        const result = await axios.post(`/api/products/addProduct`, product);
         console.log(result);
         dispatch({
-            type:PRODUCT_ADD_SUCCESS,
-            payload:"success"
+            type: PRODUCT_ADD_SUCCESS,
+            payload: "success"
         })
     }
-    catch(error){
+    catch (error) {
         dispatch({
-            type:PRODUCT_ADD_FAIL,
-            payload:error.response && error.response.data.mesaage
-            ? error.response.data.message
-            : error.message,
+            type: PRODUCT_ADD_FAIL,
+            payload: error.response && error.response.data.mesaage
+                ? error.response.data.message
+                : error.message,
         })
     }
 }
 
 export const recommendationsProduct = (productID) => async (dispatch) => {
     dispatch({
-        type:PRODUCT_RECOMMENDATIONS_REQUEST,
-        payload:productID
+        type: PRODUCT_RECOMMENDATIONS_REQUEST,
+        payload: productID
     })
 
-    try{
-        const {data} = await axios.get(`/api/products/getsimilar/${productID}`);
-        console.log(data);
-        const {products} = await axios.post('/api/products/getRange',{range:data.slice(0,10)});
-        
-        //TODO: add recommendations api
+    try {
+        console.log(productID)
+        const { data } = await axios.get(`/api/products/getsimilar/${productID}`);
+        const products = data.data;
+
+        let ecoFriendlyProducts = [];
+
+        products.forEach(product => {
+            if (product.greenRating === 0 || product.greenRating === 2) {
+                ecoFriendlyProducts.push(product)
+            }
+        });
+
         dispatch({
             type: PRODUCT_RECOMMENDATIONS_SUCCESS,
-            payload: products
+            payload: ecoFriendlyProducts
         });
     }
-    catch(error){
+    catch (error) {
         dispatch({
             type: PRODUCT_RECOMMENDATIONS_FAIL,
             payload: error.response && error.response.data.mesaage
-            ? error.response.data.message
-            : error.message,
+                ? error.response.data.message
+                : error.message,
         });
     }
 }
