@@ -100,6 +100,7 @@ export const recommendationsProduct = (productID) => async (dispatch) => {
         const {data} = await axios.get(`/api/products/getsimilar/${productID}`);
         console.log(data);
         const {products} = await axios.post('/api/products/getRange',{range:data.slice(0,10)});
+        
         //TODO: add recommendations api
         dispatch({
             type: PRODUCT_RECOMMENDATIONS_SUCCESS,

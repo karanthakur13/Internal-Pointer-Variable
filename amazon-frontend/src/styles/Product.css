@@ -41,6 +41,16 @@
     margin: 8px 0;
 }
 
+.recommendations{
+    display: flex;
+    width: 80vw;
+    overflow-x: scroll;
+    padding: 2rem 2rem;
+    display: flex;
+    align-items: center;
+    gap:1.5rem;
+}
+
 @media(max-width: 900px){
     .product-image{
         height: 120px;
