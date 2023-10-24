@@ -105,10 +105,10 @@ const ProductPage = (props) => {
                                 </ul>
                             </div>
                         </div>
-                        <div className='recommendations'>
+                    </div>
+                    <div className='recommendations'>
                             {productRecommendation.productRecommendations?productRecommendation.productRecommendations.map(item => <Product product={item}/>):null}
                         </div>
-                    </div>
                 </div>
             )
             }
