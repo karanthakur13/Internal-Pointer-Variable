@@ -69,5 +69,13 @@ productRouter.get('/getsimilar/:id', expressAsyncHandler(async (req, res) => {
 
 }))
 
+productRouter.post('/getRange',async (req,res) => {
+    let range = req.body.range;
+
+    const products = await Product.find({"product_id":{"$in":range}});
+    console.log(products);
+    res.send({products:products});
+})
+
 
 export default productRouter;

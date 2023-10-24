@@ -8,6 +8,7 @@ import "../styles/Home.css"
 import Product from '../components/Product'
 import { listProducts } from '../actions/ProdcutActions'
 import HomePageRow from '../components/HomePageRow';
+import LoadingBox from '../components/LoadingBox';
 
 const Home = () => {
 
@@ -75,27 +76,17 @@ const Home = () => {
 
             <div className="banner-container">
 
-                <Slider {...settings}>
-
-                    <div className="banners">
-                      <img src="https://m.media-amazon.com/images/S/aplus-media/vc/342b936a-69f1-4e59-89ba-7ddb98c1acda.jpg" alt=""/>
-                    </div>
-                    <div className="banners">
-                        <img src="https://cdn.shopify.com/s/files/1/1780/7915/files/Thermaltake_Level_20_RGB_Titanium_Gaming_Keyboard_From_The_Peripheral_Store_Banner_01.jpg?v=1598266526" alt=""/>
-                    </div>
-                    <div className="banners">
-                        <img src="https://cdn.shopify.com/s/files/1/1780/7915/files/Game_Monitor_6a7a1deb-2d61-4307-99ac-f8c5a18d298f.jpg?8000210842524768871" alt=""/>
-                    </div>
-
-                </Slider>
+                <img src='/AmazonGreatGreenSale.png'/>
             
             </div>
             
-            {productListByCategory?
+            <div className='home-products'>
+            {loading?<LoadingBox/>:
                 productListByCategory.map((productRow) => {
                     return <HomePageRow productList={productRow}/>
-                }):null
+                })
             }
+            </div>
 
 
             <div className="home-product-slider">

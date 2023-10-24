@@ -1,17 +1,19 @@
 import React, { useState,useEffect } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import "../styles/PlaceOrder.css"
+import { CART_EMPTY } from '../constants/CartConstant'
 import CheckoutSteps from '../components/CheckoutSteps'
 import { Link } from 'react-router-dom'
 import { createdOrder } from '../actions/OrderAction'
 import { ORDER_CREATE_RESET } from '../constants/OrderConstant'
 import LoadingBox from "../components/LoadingBox"
 import MessageBox from "../components/MessageBox"
+import { useHistory } from 'react-router-dom/cjs/react-router-dom.min'
 
 const PlaceOrder = (props) => {
 
     const cart = useSelector((state) => state.cart);
-
+    const history = useHistory();
     if(!cart.paymentMethod) {
         props.history.push('/payment');
     }
@@ -36,12 +38,16 @@ const PlaceOrder = (props) => {
 
     const placeOrder = () =>{
         dispatch(createdOrder({...cart, orderItems: cart.cartItems}));
+        dispatch({
+            type: CART_EMPTY
+        });
+        history.push('/');
     }
 
 
     useEffect(() => {
         if(success){
-            props.history.push(`/order/${order._id}`);
+            props.history.push(`/order/₹{order._id}`);
             dispatch({
                 type: ORDER_CREATE_RESET
             });
@@ -94,10 +100,10 @@ const PlaceOrder = (props) => {
                                                 </div>
                                     
                                                 <div className="min-30">
-                                                    <Link to={`/products/product/${item.product}`}>{item.name}</Link>
+                                                    <Link to={`/products/product/₹{item.product}`}>{item.name}</Link>
                                                 </div>
                                                 
-                                                <p>{item.qty} x ${item.price} = ${item.price*item.qty}</p>
+                                                <p>{item.qty} x ₹{item.price} = ₹{item.price*item.qty}</p>
                                                 
                                             </div>
                                         </li>
@@ -117,19 +123,19 @@ const PlaceOrder = (props) => {
                             </li>
                             <li>
                                 <p>Items</p>
-                                <p>${cart.itemsPrice.toFixed(2)}</p>
+                                <p>₹{cart.itemsPrice.toFixed(2)}</p>
                             </li>
                             <li>
                                 <p>Shipping</p>
-                                <p>${cart.shippingPrice.toFixed(2)}</p>
+                                <p>₹{cart.shippingPrice.toFixed(2)}</p>
                             </li>
                             <li>
                                 <p>Tax</p>
-                                <p>${cart.taxPrice.toFixed(2)}</p>
+                                <p>₹{cart.taxPrice.toFixed(2)}</p>
                             </li>
                             <li>
                                 <p><strong>Total</strong></p>
-                                <p><strong>${cart.totalPrice.toFixed(2)}</strong></p>
+                                <p><strong>₹{cart.totalPrice.toFixed(2)}</strong></p>
                             </li>
 
                             <li>

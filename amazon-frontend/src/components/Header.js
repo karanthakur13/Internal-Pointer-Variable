@@ -3,7 +3,12 @@ import {Link} from 'react-router-dom';
 import '../styles/Header.css'
 import { useSelector, useDispatch } from 'react-redux';
 import { signout } from '../actions/UserAction';
-
+import {
+    useAddress,
+    useContract,
+    useMetamask,
+    useContractWrite,
+  } from "@thirdweb-dev/react";
 import AccountCircleIcon from '@material-ui/icons/AccountCircle';
 import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
 
@@ -39,6 +44,11 @@ const Header = (props) => {
     const signOutHandler = () =>{
         dispatch(signout());
     }
+    function onClickHandler() {
+        console.log("hello");
+        connect();
+    }
+    const connect = useMetamask();
 
     const [query, setQuery] = useState('');
 
@@ -90,9 +100,7 @@ const Header = (props) => {
                                             </li>
                                             {
                                                 !userInfo.isAdmin ?
-                                                <li>
-                                                    <Link to="/greenCredits">Green Credits</Link> 
-                                                </li>
+                                                    <li><Link to="/greenCredits">Green Credits</Link> </li>
                                                 :null
                                             }
                                             <li>
@@ -111,7 +119,8 @@ const Header = (props) => {
                         </li>
 
                         {userInfo && userInfo.isAdmin && (
-                            <li>
+                            <div>
+                                <li>
                                 <div className="header-dropdown">
                                     <p onClick={showSecondDropDown}>
                                         Admin 
@@ -129,7 +138,11 @@ const Header = (props) => {
                                           
                                     </ul>
                                 </div>
-                            </li>
+                                </li>
+                                <li>
+                                    <button type="button" onClick={onClickHandler} className="connect-button">Connect</button>
+                                </li>
+                            </div>
                         )}
                         <li>
                                 <Link to="/cart"><ShoppingCartIcon/>
