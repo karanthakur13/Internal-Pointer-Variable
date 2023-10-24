@@ -43,7 +43,7 @@ const ProductPage = (props) => {
                     <Link to="/" className="back-res">Back to result</Link>
                         <div className="row">
                             <div className="col-1">
-                            <img className= "large" src={product.image} alt=""/>
+                            <img className= "large" src={`/productPhoto/${product.product_id}.jpeg`} alt=""/>
                         </div>
                         <div className="col-2">
                             <ul>
