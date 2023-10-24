@@ -8,6 +8,7 @@ import "../styles/Home.css"
 import Product from '../components/Product'
 import { listProducts } from '../actions/ProdcutActions'
 import HomePageRow from '../components/HomePageRow';
+import LoadingBox from '../components/LoadingBox';
 
 const Home = () => {
 
@@ -91,10 +92,10 @@ const Home = () => {
             
             </div>
             
-            {productListByCategory?
+            {loading?<LoadingBox/>:
                 productListByCategory.map((productRow) => {
                     return <HomePageRow productList={productRow}/>
-                }):null
+                })
             }
 
 
