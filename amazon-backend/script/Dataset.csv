@@ -1,0 +1,1021 @@
+Product Id,Product Name (Relevant company name),Categories,Subcategories,Tags,Keywords,Price in rupees,Ratings,Eco Friendly
+1001,Kleenex Ultra Soft Facial Tissues (Kimberly-Clark),Tissue Paper,Facial Tissue,"Soft, Gentle, Absorbent","Kleenex, Facial Tissues, Soft Tissues",299,4.8,1
+1002,Puffs Plus Lotion Facial Tissues (Kimberly-Clark),Tissue Paper,Facial Tissue,"Soft, Gentle, Absorbent with Lotion","Puffs, Facial Tissues, Soft Tissues with Lotion",349,4.7,1
+1003,Angel Soft Facial Tissues (Angel Soft),Tissue Paper,Facial Tissue,"Soft, Gentle, Absorbent","Angel Soft, Facial Tissues, Soft Tissues",249,4.6,1
+1004,Cottonelle Facial Tissues (Kimberly-Clark),Tissue Paper,Facial Tissue,"Soft, Gentle, Absorbent","Cottonelle, Facial Tissues, Soft Tissues",299,4.5,1
+1005,Kirkland Signature Signature Facial Tissues (Costco),Tissue Paper,Facial Tissue,"Soft, Gentle, Absorbent","Kirkland Signature, Facial Tissues, Soft Tissues",399,4.9,1
+1006,Seventh Generation Facial Tissues (Seventh Generation),Tissue Paper,Facial Tissue,"Recycled, Sustainable, Eco-Friendly","Seventh Generation, Facial Tissues, Recycled Tissues",449,4.8,2
+1007,Who Gives A Crap Facial Tissues (Who Gives A Crap),Tissue Paper,Facial Tissue,"Recycled, Sustainable, Eco-Friendly, Bamboo","Who Gives A Crap, Facial Tissues, Recycled Tissues, Bamboo Tissues",499,4.9,2
+1008,Bambu Facial Tissues (Bambu),Tissue Paper,Facial Tissue,"Sustainable, Eco-Friendly, Bamboo","Bambu, Facial Tissues, Bamboo Tissues",499,4.8,2
+1009,Green Forest Facial Tissues (Green Forest),Tissue Paper,Facial Tissue,"Recycled, Sustainable, Eco-Friendly","Green Forest, Facial Tissues, Recycled Tissues",449,4.7,2
+1010,Better Life Facial Tissues (Better Life),Tissue Paper,Facial Tissue,"Sustainable, Eco-Friendly, Chemical-Free","Better Life, Facial Tissues, Chemical-Free Tissues",499,4.9,2
+1011,Kleenex Toilet Paper (Kimberly-Clark),Tissue Paper,Toilet Paper,"Soft, Strong, Absorbent","Kleenex, Toilet Paper",399,4.8,1
+1012,Scott Toilet Paper (Kimberly-Clark),Tissue Paper,Toilet Paper,"Soft, Strong, Absorbent","Scott, Toilet Paper",299,4.7,1
+1013,Angel Soft Toilet Paper (Angel Soft),Tissue Paper,Toilet Paper,"Soft, Strong, Absorbent","Angel Soft, Toilet Paper",249,4.6,1
+1014,Cottonelle Toilet Paper (Kimberly-Clark),Tissue Paper,Toilet Paper,"Soft, Strong, Absorbent","Cottonelle, Toilet Paper",399,4.5,1
+1015,Kirkland Signature Signature Toilet Paper (Costco),Tissue Paper,Toilet Paper,"Soft, Strong, Absorbent","Kirkland Signature, Toilet Paper",499,4.9,1
+1016,Seventh Generation Toilet Paper (Seventh Generation),Tissue Paper,Toilet Paper,"Recycled, Sustainable, Eco-Friendly","Seventh Generation, Toilet Paper, Recycled Tissues",549,4.8,2
+1017,Who Gives A Crap Toilet Paper (Who Gives A Crap),Tissue Paper,Toilet Paper,"Recycled, Sustainable, Eco-Friendly, Bamboo","Who Gives A Crap, Toilet Paper, Recycled Tissues, Bamboo Tissues",549,4.9,2
+1018,Bambu Toilet Paper (Bambu),Tissue Paper,Toilet Paper,"Sustainable, Eco-Friendly, Bamboo","Bambu, Toilet Paper, Bamboo Tissues",549,4.8,2
+1019,Green Forest Toilet Paper (Green Forest),Tissue Paper,Toilet Paper,"Recycled, Sustainable, Eco-Friendly","Green Forest, Toilet Paper, Recycled Tissues",549,4.7,2
+1020,Better Life Toilet Paper (Better Life),Tissue Paper,Toilet Paper,"Sustainable, Eco-Friendly, Chemical-Free","Better Life, Toilet Paper, Chemical-Free Tissues",549,4.9,2
+1021,Plastic toothbrush (Colgate),Bathroom,Oral care,toothbrush,"plastic toothbrush, toothbrush for adults",500,4.5,1
+1022,Bamboo toothbrush (RADIUS),Bathroom,Oral care,toothbrush,"bamboo toothbrush, toothbrush for adults",600,4.7,2
+1023,Charcoal toothbrush (Burst),Bathroom,Oral care,toothbrush,"charcoal toothbrush, toothbrush for adults",700,4.8,2
+1024,Electric toothbrush with plastic head (Oral-B),Bathroom,Oral care,electric toothbrush,"electric toothbrush with plastic head, toothbrush for adults",1000,4.9,1
+1025,Electric toothbrush with bamboo head (Philips Sonicare),Bathroom,Oral care,electric toothbrush,"electric toothbrush with bamboo head, toothbrush for adults",1200,4.9,2
+1026,Miswak stick ([Brand]),Bathroom,Oral care,toothbrush,"miswak stick, natural toothbrush",500,4.6,2
+1027,Neem stick ([Brand]),Bathroom,Oral care,toothbrush,"neem stick, natural toothbrush",500,4.7,2
+1028,Coconut husk brush ([Brand]),Bathroom,Oral care,toothbrush,"coconut husk brush, natural toothbrush",500,4.8,2
+1029,Finger brush ([Brand]),Bathroom,Oral care,toothbrush,"finger brush, natural toothbrush",500,4.9,2
+1030,Tongue scraper ([Brand]),Bathroom,Oral care,tongue scraper,"tongue scraper, oral hygiene tool",500,4.9,2
+1031,Water flosser ([Brand]),Bathroom,Oral care,water flosser,"water flosser, oral hygiene tool",2000,4.8,2
+1032,Ultrasonic toothbrush (Usmile),Bathroom,Oral care,toothbrush,"ultrasonic toothbrush, electric toothbrush",4000,4.9,1
+1033,UV toothbrush sanitizer (SteriPEN),Bathroom,Oral care,toothbrush sanitizer,"UV toothbrush sanitizer, toothbrush sterilizer",2000,4.8,1
+1034,Composable toothbrush head (Humble Brush),Bathroom,Oral care,toothbrush head,"compostable toothbrush head, biodegradable toothbrush head",500,4.7,2
+1035,Recycled toothbrush (Preserve),Bathroom,Oral care,toothbrush,"recycled toothbrush, eco-friendly toothbrush",500,4.8,2
+1036,Electric toothbrush with recycled head (Bissell),Bathroom,Oral care,electric toothbrush,"electric toothbrush with recycled head, eco-friendly electric toothbrush",1500,4.9,2
+1037,Bamboo toothbrush with charcoal bristles (Burst),Bathroom,Oral care,toothbrush,"bamboo toothbrush with charcoal bristles, eco-friendly toothbrush",600,4.7,2
+1038,Bamboo toothbrush with compostable bristles (Humble Brush),Bathroom,Oral care,toothbrush,"bamboo toothbrush with compostable bristles, eco-friendly toothbrush",700,4.8,2
+1039,Electric toothbrush with bamboo head and compostable bristles (RADIUS),Bathroom,Oral care,electric toothbrush,"electric toothbrush with bamboo head and compostable bristles, eco-friendly electric toothbrush",2000,4.9,2
+1040,Toothbrush holder made from recycled materials (Preserve),Bathroom,Oral care,toothbrush holder,"toothbrush holder made from recycled materials, eco-friendly toothbrush holder",1000,4.8,2
+1041,[Twelve South Curve Laptop Stand (Bamboo)],Laptop Accessories,Laptop Stands,"Ergonomic, Portable, Adjustable, Bamboo","Laptop stand, ergonomic laptop stand, portable laptop stand, adjustable laptop stand, bamboo laptop stand",5999,4.8,2
+1042,[Rain Design mStand Laptop Stand (Bamboo)],Laptop Accessories,Laptop Stands,"Ergonomic, Sleek, Durable, Bamboo","Laptop stand, ergonomic laptop stand, sleek laptop stand, durable laptop stand",5999,4.7,1
+1043,[Satechi Bamboo Laptop Stand],Laptop Accessories,Laptop Stands,"Ergonomic, Minimalist, Stable, Bamboo","Laptop stand, ergonomic laptop stand, minimalist laptop stand, stable laptop stand",2999,4.6,1
+1044,[BoYata Bamboo Laptop Stand for Desk],Laptop Accessories,Laptop Stands,"Adjustable, Foldable, Portable, Bamboo","Laptop stand, adjustable laptop stand, foldable laptop stand, portable laptop stand",2499,4.5,1
+1045,[Amazon Basics Bamboo Laptop Stand],Laptop Accessories,Laptop Stands,"Ergonomic, Adjustable, Affordable, Bamboo","Laptop stand, ergonomic laptop stand, adjustable laptop stand, affordable laptop stand, bamboo laptop stand",1999,4.4,2
+1046,[Ergonomic Laptop Stand by Humanscale (Bamboo)],Laptop Accessories,Laptop Stands,"Ergonomic, Adjustable, Height-Adjustable, Bamboo","Laptop stand, ergonomic laptop stand, adjustable laptop stand, height-adjustable laptop stand",6999,4.9,2
+1047,[Laptop Stand with Cooling Fan by HAVIT (Bamboo)],Laptop Accessories,Laptop Stands,"Cooling, Adjustable, Ergonomic, Bamboo","Laptop stand, cooling laptop stand, adjustable laptop stand, ergonomic laptop stand",3499,4.8,1
+1048,[Laptop Stand with Phone Holder by MoKo (Bamboo)],Laptop Accessories,Laptop Stands,"Multifunctional, Adjustable, Portable, Bamboo","Laptop stand, multifunctional laptop stand, adjustable laptop stand, portable laptop stand, bamboo laptop stand",2999,4.7,0
+1049,[Roost Laptop Stand (Bamboo)],Laptop Accessories,Laptop Stands,"Sustainable, Adjustable, Portable, Bamboo","Laptop stand, sustainable laptop stand, adjustable laptop stand, portable laptop stand, bamboo laptop stand",6999,4.9,2
+1050,[Nexstand Laptop Stand (Bamboo)],Laptop Accessories,Laptop Stands,"Foldable, Portable, Lightweight, Bamboo","Laptop stand, foldable laptop stand, portable laptop stand, lightweight laptop stand,plastic",2499,4.6,1
+1051,[Grovemade Wooden Laptop Stand],Laptop Accessories,Laptop Stands,"Ergonomic, Sustainable, Minimalist","Laptop stand, ergonomic laptop stand, sustainable laptop stand, minimalist laptop stand",7999,4.8,1
+1052,[Twelve South Curve Laptop Stand (Walnut)],Laptop Accessories,Laptop Stands,"Ergonomic, Portable, Adjustable, Walnut","Laptop stand, ergonomic laptop stand, portable laptop stand, adjustable laptop stand",7999,4.9,1
+1053,[Rain Design mStand Laptop Stand (Walnut)],Laptop Accessories,Laptop Stands,"Ergonomic, Sleek, Durable, Walnut","Laptop stand, ergonomic laptop stand, sleek laptop stand, durable laptop stand, walnut laptop stand",7999,4.8,1
+1054,[Satechi Aluminum Laptop Stand with Wooden Top],Laptop Accessories,Laptop Stands,"Ergonomic, Minimalist, Stable","Laptop stand, ergonomic laptop stand, minimalist laptop stand, stable laptop stand, wooden laptop stand",4999,4.7,1
+1055,[BoYata Wooden Laptop Stand for Desk],Laptop Accessories,Laptop Stands,"Adjustable, Foldable, Portable","Laptop stand, adjustable laptop stand, foldable laptop stand, portable laptop stand, wooden laptop stand",3999,4.6,1
+1056,[Amazon Basics Wooden Laptop Stand],Laptop Accessories,Laptop Stands,"Ergonomic, Adjustable, Affordable","Laptop stand, ergonomic laptop stand, adjustable laptop stand, affordable laptop stand, wooden laptop stand",3499,4.5,1
+1057,[Ergonomic Laptop Stand by Humanscale (Wood)],Laptop Accessories,Laptop Stands,"Ergonomic, Adjustable, Height-Adjustable","Laptop stand, ergonomic laptop stand, adjustable laptop stand, height-adjustable laptop stand, wooden laptop stand",9999,4.9,1
+1058,[Laptop Stand with Cooling Fan by HAVIT (Wood)],Laptop Accessories,Laptop Stands,"Cooling, Adjustable, Ergonomic","Laptop stand, cooling laptop stand, adjustable laptop stand, ergonomic laptop stand, wooden laptop stand",4999,4.8,2
+1059,[Laptop Stand with Phone Holder by MoKo (Wood)],Laptop Accessories,Laptop Stands,"Multifunctional, Adjustable, Portable","Laptop stand, multifunctional laptop stand, adjustable laptop stand, portable laptop stand, wooden laptop stand",4499,4.7,2
+1060,[Roost Laptop Stand (Wood)],Laptop Accessories,Laptop Stands,"Sustainable, Adjustable, Portable","Laptop stand, sustainable laptop stand, adjustable laptop stand, portable laptop stand, wooden laptop stand",9999,4.9,2
+1061,Cotton towel (White Towel Company),Bathroom,Towels,"cotton towel, bath towel, hand towel, face towel","cotton, towel, bath, hand, face",100,4.5,1
+1062,Bamboo towel (Cariloha),Bathroom,Towels,"bamboo towel, bath towel, hand towel, face towel","bamboo, towel, bath, hand, face",120,4.7,2
+1063,Microfiber towel (Amazon Basics),Bathroom,Towels,"microfiber towel, bath towel, hand towel, face towel","microfiber, towel, bath, hand, face",150,4.8,2
+1064,Linen towel (Parachute Home),Bathroom,Towels,"linen towel, bath towel, hand towel, face towel","linen, towel, bath, hand, face",200,4.9,2
+1065,Turkish towel (Peshtemal),Bathroom,Towels,"turkish towel, peshtemal, bath towel, hand towel, face towel","turkish cotton, towel, bath, hand, face",250,4.9,2
+1066,Recycled cotton towel (Retowels),Bathroom,Towels,"recycled cotton towel, bath towel, hand towel, face towel","recycled cotton, towel, bath, hand, face",300,4.9,2
+1067,Organic cotton towel (Coyuchi),Bathroom,Towels,"organic cotton towel, bath towel, hand towel, face towel","organic cotton, towel, bath, hand, face",350,4.9,2
+1068,Hemp towel (Tencel),Bathroom,Towels,"hemp towel, bath towel, hand towel, face towel","hemp, towel, bath, hand, face",400,4.9,2
+1069,Bamboo hooded towel (KeaBabies),Bathroom,Towels,"bamboo hooded towel, bath towel, baby towel","bamboo, towel, bath, baby, hooded",450,4.9,2
+1070,Microfiber hair towel (Aquis),Bathroom,Towels,"microfiber hair towel, hair towel, turban","microfiber, towel, hair, turban",500,4.9,2
+1071,Linen table runner (Parachute Home),Kitchen,Towels,linen table runner,"linen, table runner",550,4.9,2
+1072,Cotton dish towel (White Towel Company),Kitchen,Towels,"cotton dish towel, dish towel, kitchen towel","cotton, towel, dish, kitchen",600,4.5,1
+1073,Bamboo dish towel (Cariloha),Kitchen,Towels,"bamboo dish towel, dish towel, kitchen towel","bamboo, towel, dish, kitchen",650,4.7,2
+1074,Microfiber dish towel (Amazon Basics),Kitchen,Towels,"microfiber dish towel, dish towel, kitchen towel","microfiber, towel, dish, kitchen",700,4.8,2
+1075,Linen kitchen towel (Parachute Home),Kitchen,Towels,"linen kitchen towel, kitchen towel","linen, towel, kitchen",750,4.9,2
+1076,Recycled cotton dish towel (Retowels),Kitchen,Towels,"recycled cotton dish towel, dish towel, kitchen towel","recycled cotton, towel, dish, kitchen",800,4.9,2
+1077,Organic cotton dish towel (Coyuchi),Kitchen,Towels,"organic cotton dish towel, dish towel, kitchen towel","organic cotton, towel, dish, kitchen",850,4.9,2
+1078,Hemp kitchen towel (Tencel),Kitchen,Towels,"hemp kitchen towel, kitchen towel","hemp, towel, kitchen",900,4.9,2
+1079,Bamboo bar towel (Cariloha),Kitchen,Towels,"bamboo bar towel, bar towel, cocktail towel","bamboo, towel, bar, cocktail",950,4.9,2
+1080,Microfiber cleaning cloth (Amazon Basics),Household,Cleaning cloths,"microfiber cleaning cloth, cleaning cloth, all-purpose cloth","microfiber, cloth, cleaning, all-purpose",1000,4.8,2
+1081,Dining chair (IKEA),Furniture,Chairs,"dining chair, kitchen chair, modern chair","chair, dining, kitchen, modern, IKEA",500,4.5,1
+1082,Office chair (Herman Miller),Furniture,Chairs,"office chair, ergonomic chair, task chair","chair, office, ergonomic, task, Herman Miller",1000,4.7,1
+1083,Gaming chair (Secretlab),Furniture,Chairs,"gaming chair, racing chair, computer chair","chair, gaming, racing, computer, Secretlab",1500,4.8,1
+1084,Rocking chair (Glider),Furniture,Chairs,"rocking chair, glider, nursery chair","chair, rocking, glider, nursery",2000,4.9,1
+1085,Bean bag chair (Lovesac),Furniture,Chairs,"bean bag chair, sac chair, floor chair","chair, bean bag, sac, floor, Lovesac",2500,4.9,1
+1086,Hammock chair (ENO),Furniture,Chairs,"hammock chair, hanging chair, swing chair","chair, hammock, hanging, swing, ENO",3000,4.9,1
+1087,Floor pillow (Urban Outfitters),Furniture,Chairs,"floor pillow, floor cushion, meditation pillow","pillow, floor, cushion, meditation, Urban Outfitters",3500,4.9,1
+1088,Adirondack chair (Home Depot),Furniture,Chairs,"Adirondack chair, outdoor chair, lawn chair","chair, Adirondack, outdoor, lawn, Home Depot",4000,4.9,1
+1089,Folding chair (Walmart),Furniture,Chairs,"folding chair, portable chair, camp chair","chair, folding, portable, camp, Walmart",4500,4.9,1
+1090,Chaise lounge (Target),Furniture,Chairs,"chaise lounge, lounge chair, outdoor chair","chair, chaise lounge, lounge, outdoor, Target",5000,4.9,1
+1091,Bench (IKEA),Furniture,Chairs,"bench, outdoor bench, indoor bench","chair, bench, outdoor, indoor, IKEA",5500,4.9,1
+1092,Stool (West Elm),Furniture,Chairs,"stool, counter stool, bar stool","chair, stool, counter, bar, West Elm",6000,4.9,1
+1093,Ottoman (Anthropologie),Furniture,Chairs,"ottoman, footstool, pouf","chair, ottoman, footstool, pouf, Anthropologie",6500,4.9,1
+1094,Adirondack chair made from recycled plastic (Polywood),Furniture,Chairs,"Adirondack chair, outdoor chair, lawn chair, recycled plastic chair","chair, Adirondack, outdoor, lawn, recycled plastic, Polywood",7000,4.9,2
+1095,Folding chair made from bamboo (SereneLife),Furniture,Chairs,"folding chair, portable chair, camp chair, bamboo chair","chair, folding, portable, camp, bamboo, SereneLife",7500,4.9,2
+1096,Chaise lounge made from sustainable wood (Teak),Furniture,Chairs,"chaise lounge, lounge chair, outdoor chair, sustainable wood chair","chair, chaise lounge, lounge, outdoor, sustainable wood, Teak",8000,4.9,2
+1097,Bench made from recycled materials (ReNew),Furniture,Chairs,"bench, outdoor bench, indoor bench, recycled materials chair","chair, bench, outdoor, indoor, recycled materials, ReNew",8500,4.9,2
+1098,Stool made from sustainable bamboo (Bambu),Furniture,Chairs,"stool, counter stool, bar stool, bamboo chair","chair, stool, counter, bar, bamboo, Bambu",9000,4.9,2
+1099,Ottoman made from organic cotton (Coyuchi),Furniture,Chairs,"ottoman, footstool, pouf, organic cotton chair","chair, ottoman, footstool, pouf, organic cotton, Coyuchi",9500,4.9,2
+1100,Rocking chair made from reclaimed wood (Rustic),Furniture,Chairs,"rocking chair, glider, nursery chair, reclaimed wood chair","chair, rocking, glider, nursery, reclaimed wood, Rustic",10000,4.9,2
+1101,Casper Original Mattress,Mattresses,Memory Foam,"Soft, Medium, Firm","Casper, Memory Foam Mattress, Original Mattress",1099,4.7,1
+1102,Purple Mattress,Mattresses,Memory Foam,"Medium, Firm","Purple, Memory Foam Mattress",1299,4.8,1
+1103,Nectar Mattress,Mattresses,Memory Foam,"Medium, Firm","Nectar, Memory Foam Mattress",999,4.6,1
+1104,Saatva Mattress,Mattresses,Hybrid,"Medium, Firm","Saatva, Hybrid Mattress",1399,4.9,1
+1105,Tuft & Needle Mattress,Mattresses,Memory Foam,Medium,"Tuft & Needle, Memory Foam Mattress",799,4.5,1
+1106,Avocado Green Mattress,Mattresses,Natural Latex,"Medium, Firm","Avocado, Natural Latex Mattress, Green Mattress",1599,4.9,2
+1107,Birch Mattress,Mattresses,Natural Latex,"Medium, Firm","Birch, Natural Latex Mattress",1399,4.8,2
+1108,WinkBed Mattress,Mattresses,Hybrid,"Medium, Firm","WinkBed, Hybrid Mattress",1799,4.9,1
+1109,Helix Mattress,Mattresses,Hybrid,"Medium, Firm","Helix, Hybrid Mattress",1199,4.7,1
+1110,Layla Mattress,Mattresses,Memory Foam,"Medium, Firm","Layla, Memory Foam Mattress",1499,4.8,1
+1111,Naturepedic Organic Mattress,Mattresses,Natural Latex,"Medium, Firm","Naturepedic, Organic Mattress, Natural Latex Mattress",1699,4.9,2
+1112,The Futon Shop Natural Cotton Futon,Mattresses,Organic Cotton,"Medium, Firm","The Futon Shop, Natural Cotton Futon, Organic Cotton Mattress",699,4.7,2
+1113,My Green Mattress,Mattresses,Natural Latex,"Medium, Firm","My Green Mattress, Natural Latex Mattress",1499,4.8,2
+1114,Essentia Mattress,Mattresses,Natural Talalay Latex,"Medium, Firm","Essentia, Natural Talalay Latex Mattress",2099,4.9,2
+1115,Eco Terra Mattress,Mattresses,Natural Latex,"Medium, Firm","Eco Terra, Natural Latex Mattress",1399,4.8,2
+1116,Plumen Mattress,Mattresses,Natural Latex,"Medium, Firm","Plumen, Natural Latex Mattress",1199,4.7,2
+1117,Birch Natural Mattress,Mattresses,Natural Talalay Latex,"Medium, Firm","Birch, Natural Talalay Latex Mattress",1499,4.9,2
+1118,The Zenhaven Mattress,Mattresses,Natural Latex,"Medium, Firm","Zenhaven, Natural Latex Mattress",2299,4.9,2
+1119,Saatva Loom & Leaf Mattress,Mattresses,Hybrid,"Medium, Firm","Saatva, Loom & Leaf Mattress, Hybrid Mattress",2199,4.9,1
+1120,The WinkBed EcoCloud Mattress,Mattresses,Hybrid,"Medium, Firm","WinkBed, EcoCloud Mattress, Hybrid Mattress",2099,4.9,1
+1121,Dining table (IKEA),Furniture,Tables,"dining table, kitchen table","table, dining, kitchen, IKEA",500,4.5,1
+1122,Coffee table (West Elm),Furniture,Tables,"coffee table, living room table","table, coffee, living room, West Elm",1000,4.7,1
+1123,End table (Target),Furniture,Tables,"end table, nightstand","table, end, nightstand, Target",1500,4.8,1
+1124,Desk (IKEA),Furniture,Tables,"desk, office desk, computer desk","table, desk, office, computer, IKEA",2000,4.9,1
+1125,Folding table (Walmart),Furniture,Tables,"folding table, portable table, camp table","table, folding, portable, camp, Walmart",2500,4.9,1
+1126,Picnic table (Home Depot),Furniture,Tables,"picnic table, outdoor table","table, picnic, outdoor, Home Depot",3000,4.9,1
+1127,Console table (Anthropologie),Furniture,Tables,"console table, entryway table","table, console, entryway, Anthropologie",3500,4.9,1
+1128,Coffee table made from recycled wood (Polywood),Furniture,Tables,"coffee table, living room table, recycled wood table","table, coffee, living room, recycled wood, Polywood",4000,4.9,2
+1129,End table made from bamboo (SereneLife),Furniture,Tables,"end table, nightstand, bamboo table","table, end, nightstand, bamboo, SereneLife",4500,4.9,2
+1130,Desk made from sustainable wood (Teak),Furniture,Tables,"desk, office desk, computer desk, sustainable wood table","table, desk, office, computer, sustainable wood, Teak",5000,4.9,2
+1131,Folding table made from recycled materials (ReNew),Furniture,Tables,"folding table, portable table, camp table, recycled materials table","table, folding, portable, camp, recycled materials, ReNew",5500,4.9,2
+1132,Picnic table made from sustainable bamboo (Bambu),Furniture,Tables,"picnic table, outdoor table, sustainable bamboo table","table, picnic, outdoor, sustainable bamboo, Bambu",6000,4.9,2
+1133,Console table made from reclaimed wood (Rustic),Furniture,Tables,"console table, entryway table, reclaimed wood table","table, console, entryway, reclaimed wood, Rustic",6500,4.9,2
+1134,Adjustable height table (IKEA),Furniture,Tables,"adjustable height table, standing desk","table, adjustable height, standing desk, IKEA",7000,4.9,1
+1135,Nest of tables (West Elm),Furniture,Tables,"nest of tables, coffee table, end table","table, nest of tables, coffee table, end table, West Elm",7500,4.9,1
+1136,Writing desk made from recycled materials (ReNew),Furniture,Tables,"writing desk, study table, recycled materials table","table, writing, study, recycled materials, ReNew",8000,4.9,2
+1137,Laptop table made from bamboo (SereneLife),Furniture,Tables,"laptop table, bed tray, bamboo table","table, laptop, bed tray, bamboo, SereneLife",8500,4.9,2
+1138,TV stand made from sustainable wood (Teak),Furniture,Tables,"TV stand, entertainment center, sustainable wood table","table, TV stand, entertainment center, sustainable wood, Teak",9000,4.9,2
+1139,Nightstand made from reclaimed wood (Rustic),Furniture,Tables,"nightstand, end table, reclaimed wood table","table, nightstand, end table, reclaimed wood, Rustic",9500,4.9,2
+1140,Coffee table with storage made from recycled materials (ReNew),Furniture,Tables,"coffee table with storage, storage table, recycled materials table","table, coffee table, storage table, recycled materials, ReNew",10000,4.9,2
+1141,Handmade Moroccan Wool Rug The Rug Company,Rugs,Area Rugs,"Moroccan, Wool, Handmade","rug, area rug, moroccan rug, wool rug, handmade rug",29999,4.5,2
+1142,Modern Shag Rug IKEA,Rugs,Area Rugs,"Shag, Modern","rug, area rug, shag rug, modern rug",19999,4.7,1
+1143,Outdoor Rug Wayfair,Rugs,Outdoor Rugs,"Outdoor, Plastic","rug, outdoor rug, plastic rug",9999,4.3,1
+1144,Vintage Persian Rug 1stDibs,Rugs,Area Rugs,"Persian, Vintage","rug, area rug, persian rug, vintage rug",49999,4.9,1
+1145,Braided Jute Rug Pottery Barn,Rugs,Area Rugs,"Natural Fiber, Braided","rug, area rug, natural fiber rug, braided rug",14999,4.4,2
+1146,Moroccan Trellis Rug West Elm,Rugs,Area Rugs,"Moroccan, Trellis","rug, area rug, moroccan rug, trellis rug",34999,4.6,1
+1147,Contemporary Abstract Rug CB2,Rugs,Area Rugs,"Contemporary, Abstract","rug, area rug, contemporary rug, abstract rug",24999,4.8,0
+1148,Geometric Rug Rugs USA,Rugs,Area Rugs,Geometric,"rug, area rug, geometric rug",39999,4.5,1
+1149,Traditional Floral Rug Overstock,Rugs,Area Rugs,"Traditional, Floral","rug, area rug, traditional rug, floral rug",49999,4.9,0
+1150,Kids Rug Ruggable,Rugs,Kids Rugs,"Playroom, Bedroom","rug, kids rug, playroom rug, bedroom rug",19999,4.7,2
+1151,Kilim Rug Pottery Barn,Rugs,Area Rugs,"Kilim, Wool","rug, area rug, kilim rug, wool rug",39999,4.5,2
+1152,Dhurrie Rug West Elm,Rugs,Area Rugs,"Dhurrie, Cotton","rug, area rug, dhurrie rug, cotton rug",19999,4.7,0
+1153,Jute  Rug CB2,Rugs,Area Rugs,"Natural Fiber, Jute","rug, area rug, natural fiber rug, jute rug",24999,4.8,2
+1154,Moroccan Pom Pom Rug Rugs USA,Rugs,Area Rugs,"Moroccan, Pom Pom","rug, area rug, moroccan rug, pom pom rug",14999,4.4,1
+1155,Overstock Traditional Persian Rug,Rugs,Area Rugs,"Traditional, Persian","rug, area rug, traditional rug, persian rug",49999,4.9,0
+1156,Ruggable Kids Playroom Rug,Rugs,Kids Rugs,"Playroom, Colorful","rug, kids rug, playroom rug, colorful rug",19999,4.7,2
+1157,Wool Rug IKEA,Rugs,Area Rugs,Wool,"rug, area rug, wool rug",39999,4.5,1
+1158,Cotton Rug Wayfair,Rugs,Area Rugs,Cotton,"rug, area rug, cotton rug",19999,4.7,0
+1159,Synthetic Rug Overstock,Rugs,Area Rugs,Synthetic,"rug, area rug, synthetic rug",24999,4.8,1
+1160,Outdoor Rug Ruggable,Rugs,Outdoor Rugs,"Outdoor, Durable","rug, outdoor rug, durable rug",14999,4.4,1
+1161,iPhone SE (2023) (Apple),Mobile,Smartphone,"iPhone SE (2023), Apple smartphone, budget smartphone","smartphone, iPhone, Apple, budget",40000,4.7,0
+1162,Pixel 6a (Google),Mobile,Smartphone,"Pixel 6a, Google smartphone, budget smartphone","smartphone, Pixel, Google, budget",40000,4.3,0
+1163,Nord CE 3 (OnePlus),Mobile,Smartphone,"Nord CE 3, OnePlus smartphone, budget smartphone","smartphone, Nord, OnePlus, budget",40000,4.6,0
+1164,Galaxy A23 5G (Samsung),Mobile,Smartphone,"Galaxy A23 5G, Samsung smartphone, budget smartphone","smartphone, Galaxy, Samsung, budget",40000,4.5,0
+1165,Redmi 11 Prime 5G (Xiaomi),Mobile,Smartphone,"Redmi 11 Prime 5G, Xiaomi smartphone, budget smartphone","smartphone, Redmi, Xiaomi, budget",30000,4.2,1
+1166,Realme 9i 5G (Realme),Mobile,Smartphone,"Realme 9i 5G, Realme smartphone, budget smartphone","smartphone, Realme, budget",30000,4.2,1
+1167,Poco M4 Pro (Xiaomi),Mobile,Smartphone,"Poco M4 Pro, Xiaomi smartphone, budget smartphone","smartphone, Poco, Xiaomi, budget",30000,4.3,1
+1168,Moto G71 5G (Motorola),Mobile,Smartphone,"Moto G71 5G, Motorola smartphone, budget smartphone","smartphone, Moto, Motorola, budget",30000,4.4,1
+1169,Nokia G60 5G (Nokia),Mobile,Smartphone,"Nokia G60 5G, Nokia smartphone, budget smartphone","smartphone, Nokia, budget",30000,4.4,1
+1170,Redmi 11 Note 5G (Xiaomi),Mobile,Smartphone,"Redmi 11 Note 5G, Xiaomi smartphone, mid-range smartphone","smartphone, Redmi, Xiaomi, mid-range",40000,4.1,1
+1171,Realme 9 Pro+ 5G (Realme),Mobile,Smartphone,"Realme 9 Pro+ 5G, Realme smartphone, mid-range smartphone","smartphone, Realme, mid-range",40000,4.1,1
+1172,Poco F4 GT (Xiaomi),Mobile,Smartphone,"Poco F4 GT, Xiaomi smartphone, mid-range smartphone","smartphone, Poco, Xiaomi, mid-range",40000,4.2,1
+1173,Moto G82 5G (Motorola),Mobile,Smartphone,"Moto G82 5G, Motorola smartphone, mid-range smartphone","smartphone, Moto, Motorola, mid-range",40000,4.3,1
+1174,Redmi Note 11 Pro+ 5G (Xiaomi),Mobile,Smartphone,"Redmi Note 11 Pro+ 5G, Xiaomi smartphone, mid-range smartphone","smartphone, Redmi, Xiaomi, mid-range",40000,4.4,1
+1175,Realme GT Neo 3T (Realme),Mobile,Smartphone,"Realme GT Neo 3T, Realme smartphone, mid-range smartphone","smartphone, Realme, GT Neo 3T, mid-range",40000,4.5,1
+1176,Poco X4 GT (Xiaomi),Mobile,Smartphone,"Poco X4 GT, Xiaomi smartphone, mid-range smartphone","smartphone, Poco, Xiaomi, mid-range",40000,4.5,1
+1177,Moto Edge 30 Pro (Motorola),Mobile,Smartphone,"Moto Edge 30 Pro, Motorola smartphone, mid-range smartphone","smartphone, Moto, Edge 30 Pro, mid-range",40000,4.3,1
+1178,Nokia XR20 (Nokia),Mobile,Smartphone,"Nokia XR20, Nokia smartphone, rugged smartphone","smartphone, Nokia, XR20, rugged",40000,4.2,1
+1179,iPhone 14 (Apple),Mobile,Smartphone,"iPhone 14, Apple smartphone, flagship smartphone","smartphone, iPhone, Apple, flagship",100000,4.8,0
+1180,OnePlus 11 Pro (OnePlus),Mobile,Smartphone,"OnePlus 11 Pro, OnePlus smartphone, flagship smartphone","smartphone, OnePlus, 11 Pro, flagship",80000,4.7,0
+1181,Rocketbook Recycled Paper Spiral Notebook,Notebooks,Recycled Notebooks,"Spiral Bound, College Ruled, 100 Pages","notebook, recycled notebook, spiral notebook, college ruled notebook, 100 pages",199,4.5,2
+1182,Moleskine Digital Notebook,Notebooks,Digital Notebooks,"Blank, 200 Pages","notebook, digital notebook, blank notebook, 200 pages",399,4.7,0
+1183,Moleskine Smart Notebook,Notebooks,Smart Notebooks,"Blank, 200 Pages","notebook, smart notebook, blank notebook, 200 pages",399,4.7,0
+1184,Mead Recycled Paper Composition Notebook,Notebooks,Recycled Notebooks,"Composition Bound, Wide Ruled, 200 Pages","notebook, recycled notebook, composition notebook, wide ruled notebook, 200 pages",149,4.7,2
+1185,Day One Digital Journal,Notebooks,Digital Journals,"Blank, 200 Pages","notebook, digital journal, blank journal, 200 pages",299,4.8,0
+1186,Evernote Smart Journal,Notebooks,Smart Journals,"Blank, 200 Pages","notebook, smart journal, blank journal, 200 pages",299,4.8,0
+1187,Strathmore Recycled Paper Sketchbook,Notebooks,Recycled Notebooks,"Sketchbook, Blank, 100 Pages","notebook, recycled notebook, sketchbook, blank sketchbook, 100 pages",249,4.5,2
+1188,Procreate Digital Sketchbook,Notebooks,Digital Sketchbooks,"Blank, 100 Pages","notebook, digital sketchbook, blank sketchbook, 100 pages",199,4.7,0
+1189,Leuchtturm1917 Hardcover Notebook,Notebooks,Hardcover Notebooks,"Dot Grid, 251 Pages","notebook, hardcover notebook, dot grid notebook, 251 pages",499,4.7,1
+1190,Field Notes Travel Notebook,Notebooks,Travel Notebooks,"Lined, 48 Pages","notebook, travel notebook, lined notebook, 48 pages",199,4.8,2
+1191,"Rocketbook Recycled Paper Spiral Notebook, Executive Ruled",Notebooks,Recycled Notebooks,"Spiral Bound, Executive Ruled, 80 Pages","notebook, recycled notebook, spiral notebook, executive ruled notebook, 80 pages",199,4.5,2
+1192,Moleskine Digital Notebook with Evernote,Notebooks,Digital Notebooks,"Blank, 200 Pages","notebook, digital notebook, evernote, blank notebook, 200 pages",399,4.7,0
+1193,Sony Digital Paper DPT-RP1,Notebooks,Digital Notebooks,"Blank, 13.3 inches","notebook, digital notebook, sony digital paper dpt-rp1, blank notebook, 13.3 inches",39999,4.9,0
+1194,reMarkable Paper Tablet,Notebooks,Digital Notebooks,"Blank, 10.3 inches","notebook, digital notebook, remarkable paper tablet, blank notebook, 10.3 inches",29999,4.8,0
+1195,Likebook Mars Smart Notebook,Notebooks,Smart Notebooks,"Blank, 10.3 inches","notebook, smart notebook, likebook mars smart notebook, blank notebook, 10.3 inches",19999,4.7,0
+1196,Rocketbook Flip Reusable Notebook,Notebooks,Reusable Notebooks,"Spiral Bound, College Ruled, 80 Pages","notebook, reusable notebook, spiral notebook, college ruled notebook, 80 pages",299,4.8,2
+1197,Moleskine Cahier Journal,Notebooks,Classic Notebooks,"Plain, 80 Pages","notebook, classic notebook, cahier journal, plain notebook, 80 pages",499,4.9,1
+1198,Leuchtturm1917 Master Dot Grid Notebook,Notebooks,Dot Grid Notebooks,"Dot Grid, 251 Pages","notebook, dot grid notebook, master dot grid notebook, 251 pages",599,4.9,1
+1199,Field Notes Expedition Notebook,Notebooks,Field Notebooks,"Lined, 48 Pages","notebook, field notebook, expedition notebook, lined notebook, 48 pages",199,4.8,2
+1200,Midori Traveler's Notebook Passport Size,Notebooks,Traveler's Notebooks,"Plain, 64 Pages","notebook, traveler's notebook, passport size, plain notebook, 64 pages",1999,4.9,1
+1201,Glass bottle (no brand),Beverage,Bottle,"glass bottle, reusable bottle","bottle, glass, reusable",100,4.9,2
+1202,Ceramic bottle (no brand),Beverage,Bottle,"ceramic bottle, reusable bottle","bottle, ceramic, reusable",120,4.9,2
+1203,Stainless steel bottle (no brand),Beverage,Bottle,"stainless steel bottle, reusable bottle","bottle, stainless steel, reusable",150,4.9,2
+1204,Plant-based plastic bottle (no brand),Beverage,Bottle,"plant-based plastic bottle, reusable bottle","bottle, plant-based plastic, reusable",180,4.9,2
+1205,Boxed water bottle (no brand),Beverage,Bottle,"boxed water bottle, paper bottle","bottle, boxed water, paper",200,4.9,1
+1206,Brita filter bottle,Beverage,Bottle,"filter bottle, water filter bottle","bottle, filter, water filter",250,4.9,2
+1207,S'well bottle,Beverage,Bottle,"insulated bottle, stainless steel bottle","bottle, insulated, stainless steel",300,4.9,2
+1208,Hydro Flask bottle,Beverage,Bottle,"insulated bottle, stainless steel bottle","bottle, insulated, stainless steel",350,4.9,2
+1209,Klean Kanteen bottle,Beverage,Bottle,"stainless steel bottle, reusable bottle","bottle, stainless steel, reusable",400,4.9,2
+1210,LifeStraw Go water bottle with filter,Beverage,Bottle,"filter bottle, water filter bottle","bottle, filter, water filter",450,4.9,1
+1211,Binchotan activated charcoal water bottle,Beverage,Bottle,"water bottle with filter, activated charcoal water bottle","bottle, filter, activated charcoal",500,4.9,2
+1212,Thermos insulated water bottle,Beverage,Bottle,"insulated bottle, stainless steel bottle","bottle, insulated, stainless steel",550,4.9,2
+1213,Yeti Rambler water bottle,Beverage,Bottle,"insulated bottle, stainless steel bottle","bottle, insulated, stainless steel",600,4.9,2
+1214,Contigo Autoseal water bottle,Beverage,Bottle,"spill-proof water bottle, leak-proof water bottle","bottle, spill-proof, leak-proof",650,4.9,1
+1215,Camelbak Eddy water bottle,Beverage,Bottle,"bite valve water bottle, sports water bottle","bottle, bite valve, sports",700,4.9,1
+1216,Nalgene water bottle,Beverage,Bottle,"durable water bottle, reusable water bottle","bottle, durable, reusable",750,4.9,2
+1217,Cove BPA-free reusable bottle,Beverage,Bottle,"reusable bottle, BPA-free bottle, Cove bottle","bottle, reusable, BPA-free, Cove",300,4.9,2
+1218,LARQ Self-Cleaning Bottle,Beverage,Bottle,"reusable bottle, self-cleaning water bottle","bottle, reusable, self-cleaning",950,4.9,2
+1219,Single-use plastic water bottle,Beverage,Bottle,"disposable water bottle, plastic water bottle","bottle, disposable, plastic",10,4.9,0
+1220,Single-use aluminum water bottle,Beverage,Bottle,"disposable water bottle, aluminum water bottle","bottle, disposable, aluminum",150,4.9,0
+1221,Stainless Steel Fruit Basket (Amazon Basics),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, stainless steel fruit basket, kitchen fruit basket, fruit bowl",1499,4.5 ,0
+1222,Plastic Fruit Basket (Sterilite),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, plastic fruit basket, kitchen fruit basket, fruit bowl",999,4.2 ,1
+1223,Wooden Fruit Basket (Handmade),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, wooden fruit basket, kitchen fruit basket, fruit bowl",2299,4.7 ,2
+1224,Bamboo Fruit Basket (Wayfair),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, bamboo fruit basket, kitchen fruit basket, fruit bowl",1999,4.4 ,2
+1225,Recycled Plastic Fruit Basket (Eco-Products),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, recycled plastic fruit basket, kitchen fruit basket, fruit bowl",1299,4.3 ,2
+1226,Leaf Fruit Basket (Handmade),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, leaf fruit basket, kitchen fruit basket, fruit bowl",2999,4.8 ,2
+1227,Steel Fruit Basket (OXO Good Grips),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, steel fruit basket, kitchen fruit basket, fruit bowl",1999,4.6 ,0
+1228,Plastic Fruit Basket (Rubbermaid),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, plastic fruit basket, kitchen fruit basket, fruit bowl",1199,4.1 ,1
+1229,Wooden Fruit Basket (Williams Sonoma),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, wooden fruit basket, kitchen fruit basket, fruit bowl",2999,4.8 ,2
+1230,Bamboo Fruit Basket (IKEA),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, bamboo fruit basket, kitchen fruit basket, fruit bowl",1499,4.4 ,2
+1231,Ceramic Fruit Basket (Crate & Barrel),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, ceramic fruit basket, kitchen fruit basket, fruit bowl",2499,4.7 ,2
+1232,Glass Fruit Basket (IKEA),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, glass fruit basket, kitchen fruit basket, fruit bowl",1999,4.5 ,2
+1233,Wicker Fruit Basket (World Market),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, wicker fruit basket, kitchen fruit basket, fruit bowl",2999,4.8 ,2
+1234,Wire Fruit Basket (Amazon Basics),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, wire fruit basket, kitchen fruit basket, fruit bowl",1499,4.4 ,2
+1235,Metal Fruit Basket (Target),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, metal fruit basket, kitchen fruit basket, fruit bowl",1999,4.6 ,1
+1236,Stone Fruit Basket (Williams Sonoma),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, stone fruit basket, kitchen fruit basket, fruit bowl",3999,4.9 ,2
+1237,Acrylic Fruit Basket (Container Store),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, acrylic fruit basket, kitchen fruit basket, fruit bowl",2499,4.7 ,2
+1238,Paper Mache Fruit Basket (Handmade),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, paper mache fruit basket, kitchen fruit basket, fruit bowl",1999,4.5 ,2
+1239,Straw Fruit Basket (Handmade),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, straw fruit basket, kitchen fruit basket, fruit bowl",2999,4.8 ,2
+1240,Corn Husk Fruit Basket (Handmade),Home & Kitchen,Cookware & Dining,Fruit Baskets,"Fruit basket, corn husk fruit basket, kitchen fruit basket, fruit bowl",2499,4.7 ,2
+1241,Sprout Pencil,Writing & Office Supplies,Pen,"Plantable Pencil, Sprout Pencil, Eco-Friendly Pencil","Pencil, Plantable, Sprout, Eco-Friendly",20,4.9,2
+1242,Onyx & Green Bamboo Ballpoint Pen,Writing & Office Supplies,Pen,"Bamboo Pen, Eco-Friendly Pen, Onyx & Green Pen","Pen, Bamboo, Eco-Friendly, Onyx & Green",30,4.9,2
+1243,Simply Genius Recycled Paper Pen,Writing & Office Supplies,Pen,"Recycled Paper Pen, Eco-Friendly Pen, Simply Genius Pen","Pen, Recycled Paper, Eco-Friendly, Simply Genius",40,4.9,2
+1244,Pilot G2 Refillable Gel Pen,Writing & Office Supplies,Pen,"Gel Pen, Refillable Pen, Pilot G2 Pen","Pen, Gel, Refillable, Pilot G2",50,4.9,2
+1245,Lamy Safari Fountain Pen,Writing & Office Supplies,Pen,"Fountain Pen, Lamy Safari Pen, Eco-Friendly Pen","Pen, Fountain, Lamy Safari, Eco-Friendly",200,4.9,2
+1246,TWSBI Eco Fountain Pen,Writing & Office Supplies,Pen,"Fountain Pen, TWSBI Eco Pen, Eco-Friendly Pen","Pen, Fountain, TWSBI Eco, Eco-Friendly",300,4.9,2
+1247,Kaweco Perkeo Fountain Pen,Writing & Office Supplies,Pen,"Fountain Pen, Kaweco Perkeo Pen, Eco-Friendly Pen","Pen, Fountain, Kaweco Perkeo, Eco-Friendly",250,4.9,2
+1248,Pentel EnerGel Gel Pen,Writing & Office Supplies,Pen,Gel Pen,"Pen, Gel, Pentel EnerGel",25,4.9,1
+1249,Pilot Metropolitan Fountain Pen,Writing & Office Supplies,Pen,Fountain Pen,"Pen, Fountain, Pilot Metropolitan",150,4.9,1
+1250,Jinhao Shark Fountain Pen,Writing & Office Supplies,Pen,Fountain Pen,"Pen, Fountain, Jinhao Shark",100,4.9,1
+1251,Uni-ball Signo RT Gel Pen,Writing & Office Supplies,Pen,Gel Pen,"Pen, Gel, Uni-ball Signo RT",20,4.9,1
+1252,BIC Cristal Xtra Bold Ballpoint Pen,Writing & Office Supplies,Pen,Ballpoint Pen,"Pen, Ballpoint, BIC Cristal Xtra Bold",7.5,4.9,0
+1253,Sharpie Fine Point Permanent Marker,Writing & Office Supplies,Pen,Permanent Marker,"Pen, Permanent Marker, Sharpie Fine Point",15,4.9,0
+1254,Paper Mate InkJoy Gel Pen,Writing & Office Supplies,Pen,Gel Pen,"Pen, Gel, Paper Mate InkJoy",15,4.9,0
+1255,Pilot Precise V5 RT Rolling Ball Pen,Writing & Office Supplies,Pen,Rolling Ball Pen,"Pen, Rolling Ball, Pilot Precise V5 RT",15,4.9,0
+1256,Pilot Acroball 0.7mm Ballpoint Pen,Writing & Office Supplies,Pen,Ballpoint Pen,"Pen, Ballpoint, Pilot Acroball 0.7mm",7.5,4.9,0
+1257,Zebra Mildliner Highlighter,Writing & Office Supplies,Pen,Highlighter,"Highlighter, Zebra Mildliner",20,4.9,1
+1258,Crayola Super Tips Washable Marker,Writing & Office Supplies,Pen,Marker,"Marker, Crayola Super Tips Washable",15,4.9,0
+1259,Sharpie Retractable Fine Point Permanent Marker,Writing & Office Supplies,Pen,Permanent Marker,"Pen, Permanent Marker, Sharpie Retractable Fine Point",25,4.9,0
+1260,Paper Mate Flair M Felt Tip Pen,Writing & Office Supplies,Pen,Felt Tip Pen,"Pen, Felt Tip, Paper Mate Flair M",15,4.9,0
+1261,Ceramic Dinner Plate (Corelle),Home & Kitchen,Cookware & Dining,Plates,"Ceramic plate, dinner plate, kitchen plate",999,4.7,2
+1262,Glass Dinner Plate (IKEA),Home & Kitchen,Cookware & Dining,Plates,"Glass plate, dinner plate, kitchen plate",799,4.5,2
+1263,Porcelain Dinner Plate (Lenox),Home & Kitchen,Cookware & Dining,Plates,"Porcelain plate, dinner plate, kitchen plate",1499,4.8,2
+1264,Melamine Dinner Plate (Unbreakable Kitchenware),Home & Kitchen,Cookware & Dining,Plates,"Melamine plate, dinner plate, kitchen plate",499,4.4,1
+1265,Plastic Dinner Plate (Corelle),Home & Kitchen,Cookware & Dining,Plates,"Plastic plate, dinner plate, kitchen plate",399,4.1,1
+1266,Bamboo Dinner Plate (World Market),Home & Kitchen,Cookware & Dining,Plates,"Bamboo plate, dinner plate, kitchen plate",699,4.3,2
+1267,Wooden Dinner Plate (Handmade),Home & Kitchen,Cookware & Dining,Plates,"Wooden plate, dinner plate, kitchen plate",999,4.6,2
+1268,Ceramic Side Plate (Corelle),Home & Kitchen,Cookware & Dining,Plates,"Ceramic plate, side plate, kitchen plate",499,4.7,2
+1269,Glass Side Plate (IKEA),Home & Kitchen,Cookware & Dining,Plates,"Glass plate, side plate, kitchen plate",399,4.5,2
+1270,Porcelain Side Plate (Lenox),Home & Kitchen,Cookware & Dining,Plates,"Porcelain plate, side plate, kitchen plate",999,4.8,2
+1271,Melamine Side Plate (Unbreakable Kitchenware),Home & Kitchen,Cookware & Dining,Plates,"Melamine plate, side plate, kitchen plate",399,4.4,1
+1272,Plastic Side Plate (Corelle),Home & Kitchen,Cookware & Dining,Plates,"Plastic plate, side plate, kitchen plate",299,4.1,1
+1273,Bamboo Side Plate (World Market),Home & Kitchen,Cookware & Dining,Plates,"Bamboo plate, side plate, kitchen plate",499,4.3,2
+1274,Wooden Side Plate (Handmade),Home & Kitchen,Cookware & Dining,Plates,"Wooden plate, side plate, kitchen plate",699,4.6,2
+1275,Ceramic Dessert Plate (Corelle),Home & Kitchen,Cookware & Dining,Plates,"Ceramic plate, dessert plate, kitchen plate",399,4.7,2
+1276,Porcelain Dessert Plate (Lenox),Home & Kitchen,Cookware & Dining,Plates,"Ceramic plate, dessert plate, kitchen plate",799,4.8,2
+1277,Melamine Dessert Plate (Unbreakable Kitchenware),Home & Kitchen,Cookware & Dining,Plates,"Melamine plate, dessert plate, kitchen plate",299,4.4,1
+1278,Plastic Dessert Plate (Corelle),Home & Kitchen,Cookware & Dining,Plates,"Plastic plate, dessert plate, kitchen plate",199,4.1,1
+1279,Bamboo Dessert Plate (World Market),Home & Kitchen,Cookware & Dining,Plates,"Bamboo plate, dessert plate, kitchen plate",399,4.3,2
+1280,Wooden Dessert Plate (Handmade),Home & Kitchen,Cookware & Dining,Plates,"Wooden plate, dessert plate, kitchen plate",499,4.6,2
+1281,Stainless steel straw,Beverage,Straw,"reusable straw, metal straw, stainless steel straw","straw, reusable, metal, stainless steel",50,4.9,0
+1282,Bamboo straw,Beverage,Straw,"reusable straw, natural straw, bamboo straw","straw, reusable, natural, bamboo",30,4.9,0
+1283,Glass straw,Beverage,Straw,"reusable straw, glass straw","straw, reusable, glass",40,4.9,0
+1284,Silicone straw,Beverage,Straw,"reusable straw, silicone straw","straw, reusable, silicone",20,4.9,0
+1285,Paper straw,Beverage,Straw,"compostable straw, paper straw","straw, compostable, paper",10,4.9,2
+1286,Wheat straw,Beverage,Straw,"compostable straw, wheat straw","straw, compostable, wheat",15,4.9,2
+1287,PLA straw,Beverage,Straw,"compostable straw, PLA straw","straw, compostable, PLA",20,4.9,2
+1288,Reed straw,Beverage,Straw,"compostable straw, reed straw","straw, compostable, reed",15,4.9,2
+1289,Sulapac straw,Beverage,Straw,"compostable straw, Sulapac straw","straw, compostable, Sulapac",30,4.9,2
+1290,Plastic straw,Beverage,Straw,"disposable straw, plastic straw","straw, disposable, plastic",5,4.9,1
+1291,Coated paper straw,Beverage,Straw,"disposable straw, coated paper straw","straw, disposable, coated paper",10,4.9,1
+1292,PLA-coated paper straw,Beverage,Straw,"disposable straw, PLA-coated paper straw","straw, disposable, PLA-coated paper",15,4.9,1
+1293,Metal straw with plastic coating,Beverage,Straw,"reusable straw, metal straw with plastic coating","straw, reusable, metal, plastic coating",50,4.9,1
+1294,Silicone straw with plastic tip,Beverage,Straw,"reusable straw, silicone straw with plastic tip","straw, reusable, silicone, plastic tip",20,4.9,1
+1295,Glass straw with plastic mouthpiece,Beverage,Straw,"reusable straw, glass straw with plastic mouthpiece","straw, reusable, glass, plastic mouthpiece",40,4.9,1
+1296,Bamboo straw with plastic tip,Beverage,Straw,"reusable straw, bamboo straw with plastic tip","straw, reusable, bamboo, plastic tip",30,4.9,1
+1297,Wheat straw with plastic tip,Beverage,Straw,"reusable straw, wheat straw with plastic tip","straw, reusable, wheat, plastic tip",15,4.9,1
+1298,Metal straw with silicone tip,Beverage,Straw,"reusable straw, metal straw with silicone tip","straw, reusable, metal, silicone tip",50,4.9,0
+1299,Silicone straw with bamboo tip,Beverage,Straw,"reusable straw, silicone straw with bamboo tip","straw, reusable, silicone, bamboo tip",20,4.9,0
+1300,Bamboo straw with metal tip,Beverage,Straw,"reusable straw, bamboo straw with metal tip","straw, reusable, bamboo, metal tip",30,4.9,2
+1301,Ceramic Mug (Corelle),Home & Kitchen,Drinkware,Mugs,"Ceramic mug, mug, kitchen mug",999,4.7 ,2
+1302,Glass Mug (IKEA),Home & Kitchen,Drinkware,Mugs,"Glass mug, mug, kitchen mug",799,4.5 ,2
+1303,Porcelain Mug (Lenox),Home & Kitchen,Drinkware,Mugs,"Porcelain mug, mug, kitchen mug",1499,4.8 ,2
+1304,Melamine Mug (Unbreakable Kitchenware),Home & Kitchen,Drinkware,Mugs,"Melamine mug, mug, kitchen mug",499,4.4 ,1
+1305,Plastic Mug (Corelle),Home & Kitchen,Drinkware,Mugs,"Plastic mug, mug, kitchen mug",399,4.1,1
+1306,Bamboo Mug (World Market),Home & Kitchen,Drinkware,Mugs,"Bamboo mug, mug, kitchen mug",699,4.3,2
+1307,Wooden Mug (Handmade),Home & Kitchen,Drinkware,Mugs,"Wooden mug, mug, kitchen mug",999,4.6,2
+1308,Ceramic Coffee Mug (Corelle),Home & Kitchen,Drinkware,Coffee Mugs,"Ceramic coffee mug, coffee mug, kitchen mug",999,4.7,2
+1309,Glass Coffee Mug (IKEA),Home & Kitchen,Drinkware,Coffee Mugs,"Glass coffee mug, coffee mug, kitchen mug",799,4.5,2
+1310,Porcelain Coffee Mug (Lenox),Home & Kitchen,Drinkware,Coffee Mugs,"Porcelain coffee mug, coffee mug, kitchen mug",1499,4.8,2
+1311,Ceramic Travel Mug (Contigo),Home & Kitchen,Drinkware,Travel Mugs,"Ceramic travel mug, travel mug, kitchen mug",1499,4.7,2
+1312,Glass Travel Mug (Bodum),Home & Kitchen,Drinkware,Travel Mugs,"Glass travel mug, travel mug, kitchen mug",1299,4.5,2
+1313,Porcelain Teacup (Lenox),Home & Kitchen,Drinkware,Teacups,"Porcelain teacup, teacup, kitchen mug",999,4.8,2
+1314,Melamine Tumbler (Unbreakable Kitchenware),Home & Kitchen,Drinkware,Tumblers,"Melamine tumbler, tumbler, kitchen mug",499,4.4,1
+1315,Plastic Tumbler (Corelle),Home & Kitchen,Drinkware,Tumblers,"Plastic tumbler, tumbler, kitchen mug",399,4.1,1
+1316,Bamboo Tumbler (World Market),Home & Kitchen,Drinkware,Tumblers,"Bamboo tumbler, tumbler, kitchen mug",699,4.3,2
+1317,Wooden Tumbler (Handmade),Home & Kitchen,Drinkware,Tumblers,"Wooden tumbler, tumbler, kitchen mug",999,4.6,2
+1318,Stainless Steel Tumbler (S'well),Home & Kitchen,Drinkware,Tumblers,"Stainless steel tumbler, tumbler, kitchen mug",1999,4.7,2
+1319,Enamel Tumbler (Falcon Enamelware),Home & Kitchen,Drinkware,Tumblers,"Enamel tumbler, tumbler, kitchen mug",1499,4.6,2
+1320,Ceramic Sippy Cup (Munchkin),Home & Kitchen,Drinkware,Sippy Cups,"Ceramic sippy cup, sippy cup, kitchen mug",999,4.7,2
+1321,Reusable cotton tote bag,Shopping,Tote bag,"reusable bag, cotton bag, tote bag","bag, reusable, cotton, tote",400,4.9,2
+1322,Reusable canvas tote bag,Shopping,Tote bag,"reusable bag, canvas bag, tote bag","bag, reusable, canvas, tote",320,4.9,2
+1323,Reusable polyester tote bag,Shopping,Tote bag,"reusable bag, polyester bag, tote bag","bag, reusable, polyester, tote",240,4.9,2
+1324,Reusable nylon tote bag,Shopping,Tote bag,"reusable bag, nylon bag, tote bag","bag, reusable, nylon, tote",160,4.9,2
+1325,Reusable jute tote bag,Shopping,Tote bag,"reusable bag, jute bag, tote bag","bag, reusable, jute, tote",80,4.9,2
+1326,Reusable mesh bag,Shopping,Produce bag,"reusable bag, mesh bag, produce bag","bag, reusable, mesh, produce",80,4.9,2
+1327,Reusable silicone bag,Shopping,Food storage bag,"reusable bag, silicone bag, food storage bag","bag, reusable, silicone, food storage",400,4.9,2
+1328,Reusable beeswax wrap,Food storage,Food wrap,"reusable wrap, beeswax wrap, food wrap","wrap, reusable, beeswax, food",240,4.9,2
+1329,Reusable bread bag,Food storage,Bread bag,"reusable bag, bread bag","bag, reusable, bread",160,4.9,2
+1330,Reusable sandwich bag,Food storage,Sandwich bag,"reusable bag, sandwich bag","bag, reusable, sandwich",80,4.9,2
+1331,Reusable snack bag,Food storage,Snack bag,"reusable bag, snack bag","bag, reusable, snack",80,4.9,2
+1332,Reusable bulk bag,Shopping,Bulk bag,"reusable bag, bulk bag","bag, reusable, bulk",80,4.9,2
+1333,Reusable shopping bag made from recycled materials,Shopping,Shopping bag,"reusable bag, recycled bag, shopping bag","bag, reusable, recycled, shopping",400,4.9,2
+1334,Reusable produce bag made from recycled materials,Shopping,Produce bag,"reusable bag, recycled bag, produce bag","bag, reusable, recycled, produce",160,4.9,2
+1335,Reusable food storage bag made from recycled materials,Food storage,Food storage bag,"reusable bag, recycled bag, food storage bag","bag, reusable, recycled, food storage",240,4.9,2
+1336,Paper bag,Shopping,Shopping bag,paper bag,"bag, paper, shopping",40,4.9,0
+1337,Biodegradable plastic bag,Shopping,Shopping bag,"biodegradable bag, plastic bag, shopping bag","bag, biodegradable, plastic, shopping",80,4.9,1
+1338,Compostable plastic bag,Shopping,Shopping bag,"compostable bag, plastic bag, shopping bag","bag, compostable, plastic, shopping",120,4.9,1
+1339,Oxo-degradable plastic bag,Shopping,Shopping bag,"oxo-degradable bag, plastic bag, shopping bag","bag, oxo-degradable, plastic, shopping",40,4.9,1
+1340,Conventional plastic bag,Shopping,Shopping bag,"plastic bag, shopping bag","bag, plastic, shopping",8,4.9,1
+1341,Clay pot,Gardening,Plant pot,"clay pot, plant pot","pot, clay, plant",415,4.9,2
+1342,Terracotta pot,Gardening,Plant pot,"terracotta pot, plant pot","pot, terracotta, plant",332,4.9,2
+1343,Ceramic pot,Gardening,Plant pot,"ceramic pot, plant pot","pot, ceramic, plant",249,4.9,2
+1344,Stoneware pot,Gardening,Plant pot,"stoneware pot, plant pot","pot, stoneware, plant",166,4.9,2
+1345,Concrete pot,Gardening,Plant pot,"concrete pot, plant pot","pot, concrete, plant",415,4.9,1
+1346,Plastic pot,Gardening,Plant pot,"plastic pot, plant pot","pot, plastic, plant",83,4.9,1
+1347,Peat pot,Gardening,Plant pot,"peat pot, plant pot","pot, peat, plant",41.5,4.9,1
+1348,Biodegradable paper pot,Gardening,Plant pot,"biodegradable pot, paper pot, plant pot","pot, biodegradable, paper, plant",83,4.9,2
+1349,Biodegradable coconut fiber pot,Gardening,Plant pot,"biodegradable pot, coconut fiber pot, plant pot","pot, biodegradable, coconut fiber, plant",124.5,4.9,2
+1350,Biodegradable bamboo pot,Gardening,Plant pot,"biodegradable pot, bamboo pot, plant pot","pot, biodegradable, bamboo, plant",166,4.9,2
+1351,Reused container,Gardening,Plant pot,"reused container, plant pot","pot, reused, container",50,4.9,2
+1352,DIY plant pot,Gardening,Plant pot,DIY plant pot,"pot, DIY, plant",60,4.9,2
+1353,Reused plastic pot,Gardening,Plant pot,"reused pot, plastic pot, plant pot","pot, reused, plastic, plant",70,4.9,1
+1354,Reused ceramic pot,Gardening,Plant pot,"reused pot, ceramic pot, plant pot","pot, reused, ceramic, plant",100,4.9,2
+1355,Reused terracotta pot,Gardening,Plant pot,"reused pot, terracotta pot, plant pot","pot, reused, terracotta, plant",56,4.9,2
+1356,Reused clay pot,Gardening,Plant pot,"reused pot, clay pot, plant pot","pot, reused, clay, plant",90,4.9,2
+1357,Reused concrete pot,Gardening,Plant pot,"reused pot, concrete pot, plant pot","pot, reused, concrete, plant",100,4.9,1
+1358,Reused stone pot,Gardening,Plant pot,"reused pot, stone pot, plant pot","pot, reused, stone, plant",200,4.9,2
+1359,Reused metal pot,Gardening,Plant pot,"reused pot, metal pot, plant pot","pot, reused, metal, plant",100,4.9,2
+1360,Reused wooden pot,Gardening,Plant pot,"reused pot, wooden pot, plant pot","pot, reused, wooden, plant",150,4.9,2
+1361,Leather Slippers (Cole Haan),Home & Kitchen,Shoes,Slippers,"Leather slippers, slippers, men's slippers, women's slippers, indoor slippers, outdoor slippers",2499,4.7,1
+1362,Suede Slippers (UGG),Home & Kitchen,Shoes,Slippers,"Suede slippers, slippers, men's slippers, women's slippers, indoor slippers, outdoor slippers",2999,4.8,1
+1363,Canvas Slippers (TOMS),Home & Kitchen,Shoes,Slippers,"Canvas slippers, slippers, men's slippers, women's slippers, indoor slippers, outdoor slippers",1999,4.6,2
+1364,Rubber Slippers (Crocs),Home & Kitchen,Shoes,Slippers,"Rubber slippers, slippers, men's slippers, women's slippers, indoor slippers, outdoor slippers",1499,4.5,1
+1365,Memory Foam Slippers (Skechers),Home & Kitchen,Shoes,Slippers,"Memory foam slippers, slippers, men's slippers, women's slippers, indoor slippers, outdoor slippers",1999,4.7,2
+1366,Leather Flip-Flops (Havaianas),Home & Kitchen,Shoes,Sandals,"Leather flip-flops, flip-flops, men's flip-flops, women's flip-flops, indoor sandals, outdoor sandals",1499,4.6,1
+1367,Suede Flip-Flops (Birkenstock),Home & Kitchen,Shoes,Sandals,"Suede flip-flops, flip-flops, men's flip-flops, women's flip-flops, indoor sandals, outdoor sandals",1999,4.7,1
+1368,Canvas Flip-Flops (Sanuk),Home & Kitchen,Shoes,Sandals,"Canvas flip-flops, flip-flops, men's flip-flops, women's flip-flops, indoor sandals, outdoor sandals",1299,4.5,2
+1369,Rubber Flip-Flops (Speedo),Home & Kitchen,Shoes,Sandals,"Rubber flip-flops, flip-flops, men's flip-flops, women's flip-flops, indoor sandals, outdoor sandals",999,4.4,1
+1370,Memory Foam Flip-Flops (OOFOS),Home & Kitchen,Shoes,Sandals,"Memory foam flip-flops, flip-flops, men's flip-flops, women's flip-flops, indoor sandals, outdoor sandals",1999,4.7,2
+1371,Wool Slippers (LL Bean),Home & Kitchen,Shoes,Slippers,"Wool slippers, slippers, men's slippers, women's slippers, indoor slippers, outdoor slippers",2499,4.7,2
+1372,Felt Slippers (Haflinger),Home & Kitchen,Shoes,Slippers,"Felt slippers, slippers, men's slippers, women's slippers, indoor slippers, outdoor slippers",2999,4.8,2
+1373,Cork Slippers (Birkenstock),Home & Kitchen,Shoes,Slippers,"Cork slippers, slippers, men's slippers, women's slippers, indoor slippers, outdoor slippers",1999,4.6,2
+1374,Recycled Plastic Slippers (Rothy's),Home & Kitchen,Shoes,Slippers,"Recycled plastic slippers, slippers, men's slippers, women's slippers, indoor slippers, outdoor slippers",1499,4.5,2
+1375,Recycled Tire Slippers (Grounds),Home & Kitchen,Shoes,Slippers,"Recycled tire slippers, slippers, men's slippers, women's slippers, indoor slippers, outdoor slippers",1999,4.7,2
+1376,Wool Flip-Flops (Glerups),Home & Kitchen,Shoes,Sandals,"Wool flip-flops, flip-flops, men's flip-flops, women's flip-flops, indoor sandals, outdoor sandals",2499,4.7,2
+1377,Felt Flip-Flops (Earth Runners),Home & Kitchen,Shoes,Sandals,"Felt flip-flops, flip-flops, men's flip-flops, women's flip-flops, indoor sandals, outdoor sandals",2999,4.8,2
+1378,Cork Flip-Flops (Birkenstock),Home & Kitchen,Shoes,Sandals,"Cork flip-flops, flip-flops, men's flip-flops, women's flip-flops, indoor sandals, outdoor sandals",1999,4.6,2
+1379,Recycled Plastic Flip-Flops (Rothy's),Home & Kitchen,Shoes,Sandals,"Recycled plastic flip-flops, flip-flops, men's flip-flops, women's flip-flops, indoor sandals, outdoor sandals",1499,4.5,2
+1380,Recycled Tire Flip-Flops (Grounds),Home & Kitchen,Shoes,Sandals,"Recycled tire flip-flops, flip-flops, men's flip-flops, women's flip-flops, indoor sandals, outdoor sandals",1999,4.7,2
+1381,Bamboo cutting board,Kitchen,Cutting board,"bamboo cutting board, wood cutting board","board, bamboo, wood, cutting",249,4.9,0
+1382,Wooden cutting board,Kitchen,Cutting board,"wooden cutting board, wood cutting board","board, wooden, wood, cutting",415,4.9,0
+1383,End-grain cutting board,Kitchen,Cutting board,"end-grain cutting board, wood cutting board","board, end-grain, wood, cutting",830,4.9,0
+1384,Glass cutting board,Kitchen,Cutting board,glass cutting board,"board, glass, cutting",332,4.9,0
+1385,Plastic cutting board,Kitchen,Cutting board,plastic cutting board,"board, plastic, cutting",83,4.9,1
+1386,Silicone cutting board,Kitchen,Cutting board,silicone cutting board,"board, silicone, cutting",166,4.9,1
+1387,Compostable cutting board,Kitchen,Cutting board,compostable cutting board,"board, compostable, cutting",249,4.9,2
+1388,Reused cutting board,Kitchen,Cutting board,reused cutting board,"board, reused, cutting",299,4.9,2
+1389,DIY cutting board,Kitchen,Cutting board,DIY cutting board,"board, DIY, cutting",180,4.9,2
+1390,Reused plastic cutting board,Kitchen,Cutting board,"reused cutting board, plastic cutting board","board, reused, plastic, cutting",199,4.9,1
+1391,Reused wooden cutting board,Kitchen,Cutting board,"reused cutting board, wooden cutting board","board, reused, wooden, cutting",250,4.9,2
+1392,Reused end-grain cutting board,Kitchen,Cutting board,"reused cutting board, end-grain cutting board","board, reused, end-grain, cutting",295,4.9,2
+1393,Reused glass cutting board,Kitchen,Cutting board,"reused cutting board, glass cutting board","board, reused, glass, cutting",239,4.9,2
+1394,Compostable paper cutting board,Kitchen,Cutting board,"compostable cutting board, paper cutting board","board, compostable, paper, cutting",83,4.9,2
+1395,Compostable bamboo cutting board,Kitchen,Cutting board,"compostable cutting board, bamboo cutting board","board, compostable, bamboo, cutting",249,4.9,2
+1396,Compostable coconut fiber cutting board,Kitchen,Cutting board,"compostable cutting board, coconut fiber cutting board","board, compostable, coconut fiber, cutting",290.5,4.9,2
+1397,DIY paper cutting board,Kitchen,Cutting board,"DIY cutting board, paper cutting board","board, DIY, paper, cutting",179,4.9,2
+1398,DIY bamboo cutting board,Kitchen,Cutting board,"DIY cutting board, bamboo cutting board","board, DIY, bamboo, cutting",199,4.9,2
+1399,DIY coconut fiber cutting board,Kitchen,Cutting board,"DIY cutting board, coconut fiber cutting board","board, DIY, coconut fiber, cutting",279,4.9,2
+1400,Reused metal cutting board,Kitchen,Cutting board,"reused cutting board, metal cutting board","board, reused, metal, cutting",349,4.9,2
+1401,Lego Star Wars Millennium Falcon (LEGO),Toys & Games,Construction Toys,Building Blocks,"LEGO, Star Wars, Millennium Falcon, building blocks, construction toys",19999,4.8,1
+1402,Barbie Dreamhouse (Mattel),Toys & Games,Dolls & Accessories,Dolls,"Barbie, Dreamhouse, dolls, dollhouse, accessories",9999,4.7,1
+1403,Hot Wheels Playset (Mattel),Toys & Games,Vehicles & Playsets,Playsets,"Hot Wheels, playset, vehicles, track, cars",4999,4.6,0
+1404,Play-Doh Fun Factory (Hasbro),Toys & Games,Arts & Crafts,Play-Doh,"Play-Doh, Fun Factory, arts & crafts, modeling clay",2999,4.5,2
+1405,Nerf Fortnite Blaster (Hasbro),Toys & Games,Outdoor Toys,Blasters,"Nerf, Fortnite, blaster, outdoor toys",1999,4.4,1
+1406,Monopoly Classic (Hasbro),Toys & Games,Board Games,Family Games,"Monopoly, classic, board game, family game",999,4.3,0
+1407,Uno Flip Card Game (Mattel),Toys & Games,Card Games,Family Games,"Uno Flip, card game, family game",499,4.2,2
+1408,Wooden Train Set (BRIO),Toys & Games,Educational Toys,Building Toys,"Wooden train set, train set, building blocks, educational toys",6999,4.1,2
+1409,Puzzle (Ravensburger),Toys & Games,Puzzles,Jigsaw Puzzles,"Puzzle, jigsaw puzzle, educational toys",999,4,1
+1410,Art Set (Crayola),Toys & Games,Arts & Crafts,Art Sets,"Art set, Crayola, arts & crafts",1999,4.9,2
+1411,Wooden Building Blocks (Grimm's),Toys & Games,Construction Toys,Building Blocks,"Wooden building blocks, building blocks, construction toys, educational toys",6999,4.8,2
+1412,Organic Cotton Stuffed Animals (Cuddle + Kind),Toys & Games,Dolls & Accessories,Stuffed Animals,"Organic cotton stuffed animals, stuffed animals, dolls, accessories",2999,4.7,2
+1413,Recycled Plastic Play Kitchen (Green Toys),Toys & Games,Vehicles & Playsets,Play Kitchens,"Recycled plastic play kitchen, play kitchen, vehicles & playsets",4999,4.6,2
+1414,Bamboo Musical Instruments (PlanToys),Toys & Games,Arts & Crafts,Musical Instruments,"Bamboo musical instruments, musical instruments, arts & crafts",2999,4.5,2
+1415,Fair Trade Wooden Toys (Hape),Toys & Games,Educational Toys,Activity Toys,"Fair trade wooden toys, wooden toys, educational toys, activity toys",6999,4.4,2
+1416,Open-Ended Toys (Magformers),Toys & Games,Construction Toys,Magnetic Toys,"Open-ended toys, magnetic toys, construction toys, educational toys",9999,4.3,2
+1417,Montessori Toys (Lovevery),Toys & Games,Educational Toys,Baby Toys,"Montessori toys, baby toys, educational toys",999,4.2,2
+1418,STEM Toys (LEGO Education),Toys & Games,Educational Toys,STEM Toys,"STEM toys, LEGO Education, educational toys",19999,4.1,2
+1419,Art Supplies (Crayola),Toys & Games,Arts & Crafts,Art Supplies,"Art supplies, Crayola, arts & crafts",1999,4.9,2
+1420,Outdoor Toys (Little Tikes),Toys & Games,Outdoor Toys,Outdoor Toys,"Outdoor toys, Little Tikes, vehicles & playsets",4999,4.8,1
+1421,Bamboo knife,Kitchen,Knife,"bamboo knife, wooden knife","knife, bamboo, wood, kitchen",249,4.9,0
+1422,Wooden knife,Kitchen,Knife,"wooden knife, wood knife","knife, wooden, wood, kitchen",415,4.9,0
+1423,Stainless steel knife,Kitchen,Knife,"stainless steel knife, metal knife","knife, stainless steel, metal, kitchen",830,4.9,0
+1424,Ceramic knife,Kitchen,Knife,ceramic knife,"knife, ceramic, kitchen",1245,4.9,0
+1425,Plastic knife,Kitchen,Knife,plastic knife,"knife, plastic, kitchen",83,4.9,1
+1426,Compostable knife,Kitchen,Knife,compostable knife,"knife, compostable, kitchen",166,4.9,2
+1427,Reused knife,Kitchen,Knife,reused knife,"knife, reused, kitchen",149,4.9,2
+1428,DIY knife,Kitchen,Knife,DIY knife,"knife, DIY, kitchen",139,4.9,2
+1429,Reused plastic knife,Kitchen,Knife,"reused knife, plastic knife","knife, reused, plastic, kitchen",99,4.9,1
+1430,Reused bamboo knife,Kitchen,Knife,"reused knife, bamboo knife","knife, reused, bamboo, kitchen",129,4.9,2
+1431,Reused wooden knife,Kitchen,Knife,"reused knife, wooden knife","knife, reused, wooden, kitchen",159,4.9,2
+1432,Reused stainless steel knife,Kitchen,Knife,"reused knife, stainless steel knife","knife, reused, stainless steel, kitchen",299,4.9,2
+1433,Reused ceramic knife,Kitchen,Knife,"reused knife, ceramic knife","knife, reused, ceramic, kitchen",349,4.9,2
+1434,Compostable paper knife,Kitchen,Knife,"compostable knife, paper knife","knife, compostable, paper, kitchen",83,4.9,2
+1435,Compostable bamboo knife,Kitchen,Knife,"compostable knife, bamboo knife","knife, compostable, bamboo, kitchen",166,4.9,2
+1436,Compostable coconut fiber knife,Kitchen,Knife,"compostable knife, coconut fiber knife","knife, compostable, coconut fiber, kitchen",207.5,4.9,2
+1437,DIY paper knife,Kitchen,Knife,"DIY knife, paper knife","knife, DIY, paper, kitchen",199,4.9,2
+1438,DIY bamboo knife,Kitchen,Knife,"DIY knife, bamboo knife","knife, DIY, bamboo, kitchen",100,4.9,2
+1439,DIY coconut fiber knife,Kitchen,Knife,"DIY knife, coconut fiber knife","knife, DIY, coconut fiber, kitchen",200,4.9,2
+1440,Reused metal knife,Kitchen,Knife,"reused knife, metal knife","knife, reused, metal, kitchen",499,4.9,2
+1441,Rechargeable lithium-ion battery,Electronics,Battery,"rechargeable lithium-ion battery, lithium-ion battery, rechargeable battery","battery, rechargeable, lithium-ion",830,4.9,0
+1442,Rechargeable nickel-metal hydride battery,Electronics,Battery,"rechargeable nickel-metal hydride battery, nickel-metal hydride battery, rechargeable battery","battery, rechargeable, nickel-metal hydride",415,4.9,0
+1443,Rechargeable alkaline battery,Electronics,Battery,"rechargeable alkaline battery, alkaline battery, rechargeable battery","battery, rechargeable, alkaline",249,4.9,0
+1444,Solar battery,Electronics,Battery,"solar battery, solar-powered battery","battery, solar, solar-powered",1245,4.9,1
+1445,Wind-up battery,Electronics,Battery,"wind-up battery, mechanical battery","battery, wind-up, mechanical",415,4.9,1
+1446,Single-use lithium battery,Electronics,Battery,"single-use lithium battery, lithium battery, battery","battery, single-use, lithium",83,4.9,1
+1447,Single-use alkaline battery,Electronics,Battery,"single-use alkaline battery, alkaline battery","battery, single-use, alkaline",41.5,4.9,1
+1448,Compostable battery,Electronics,Battery,compostable battery,"battery, compostable",166,4.9,2
+1449,Reused battery,Electronics,Battery,reused battery,"battery, reused",100,4.9,2
+1450,DIY battery,Electronics,Battery,DIY battery,"battery, DIY",199,4.9,2
+1451,Reused single-use lithium battery,Electronics,Battery,"reused single-use lithium battery, single-use lithium battery, reused battery","battery, reused, single-use, lithium",40,4.9,2
+1452,Reused single-use alkaline battery,Electronics,Battery,"reused single-use alkaline battery, single-use alkaline battery, reused battery","battery, reused, single-use, alkaline",80,4.9,2
+1453,Compostable lithium battery,Electronics,Battery,"compostable lithium battery, lithium battery, compostable battery","battery, compostable, lithium",249,4.9,2
+1454,Compostable alkaline battery,Electronics,Battery,"compostable alkaline battery, alkaline battery, compostable battery","battery, compostable, alkaline",207.5,4.9,2
+1455,DIY lithium battery,Electronics,Battery,"DIY lithium battery, lithium battery","battery, DIY, lithium",90,4.9,2
+1456,DIY alkaline battery,Electronics,Battery,"DIY alkaline battery, alkaline battery","battery, DIY, alkaline",120,4.9,2
+1457,Pedal-powered battery charger,Electronics,Battery accessory,pedal-powered battery charger,"battery charger, pedal-powered",1245,4.9,1
+1458,Solar battery charger,Electronics,Battery accessory,solar battery charger,"battery charger, solar",830,4.9,1
+1459,Wind-up battery charger,Electronics,Battery accessory,wind-up battery charger,"battery charger, wind-up",415,4.9,1
+1460,Manual battery charger,Electronics,Battery accessory,manual battery charger,"battery charger, manual",249,4.9,1
+1461,Biodegradable Garbage Bags (Ecoware),Garbage Bags,Biodegradable,"Eco-friendly, Compostable","Compostable garbage bags, Biodegradable garbage bags, Ecoware garbage bags",200,4.5,2
+1462,Heavy-Duty Garbage Bags (Trex),Garbage Bags,Heavy-Duty,"Trash bags, Garbage bags, Heavy-duty garbage bags","Trex garbage bags, Heavy-duty trash bags",150,4,0
+1463,Scented Garbage Bags (Glad),Garbage Bags,Scented,"Trash bags, Garbage bags, Scented garbage bags","Glad garbage bags, Scented trash bags",100,3.5,0
+1464,Drawstring Garbage Bags (Simplehuman),Garbage Bags,Drawstring,"Trash bags, Garbage bags, Drawstring garbage bags","Simplehuman garbage bags, Drawstring trash bags",250,4.8,1
+1465,Compostable Garbage Bags (BioBag),Garbage Bags,Compostable,"Eco-friendly, Compostable","Compostable garbage bags, Biodegradable garbage bags, BioBag garbage bags",300,4.9,2
+1466,Recycled Garbage Bags (Seventh Generation),Garbage Bags,Recycled,"Eco-friendly, Recycled","Recycled garbage bags, Seventh Generation garbage bags",200,4.7,1
+1467,Trash Compactor Bags (Glad),Garbage Bags,Trash Compactor,"Trash bags, Garbage bags, Trash compactor bags","Glad trash bags, Trash compactor bags",250,4.3,0
+1468,Pet Waste Bags (Earth Rated),Garbage Bags,Pet Waste,"Pet waste bags, Dog waste bags, Cat waste bags","Earth Rated pet waste bags, Dog waste bags, Cat waste bags",150,4.6,2
+1469,Liners for Kitchen Compost Bins (Full Circle),Garbage Bags,Compostable,"Eco-friendly, Compostable","Compostable kitchen compost bin liners, Full Circle kitchen compost bin liners",200,4.8,2
+1470,Yard Waste Bags (Scotts),Garbage Bags,Yard Waste,"Yard waste bags, Lawn and garden bags",Scotts yard waste bags,100,4.1,0
+1471,Odor-Blocking Garbage Bags (Glad),Garbage Bags,Odor-Blocking,"Trash bags, Garbage bags, Odor-blocking garbage bags","Glad garbage bags, Odor-blocking trash bags",150,4.2,0
+1472,Leak-Proof Garbage Bags (Heavy Duty),Garbage Bags,Leak-Proof,"Trash bags, Garbage bags, Leak-proof garbage bags","Heavy-duty garbage bags, Leak-proof trash bags",200,4.4,0
+1473,Unscented Garbage Bags (Simplehuman),Garbage Bags,Unscented,"Trash bags, Garbage bags, Unscented garbage bags","Simplehuman garbage bags, Unscented trash bags",250,4.7,1
+1474,Drawstring Kitchen Trash Bags (Reynolds),Garbage Bags,Drawstring,"Trash bags, Garbage bags, Drawstring kitchen trash bags","Reynolds garbage bags, Drawstring kitchen trash bags",100,4.3,0
+1475,Compostable Food Waste Bags (If You Care),Garbage Bags,Compostable,"Eco-friendly, Compostable","Compostable food waste bags, If You Care food waste bags",200,4.8,2
+1476,Recycled Pet Waste Bags (Earth Rated),Garbage Bags,Pet Waste,"Pet waste bags, Dog waste bags, Cat waste bags","Earth Rated pet waste bags, Recycled pet waste bags, Dog waste bags, Cat waste bags",150,4.6,2
+1477,Liners for Bathroom Waste Bins (Full Circle),Garbage Bags,Compostable,"Eco-friendly, Compostable","Compostable bathroom waste bin liners, Full Circle bathroom waste bin liners",200,4.8,2
+1478,Yard Waste Bags (BioBag),Garbage Bags,Yard Waste,"Yard waste bags, Lawn and garden bags",BioBag yard waste bags,100,4.1,2
+1479,Heavy-Duty Trash Can Liners (Uline),Garbage Bags,Heavy-Duty,"Trash bags, Garbage bags, Heavy-duty trash can liners","Uline trash bags, Heavy-duty trash can liners",250,4.4,0
+1480,Clear Garbage Bags (Reliance Products),Garbage Bags,Clear,"Trash bags, Garbage bags, Clear garbage bags","Reliance Products garbage bags, Clear trash bags",100,4.2,0
+1481,LED light bulb,Lighting,Light bulb,LED light bulb,"light bulb, LED, energy efficient",249,4.9,0
+1482,Compact fluorescent light bulb (CFL),Lighting,Light bulb,"CFL light bulb, compact fluorescent light bulb","light bulb, CFL, energy efficient",166,4.9,1
+1483,Incandescent light bulb,Lighting,Light bulb,incandescent light bulb,"light bulb, incandescent, non-energy efficient",83,4.9,1
+1484,Halogen light bulb,Lighting,Light bulb,halogen light bulb,"light bulb, halogen, non-energy efficient",166,4.9,1
+1485,Solar light bulb,Lighting,Light bulb,"solar light bulb, solar-powered light bulb","light bulb, solar, solar-powered",415,4.9,1
+1486,LED candle bulb,Lighting,Light bulb,"LED candle bulb, LED candle light bulb","light bulb, LED, candle, decorative",332,4.9,0
+1487,LED filament bulb,Lighting,Light bulb,"LED filament bulb, LED filament light bulb","light bulb, LED, filament, vintage",415,4.9,0
+1488,LED plant bulb,Lighting,Light bulb,"LED plant bulb, LED grow light bulb","light bulb, LED, plant, grow light",415,4.9,0
+1489,LED smart bulb,Lighting,Light bulb,"LED smart bulb, smart light bulb","light bulb, LED, smart, controllable",830,4.9,0
+1490,Reused light bulb,Lighting,Light bulb,reused light bulb,"light bulb, reused",90,4.9,2
+1491,DIY light bulb,Lighting,Light bulb,DIY light bulb,"light bulb, DIY",200,4.9,2
+1492,Compostable light bulb,Lighting,Light bulb,compostable light bulb,"light bulb, compostable",249,4.9,2
+1493,Reused LED light bulb,Lighting,Light bulb,"reused LED light bulb, LED light bulb","light bulb, reused, LED",500,4.9,2
+1494,Reused CFL light bulb,Lighting,Light bulb,"reused CFL light bulb, CFL light bulb","light bulb, reused, CFL",600,4.9,2
+1495,DIY LED light bulb,Lighting,Light bulb,"DIY LED light bulb, LED light bulb","light bulb, DIY, LED",700,4.9,2
+1496,DIY CFL light bulb,Lighting,Light bulb,"DIY CFL light bulb, CFL light bulb","light bulb, DIY, CFL",400,4.9,2
+1497,Motion sensor light bulb,Lighting,Light bulb,"motion sensor light bulb, light bulb with motion sensor","light bulb, motion sensor",415,4.9,0
+1498,Dimmer light bulb,Lighting,Light bulb,"dimmer light bulb, light bulb with dimmer","light bulb, dimmer",415,4.9,0
+1499,RGB light bulb,Lighting,Light bulb,"RGB light bulb, color changing light bulb","light bulb, RGB, color changing",830,4.9,0
+1500,LED strip lights,Lighting,Light bulb,"LED strip lights, LED lights","light bulb, LED, strip",1245,4.9,0
+1501,Purina Pro Plan Adult Large Breed Chicken & Rice Formula (Purina),Dog Food,Adult,"Chicken, Rice","Large breed dog food, Adult dog food, Chicken dog food, Rice dog food",1000,4.5,0
+1502,Royal Canin Golden Retriever Adult Dog Food (Royal Canin),Dog Food,Adult,Golden Retriever,"Golden Retriever dog food, Adult dog food",1200,4.7,0
+1503,Hill's Science Diet Adult Advanced Fitness Chicken & Brown Rice Recipe Dog Food (Hill's),Dog Food,Adult,"Chicken, Brown Rice","Adult dog food, Chicken dog food, Brown rice dog food",1500,4.8,0
+1504,Eukanuba Adult Maintenance Chicken Recipe Dry Dog Food (Eukanuba),Dog Food,Adult,Chicken,"Adult dog food, Chicken dog food",800,4.4,2
+1505,Iams ProActive Health Adult Original Dry Dog Food (Iams),Dog Food,Adult,Original,"Adult dog food, Original dog food",700,4.3,2
+1506,Blue Buffalo Wilderness Rocky Mountain Recipe High Protein Grain Free Dry Dog Food (Blue Buffalo),Dog Food,Adult,Grain-Free,"Grain-free dog food, High-protein dog food",1300,4.6,1
+1507,Acana Adult Chicken & Brown Rice Recipe Dry Dog Food (Acana),Dog Food,Adult,"Chicken, Brown Rice","Adult dog food, Chicken dog food, Brown rice dog food",1400,4.7,2
+1508,Orijen Original Dry Dog Food (Orijen),Dog Food,Adult,High-Protein,High-protein dog food,1600,4.8,1
+1509,Fromm Family Gold Adult Large Breed Chicken A La Veg Recipe Dry Dog Food (Fromm),Dog Food,Adult,Large Breed,"Large breed dog food, Adult dog food, Chicken dog food",1100,4.5,2
+1510,Taste of the Wild High Prairie Grain-Free Dry Dog Food (Taste of the Wild),Dog Food,Adult,Grain-Free,"Grain-free dog food, High-protein dog food",1200,4.6,1
+1511,Royal Canin Labrador Retriever Adult Dog Food (Royal Canin),Dog Food,Adult,Labrador Retriever,"Labrador Retriever dog food, Adult dog food",1200,4.7,1
+1512,Hill's Science Diet Adult Small Breed Chicken & Barley Recipe Dog Food (Hill's),Dog Food,Adult,Small Breed,"Adult dog food, Small breed dog food, Chicken dog food, Barley dog food",1500,4.8,1
+1513,Eukanuba Adult Maintenance Large Breed Chicken Recipe Dry Dog Food (Eukanuba),Dog Food,Adult,Large Breed,"Large breed dog food, Adult dog food, Chicken dog food",800,4.4,2
+1514,Iams ProActive Health Adult Sensitive Skin & Stomach Salmon & Brown Rice Recipe Dry Dog Food (Iams),Dog Food,Adult,Sensitive Skin & Stomach,"Adult dog food, Sensitive skin dog food, Sensitive stomach dog food, Salmon dog food, Brown rice dog food",700,4.3,1
+1515,Blue Buffalo Wilderness Rocky Mountain Recipe High Protein Grain Free Dry Dog Food for Puppies (Blue Buffalo),Dog Food,Puppy,Grain-Free,"Grain-free dog food, High-protein dog food, Puppy food",1300,4.6,2
+1516,Acana Puppy Chicken & Brown Rice Recipe Dry Dog Food (Acana),Dog Food,Puppy,"Chicken, Brown Rice","Puppy food, Chicken dog food, Brown rice dog food",1400,4.7,1
+1517,Orijen Puppy Large Breed Dry Dog Food (Orijen),Dog Food,Puppy,Large Breed,"Puppy food, Large breed dog food",1600,4.8,1
+1518,Fromm Family Gold Puppy Gold Large Breed Chicken A La Veg Recipe Dry Dog Food (Fromm),Dog Food,Puppy,Large Breed,"Puppy food, Large breed dog food, Chicken dog food",1100,4.5,2
+1519,Taste of the Wild Pacific Stream Grain-Free Dry Dog Food for Puppies (Taste of the Wild),Dog Food,Puppy,Grain-Free,"Grain-free dog food, High-protein dog food, Puppy food",1200,4.6,1
+1520,Wellness Complete Health Puppy Chicken & Brown Rice Recipe Dry Dog Food (Wellness),Dog Food,Puppy,"Chicken, Brown Rice","Puppy food, Chicken dog food, Brown rice dog food",1000,4.5,2
+1521,Bamboo spoon,Kitchen,Spoon,bamboo spoon,"spoon, bamboo, wooden",249,4.9,0
+1522,Wooden spoon,Kitchen,Spoon,wooden spoon,"spoon, wooden",166,4.9,0
+1523,Stainless steel spoon,Kitchen,Spoon,stainless steel spoon,"spoon, stainless steel, metal",83,4.9,0
+1524,Ceramic spoon,Kitchen,Spoon,ceramic spoon,"spoon, ceramic",166,4.9,0
+1525,Plastic spoon,Kitchen,Spoon,plastic spoon,"spoon, plastic",41.5,4.9,1
+1526,Compostable spoon,Kitchen,Spoon,compostable spoon,"spoon, compostable",83,4.9,2
+1527,Reused spoon,Kitchen,Spoon,reused spoon,"spoon, reused",20,4.9,2
+1528,DIY spoon,Kitchen,Spoon,DIY spoon,"spoon, DIY",30,4.9,2
+1529,Compostable paper spoon,Kitchen,Spoon,"compostable paper spoon, paper spoon","spoon, compostable, paper",83,4.9,2
+1530,Compostable coconut fiber spoon,Kitchen,Spoon,"compostable coconut fiber spoon, coconut fiber spoon","spoon, compostable, coconut fiber",207.5,4.9,2
+1531,Reused plastic spoon,Kitchen,Spoon,"reused plastic spoon, plastic spoon","spoon, reused, plastic",50,4.9,2
+1532,Reused bamboo spoon,Kitchen,Spoon,"reused bamboo spoon, bamboo spoon","spoon, reused, bamboo",40,4.9,2
+1533,Reused wooden spoon,Kitchen,Spoon,"reused wooden spoon, wooden spoon","spoon, reused, wooden",20,4.9,2
+1534,Reused stainless steel spoon,Kitchen,Spoon,"reused stainless steel spoon, stainless steel spoon","spoon, reused, stainless steel",100,4.9,2
+1535,Reused ceramic spoon,Kitchen,Spoon,"reused ceramic spoon, ceramic spoon","spoon, reused, ceramic",99,4.9,2
+1536,DIY paper spoon,Kitchen,Spoon,"DIY paper spoon, paper spoon","spoon, DIY, paper",80,4.9,2
+1537,DIY bamboo spoon,Kitchen,Spoon,"DIY bamboo spoon, bamboo spoon","spoon, DIY, bamboo",90,4.9,2
+1538,DIY coconut fiber spoon,Kitchen,Spoon,"DIY coconut fiber spoon, coconut fiber spoon","spoon, DIY, coconut fiber",10,4.9,2
+1539,DIY wooden spoon,Kitchen,Spoon,"DIY wooden spoon, wooden spoon","spoon, DIY, wooden",55,4.9,2
+1540,DIY stainless steel spoon,Kitchen,Spoon,"DIY stainless steel spoon, stainless steel spoon","spoon, DIY, stainless steel",40,4.9,2
+1541,Bamboo fork,Kitchen,Fork,bamboo fork,"fork, bamboo, wooden",249,4.9,0
+1542,Wooden fork,Kitchen,Fork,wooden fork,"fork, wooden",166,4.9,0
+1543,Stainless steel fork,Kitchen,Fork,stainless steel fork,"fork, stainless steel, metal",83,4.9,0
+1544,Ceramic fork,Kitchen,Fork,ceramic fork,"fork, ceramic",166,4.9,0
+1545,Plastic fork,Kitchen,Fork,plastic fork,"fork, plastic",41.5,4.9,1
+1546,Compostable fork,Kitchen,Fork,compostable fork,"fork, compostable",83,4.9,2
+1547,Reused fork,Kitchen,Fork,reused fork,"fork, reused",40,4.9,2
+1548,DIY fork,Kitchen,Fork,DIY fork,"fork, DIY",50,4.9,2
+1549,Compostable paper fork,Kitchen,Fork,"compostable paper fork, paper fork","fork, compostable, paper",83,4.9,2
+1550,Compostable coconut fiber fork,Kitchen,Fork,"compostable coconut fiber fork, coconut fiber fork","fork, compostable, coconut fiber",207.5,4.9,2
+1551,Reused plastic fork,Kitchen,Fork,"reused plastic fork, plastic fork","fork, reused, plastic",30,4.9,2
+1552,Reused bamboo fork,Kitchen,Fork,"reused bamboo fork, bamboo fork","fork, reused, bamboo",20,4.9,2
+1553,Reused wooden fork,Kitchen,Fork,"reused wooden fork, wooden fork","fork, reused, wooden",80,4.9,2
+1554,Reused stainless steel fork,Kitchen,Fork,"reused stainless steel fork, stainless steel fork","fork, reused, stainless steel",70,4.9,2
+1555,Reused ceramic fork,Kitchen,Fork,"reused ceramic fork, ceramic fork","fork, reused, ceramic",60,4.9,2
+1556,DIY paper fork,Kitchen,Fork,"DIY paper fork, paper fork","fork, DIY, paper",20,4.9,2
+1557,DIY bamboo fork,Kitchen,Fork,"DIY bamboo fork, bamboo fork","fork, DIY, bamboo",70,4.9,2
+1558,DIY coconut fiber fork,Kitchen,Fork,"DIY coconut fiber fork, coconut fiber fork","fork, DIY, coconut fiber",80,4.9,2
+1559,DIY wooden fork,Kitchen,Fork,"DIY wooden fork, wooden fork","fork, DIY, wooden",90,4.9,2
+1560,DIY stainless steel fork,Kitchen,Fork,"DIY stainless steel fork, stainless steel fork","fork, DIY, stainless steel",100,4.9,2
+1561,Enameled cast iron pan,Kitchen,Pan,"enameled cast iron pan, cast iron pan","pan, cast iron, enameled",4150,4.9,0
+1562,Stainless steel pan,Kitchen,Pan,stainless steel pan,"pan, stainless steel",2490,4.9,0
+1563,Ceramic pan,Kitchen,Pan,ceramic pan,"pan, ceramic",1660,4.9,0
+1564,Aluminum pan,Kitchen,Pan,aluminum pan,"pan, aluminum",1500,4.9,1
+1565,Non-stick pan,Kitchen,Pan,non-stick pan,"pan, non-stick",1245,4.9,1
+1566,Compostable pan,Kitchen,Pan,compostable pan,"pan, compostable",2075,4.9,2
+1567,Reused pan,Kitchen,Pan,reused pan,"pan, reused",999,4.9,2
+1568,DIY pan,Kitchen,Pan,DIY pan,"pan, DIY",849,4.9,2
+1569,Compostable paper pan,Kitchen,Pan,"compostable paper pan, paper pan","pan, compostable, paper",800,4.9,2
+1570,Compostable coconut fiber pan,Kitchen,Pan,"compostable coconut fiber pan, coconut fiber pan","pan, compostable, coconut fiber",2490,4.9,2
+1571,Reused aluminum pan,Kitchen,Pan,"reused aluminum pan, aluminum pan","pan, reused, aluminum",1100,4.9,2
+1572,Reused stainless steel pan,Kitchen,Pan,"reused stainless steel pan, stainless steel pan","pan, reused, stainless steel",1500,4.9,2
+1573,Reused ceramic pan,Kitchen,Pan,"reused ceramic pan, ceramic pan","pan, reused, ceramic",1000,4.9,2
+1574,DIY paper pan,Kitchen,Pan,"DIY paper pan, paper pan","pan, DIY, paper",800,4.9,2
+1575,DIY coconut fiber pan,Kitchen,Pan,"DIY coconut fiber pan, coconut fiber pan","pan, DIY, coconut fiber",1490,4.9,2
+1576,DIY aluminum pan,Kitchen,Pan,"DIY aluminum pan, aluminum pan","pan, DIY, aluminum",999,4.9,2
+1577,DIY stainless steel pan,Kitchen,Pan,"DIY stainless steel pan, stainless steel pan","pan, DIY, stainless steel",1000,4.9,2
+1578,DIY ceramic pan,Kitchen,Pan,"DIY ceramic pan, ceramic pan","pan, DIY, ceramic",929,4.9,2
+1579,DIY paper pan,Kitchen,Pan,"DIY paper pan, paper pan","pan, DIY, paper",670,4.9,2
+1580,DIY coconut fiber pan,Kitchen,Pan,"DIY coconut fiber pan, coconut fiber pan","pan, DIY, coconut fiber",1799,4.9,2
+1581,Bamboo Keychain (Ecoware),Keychains,Eco-friendly,"Bamboo, Sustainable","Bamboo keychain, Eco-friendly keychain, Sustainable keychain",200,4.5,2
+1582,Recycled Metal Keychain (Trex),Keychains,Recycled,"Metal, Eco-friendly","Recycled metal keychain, Eco-friendly keychain",150,4,1
+1583,Cork Keychain (Corkzilla),Keychains,Eco-friendly,"Cork, Natural","Cork keychain, Eco-friendly keychain, Natural keychain",100,3.5,2
+1584,Silicone Keychain (Earth Rated),Keychains,Eco-friendly,"Silicone, Food-grade","Silicone keychain, Eco-friendly keychain, Food-grade keychain",250,4.8,2
+1585,Hemp Keychain (Ecowair),Keychains,Eco-friendly,"Hemp, Sustainable","Hemp keychain, Eco-friendly keychain, Sustainable keychain",300,4.7,2
+1586,Upcycled Keychain (Freecycle),Keychains,Recycled,"Unique, Upcycled","Upcycled keychain, Recycled keychain, Unique keychain",200,4.4,1
+1587,Wooden Keychain (Woodchuck),Keychains,Eco-friendly,"Wood, Sustainable","Wooden keychain, Eco-friendly keychain, Sustainable keychain",150,4.3,2
+1588,Biodegradable Keychain (GreenPax),Keychains,Eco-friendly,"Biodegradable, Compostable","Biodegradable keychain, Eco-friendly keychain, Compostable keychain",250,4.8,2
+1589,Recycled Plastic Keychain (Repreve),Keychains,Recycled,"Plastic, Eco-friendly","Recycled plastic keychain, Eco-friendly keychain",100,4.1,1
+1590,Fair Trade Keychain (Serrv International),Keychains,Fair Trade,"Handmade, Artisanal","Fair trade keychain, Handmade keychain, Artisanal keychain",200,4.6,2
+1591,Seagrass Keychain (Ecoware),Keychains,Eco-friendly,"Seagrass, Natural","Seagrass keychain, Eco-friendly keychain, Natural keychain",200,4.5,2
+1592,Recycled Glass Keychain (Trex),Keychains,Recycled,"Glass, Eco-friendly","Recycled glass keychain, Eco-friendly keychain",150,4,1
+1593,Organic Cotton Keychain (Corkzilla),Keychains,Eco-friendly,"Organic cotton, Natural","Organic cotton keychain, Eco-friendly keychain, Natural keychain",100,3.5,2
+1594,Recycled Paper Keychain (Earth Rated),Keychains,Recycled,"Paper, Eco-friendly","Recycled paper keychain, Eco-friendly keychain",250,4.8,2
+1595,Bamboo Fiber Keychain (Ecowair),Keychains,Eco-friendly,"Bamboo fiber, Sustainable","Bamboo fiber keychain, Eco-friendly keychain, Sustainable keychain",300,4.7,2
+1596,Upcycled Metal Keychain (Freecycle),Keychains,Recycled,"Unique, Upcycled","Upcycled metal keychain, Recycled keychain, Unique keychain",200,4.4,1
+1597,Wooden Keychain with Laser Engraving (Woodchuck),Keychains,Eco-friendly,"Wood, Sustainable, Engraved","Wooden keychain, Eco-friendly keychain, Engraved keychain",150,4.3,2
+1598,Biodegradable Keychain with Compostable Packaging (GreenPax),Keychains,Eco-friendly,"Biodegradable, Compostable","Biodegradable keychain, Eco-friendly keychain, Compostable keychain, Compostable packaging",250,4.8,2
+1599,Recycled Plastic Keychain with Sustainable Packaging (Repreve),Keychains,Recycled,"Plastic, Eco-friendly","Recycled plastic keychain, Eco-friendly keychain, Sustainable packaging",100,4.1,1
+1600,Fair Trade Keychain with Organic Packaging (Serrv International),Keychains,Fair Trade,"Handmade, Artisanal","Fair trade keychain, Handmade keychain, Artisanal keychain, Organic packaging",200,4.6,1
+1601,MOSISO Eco-Friendly Laptop Case (MOSISO),Laptop Cases,Eco-Friendly,"Sleeve, Case, Cover, Bag, Protection, Eco-Friendly","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Recycled laptop case",500,4.5,2
+1602,Amazon Basics Recycled Laptop Case (Amazon Basics),Laptop Cases,Eco-Friendly,"Sleeve, Case, Cover, Bag, Protection, Recycled","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Recycled laptop case",300,4,1
+1603,Thule Gauntlet 3.0 Eco-Friendly Laptop Case (Thule),Laptop Cases,"Eco-Friendly, Protective","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Shockproof, Water-resistant","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Recycled laptop case, Shockproof laptop case, Water-resistant laptop case",1000,4.8,2
+1604,Incase Designs Eco-Friendly Laptop Sleeve (Incase),Laptop Cases,"Eco-Friendly, Stylish","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Stylish","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Recycled laptop case, Stylish laptop sleeve",700,4.7,2
+1605,Tomtoc Eco-Friendly Laptop Sleeve (Tomtoc),Laptop Cases,"Eco-Friendly, Slim","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Slim","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Recycled laptop case, Slim laptop sleeve",600,4.6,2
+1606,Waterfield Designs Eco-Friendly SleeveCase (Waterfield Designs),Laptop Cases,"Eco-Friendly, Premium","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Premium","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Recycled laptop case, Premium laptop sleeve",1200,4.9,2
+1607,Knomo London Eco-Friendly Laptop Sleeve (Knomo London),Laptop Cases,"Eco-Friendly, Professional","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Professional","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Recycled laptop case, Professional laptop sleeve",1500,4.8,2
+1608,Timbuk2 Eco-Friendly Laptop Sleeve (Timbuk2),Laptop Cases,"Eco-Friendly, Active","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Active","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Recycled laptop case, Active laptop sleeve",800,4.7,2
+1609,Targus Eco-Friendly Laptop Sleeve (Targus),Laptop Cases,"Eco-Friendly, Durable","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Durable","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Recycled laptop case, Durable laptop sleeve",400,4.6,2
+1610,Sleeve by Twelve South Eco-Friendly Laptop Sleeve (Twelve South),Laptop Cases,"Eco-Friendly, Minimalist","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Minimalist","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Recycled laptop case, Minimalist laptop sleeve",900,4.9,2
+1611,Ecoware Bamboo Laptop Case (Ecoware),Laptop Cases,Eco-Friendly,"Sleeve, Case, Cover, Bag, Protection, Bamboo","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Bamboo laptop case",500,4.5,2
+1612,Trex Recycled Metal Laptop Case (Trex),Laptop Cases,"Eco-Friendly, Protective","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Recycled, Shockproof, Water-resistant","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Recycled laptop case, Shockproof laptop case, Water-resistant laptop case",1000,4.8,1
+1613,Corkzilla Cork Laptop Case (Corkzilla),Laptop Cases,"Eco-Friendly, Stylish","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Cork","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Cork laptop case, Stylish laptop sleeve",700,4.7,2
+1614,Earth Rated Silicone Laptop Case (Earth Rated),Laptop Cases,"Eco-Friendly, Slim","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Silicone, Slim","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Silicone laptop case, Slim laptop sleeve",600,4.6,2
+1615,Ecowair Hemp Laptop Case (Ecowair),Laptop Cases,"Eco-Friendly, Durable","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Hemp, Durable","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Hemp laptop case, Durable laptop sleeve",400,4.5,2
+1616,Freecycle Upcycled Metal Laptop Case (Freecycle),Laptop Cases,"Eco-Friendly, Unique","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Upcycled, Unique","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Upcycled laptop case, Unique laptop sleeve",500,4.4,1
+1617,Woodchuck Wooden Laptop Case (Woodchuck),Laptop Cases,"Eco-Friendly, Professional","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Wooden, Professional","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Wooden laptop case, Professional laptop sleeve",1000,4.8,2
+1618,GreenPax Biodegradable Laptop Case (GreenPax),Laptop Cases,"Eco-Friendly, Active","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Biodegradable, Compostable, Active","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Biodegradable laptop case, Compostable laptop case, Active laptop sleeve",800,4.7,2
+1619,Repreve Recycled Plastic Laptop Case (Repreve),Laptop Cases,"Eco-Friendly, Durable","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Recycled, Plastic, Durable","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Recycled laptop case, Plastic laptop case, Durable laptop sleeve",400,4.6,1
+1620,Serrv International Fair Trade Cotton Laptop Case (Serrv International),Laptop Cases,"Eco-Friendly, Stylish, Fair Trade","Sleeve, Case, Cover, Bag, Protection, Eco-Friendly, Cotton, Fair Trade","Laptop case, Eco-friendly laptop case, Sustainable laptop case, Cotton laptop case, Fair trade laptop sleeve, Stylish laptop sleeve",700,4.7,2
+1621,Organic cotton t-shirt,Clothing,Top,"organic cotton t-shirt, t-shirt, organic cotton, sustainable clothing","t-shirt, organic, sustainable",1400,4.9,0
+1622,Recycled polyester t-shirt,Clothing,Top,"recycled polyester t-shirt, t-shirt, recycled polyester, sustainable clothing","t-shirt, recycled, sustainable",1750,4.9,0
+1623,Linen t-shirt,Clothing,Top,"linen t-shirt, t-shirt, linen, sustainable clothing","t-shirt, linen, sustainable",2100,4.9,0
+1624,Hemp t-shirt,Clothing,Top,"hemp t-shirt, t-shirt, hemp, sustainable clothing","t-shirt, hemp, sustainable",2450,4.9,0
+1625,Tencel t-shirt,Clothing,Top,"tencel t-shirt, t-shirt, tencel, sustainable clothing","t-shirt, tencel, sustainable",2800,4.9,0
+1626,Vintage t-shirt,Clothing,Top,"vintage t-shirt, t-shirt, vintage, sustainable clothing","t-shirt, vintage, sustainable",700,4.9,2
+1627,Reused t-shirt,Clothing,Top,"reused t-shirt, t-shirt, reused, sustainable clothing","t-shirt, reused, sustainable",350,4.9,2
+1628,DIY t-shirt,Clothing,Top,"DIY t-shirt, t-shirt, DIY, sustainable clothing","t-shirt, DIY, sustainable",100,4.9,2
+1629,Organic cotton t-shirt (with a design),Clothing,Top,"organic cotton t-shirt, t-shirt, organic cotton, sustainable clothing, design","t-shirt, organic, sustainable, design",1750,4.9,0
+1630,Recycled polyester t-shirt (with a design),Clothing,Top,"recycled polyester t-shirt, t-shirt, recycled polyester, sustainable clothing, design","t-shirt, recycled, sustainable, design",2100,4.9,0
+1631,Linen t-shirt (with a design),Clothing,Top,"linen t-shirt, t-shirt, linen, sustainable clothing, design","t-shirt, linen, sustainable, design",2450,4.9,0
+1632,Hemp t-shirt (with a design),Clothing,Top,"hemp t-shirt, t-shirt, hemp, sustainable clothing, design","t-shirt, hemp, sustainable, design",2800,4.9,0
+1633,Tencel t-shirt (with a design),Clothing,Top,"tencel t-shirt, t-shirt, tencel, sustainable clothing, design","t-shirt, tencel, sustainable, design",3150,4.9,0
+1634,Vintage t-shirt (with a design),Clothing,Top,"vintage t-shirt, t-shirt, vintage, sustainable clothing, design","t-shirt, vintage, sustainable, design",1400,4.9,2
+1635,Reused t-shirt (with a design),Clothing,Top,"reused t-shirt, t-shirt, reused, sustainable clothing, design","t-shirt, reused, sustainable, design",700,4.9,2
+1636,DIY t-shirt (with a design),Clothing,Top,"DIY t-shirt, t-shirt, DIY, sustainable clothing, design","t-shirt, DIY, sustainable, design",50,4.9,2
+1637,Organic cotton t-shirt (with a pocket),Clothing,Top,"organic cotton t-shirt, t-shirt, organic cotton, sustainable clothing, pocket","t-shirt, organic, sustainable, pocket",1750,4.9,0
+1638,Recycled polyester t-shirt (with a pocket),Clothing,Top,"recycled polyester t-shirt, t-shirt, recycled polyester, sustainable clothing, pocket","t-shirt, recycled, sustainable, pocket",2100,4.9,0
+1639,Linen t-shirt (with a pocket),Clothing,Top,"linen t-shirt, t-shirt, linen, sustainable clothing, pocket","t-shirt, linen, sustainable, pocket",2450,4.9,0
+1640,Hemp t-shirt (with a pocket),Clothing,Top,"hemp t-shirt, t-shirt, hemp, sustainable clothing, pocket","t-shirt, hemp, sustainable, pocket",2800,4.9,0
+1641,Gold Plated Necklace (Shining Diva),Necklaces,Gold Plated,Women's Fashion Jewellery,"Necklace, Gold Plated, Shining Diva",500,4.5,0
+1642,Silver Plated Earrings (Yellow Chimes),Earrings,Silver Plated,Women's Fashion Jewellery,"Earrings, Silver Plated, Yellow Chimes",300,4.2,0
+1643,American Diamond Bracelet (Zaveri Pearls),Bracelets,American Diamond,Women's Fashion Jewellery,"Bracelet, American Diamond, Zaveri Pearls",700,4.7,1
+1644,Pearl Pendant Set (Jewellery Junction),Pendant Sets,Pearl,Women's Fashion Jewellery,"Pendant Set, Pearl, Jewellery Junction",1000,4.9,0
+1645,Kundan Ring (Shree Shyam Jewellers),Rings,Kundan,Women's Fashion Jewellery,"Ring, Kundan, Shree Shyam Jewellers",400,4.4,1
+1646,Oxidised Silver Anklet (Myntra),Anklets,Oxidised Silver,Women's Fashion Jewellery,"Anklet, Oxidised Silver, Myntra",200,4.1,0
+1647,Men's Silver Chain (Amazon),Chains,Silver,Men's Fashion Jewellery,"Chain, Silver, Men's Jewellery",600,4.6,0
+1648,Men's Black Leather Bracelet (Flipkart),Bracelets,Leather,Men's Fashion Jewellery,"Bracelet, Leather, Men's Jewellery",400,4.3,1
+1649,Kids' Hair Band (Kidzee),Hair Accessories,Kids' Jewellery,"Hair Band, Kids' Jewellery","
+Opens in a new window
+
+www.amazon.in
+
+Kids' Hair Band",150,4,0
+1650,Kids' Necklace (Peora),Necklaces,Kids' Jewellery,"Necklace, Kids' Jewellery","
+Opens in a new window
+
+www.flipkart.com
+
+Kids' Necklace",200,4.2,1
+1651,Gold Plated Jhumka Earrings (FabIndia),Earrings,Jhumka,Women's Fashion Jewellery,"Earrings, Jhumka, Gold Plated, FabIndia",600,4.7,1
+1652,Silver Oxidised Anklet (Ajio),Anklets,Oxidised Silver,Women's Fashion Jewellery,"Anklet, Oxidised Silver, Ajio",300,4.2,0
+1653,American Diamond Pendant Set (Voylla),Pendant Sets,American Diamond,Women's Fashion Jewellery,"Pendant Set, American Diamond, Voylla",1200,4.9,1
+1654,Pearl Bracelet (Melorra),Bracelets,Pearl,Women's Fashion Jewellery,"Bracelet, Pearl, Melorra",800,4.8,0
+1655,Kundan Ring (Zaveri Pearls),Rings,Kundan,Women's Fashion Jewellery,"Ring, Kundan, Zaveri Pearls",500,4.5,1
+1656,Oxidised Silver Nose Ring (Nykaa Fashion),Nose Rings,Oxidised Silver,Women's Fashion Jewellery,"Nose Ring, Oxidised Silver, Nykaa Fashion",200,4.1,0
+1657,Men's Gold Plated Bracelet (Voylla),Bracelets,Gold Plated,Men's Fashion Jewellery,"Bracelet, Gold Plated, Men's Jewellery",700,4.6,1
+1658,Men's Leather Watch Strap (Amazon),Watch Straps,Leather,Men's Fashion Jewellery,"Watch Strap, Leather, Men's Jewellery",500,4.4,0
+1659,Kids' Hair Clip (H&M),Hair Accessories,Kids' Jewellery,"Hair Clip, Kids' Jewellery","
+Opens in a new window
+
+m.indiamart.com
+
+Kids' Hair Clip",100,4,1
+1660,Kids' Bracelet Set (Babyoye),Bracelets,Kids' Jewellery,"Bracelet Set, Kids' Jewellery","
+Opens in a new window
+
+www.amazon.in
+
+Kids' Bracelet Set",300,4.2,0
+1661,Bamboo comb,Grooming,Comb,"bamboo comb, comb, bamboo, sustainable grooming","comb, bamboo, sustainable",50,4.9,0
+1662,Wooden comb,Grooming,Comb,"wooden comb, comb, wooden, sustainable grooming","comb, wooden, sustainable",60,4.9,0
+1663,Horn comb,Grooming,Comb,"horn comb, comb, horn, sustainable grooming","comb, horn, sustainable",100,4.9,0
+1664,Metal comb,Grooming,Comb,"metal comb, comb, metal, sustainable grooming","comb, metal, sustainable",80,4.9,0
+1665,Ceramic comb,Grooming,Comb,"ceramic comb, comb, ceramic, sustainable grooming","comb, ceramic, sustainable",120,4.9,0
+1666,Compostable comb,Grooming,Comb,"compostable comb, comb, compostable, sustainable grooming","comb, compostable, sustainable",50,4.9,2
+1667,Plastic comb with wide teeth,Grooming,Comb,"plastic comb, comb, plastic, wide teeth, sustainable grooming","comb, plastic, sustainable, wide teeth",20,4.9,1
+1668,Plastic comb with fine teeth,Grooming,Comb,"plastic comb, comb, plastic, fine teeth, sustainable grooming","comb, plastic, sustainable, fine teeth",30,4.9,1
+1669,Bamboo comb with wide teeth,Grooming,Comb,"bamboo comb, comb, bamboo, wide teeth, sustainable grooming","comb, bamboo, sustainable, wide teeth",60,4.9,0
+1670,Wooden comb with fine teeth,Grooming,Comb,"wooden comb, comb, wooden, fine teeth, sustainable grooming","comb, wooden, sustainable, fine teeth",70,4.9,0
+1671,Horn comb with handle,Grooming,Comb,"horn comb, comb, horn, handle, sustainable grooming","comb, horn, sustainable, handle",110,4.9,0
+1672,Metal comb with folding design,Grooming,Comb,"metal comb, comb, metal, folding, sustainable grooming","comb, metal, sustainable, folding",90,4.9,0
+1673,Ceramic comb with heat resistance,Grooming,Comb,"ceramic comb, comb, ceramic, heat resistant, sustainable grooming","comb, ceramic, sustainable, heat resistant",130,4.9,0
+1674,Compostable comb with double-sided teeth,Grooming,Comb,"compostable comb, comb, compostable, double-sided, sustainable grooming","comb, compostable, sustainable, double-sided",60,4.9,2
+1675,Reused comb with unique design,Grooming,Comb,"reused comb, comb, reused, unique design, sustainable grooming","comb, reused, sustainable, unique design",40,4.9,2
+1676,DIY comb with natural materials,Grooming,Comb,"DIY comb, comb, DIY, natural materials, sustainable grooming","comb, DIY, sustainable, natural materials",20,4.9,2
+1677,Bamboo comb with detangling bristles,Grooming,Comb,"bamboo comb, comb, bamboo, detangling bristles, sustainable grooming","comb, bamboo, sustainable, detangling",70,4.9,0
+1678,Wooden comb with afro teeth,Grooming,Comb,"wooden comb, comb, wooden, afro teeth, sustainable grooming","comb, wooden, sustainable, afro teeth",80,4.9,0
+1679,Horn comb with lice comb,Grooming,Comb,"horn comb, comb, horn, lice comb, sustainable grooming","comb, horn, sustainable, lice comb",120,4.9,0
+1680,Metal comb with beard comb,Grooming,Comb,"metal comb, comb, metal, beard comb, sustainable grooming","comb, metal, sustainable, beard comb",100,4.9,0
+1681,AmazonBasics 4-Tier Adjustable Shoe Rack,Shoe Racks,Over-the-Door Shoe Racks,"Shoe Rack, Organizer, Storage","Shoes, Storage, Organization",999,4.5,1
+1682,IKEA Trones Shoe Rack with Doors,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage","Shoes, Storage, Organization",1999,4.8,0
+1683,Pepperfry 3-Tier Shoe Rack with Bench,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage, Bench","Shoes, Storage, Organization, Seating",2999,4.7,2
+1684,Urban Ladder 4-Tier Metal Shoe Rack,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage","Shoes, Storage, Organization",3999,4.9,1
+1685,FabIndia 2-Tier Wooden Shoe Rack,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage","Shoes, Storage, Organization",4999,5,2
+1686,HomeTown 3-Tier Shoe Rack with Shelves,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage, Shelves","Shoes, Storage, Organization, Display",5999,4.6,0
+1687,Lifestyle 4-Tier Shoe Rack with Wheels,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage, Wheels","Shoes, Storage, Organization, Mobility",6999,4.8,1
+1688,Godrej Interio 5-Tier Shoe Rack with Mirror,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage, Mirror","Shoes, Storage, Organization, Display",7999,4.9,2
+1689,Nilkamal 6-Tier Shoe Rack with Cabinet,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage, Cabinet","Shoes, Storage, Organization, Concealment",8999,4.7,0
+1690,Durian 7-Tier Shoe Rack with Cushion,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage, Cushion","Shoes, Storage, Organization, Comfort",9999,4.9,1
+1691,IKEA Skubb Shoe Organizer,Shoe Racks,Under-Bed Shoe Racks,"Shoe Rack, Organizer, Storage","Shoes, Storage, Organization",499,4.4,0
+1692,HomeTown Over-the-Door Shoe Organizer,Shoe Racks,Over-the-Door Shoe Racks,"Shoe Rack, Organizer, Storage","Shoes, Storage, Organization",699,4.6,1
+1693,Lifestyle Wall-Mounted Shoe Rack,Shoe Racks,Wall-Mounted Shoe Racks,"Shoe Rack, Organizer, Storage","Shoes, Storage, Organization",899,4.8,2
+1694,Godrej Interio Corner Shoe Rack,Shoe Racks,Corner Shoe Racks,"Shoe Rack, Organizer, Storage","Shoes, Storage, Organization",1099,4.9,1
+1695,Nilkamal Wooden Shoe Rack with Drawers,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage, Drawers","Shoes, Storage, Organization, Concealment",1299,4.7,0
+1696,Durian Metal Shoe Rack with Shoe Horns,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage, Shoe Horns","Shoes, Storage, Organization, Convenience",1499,4.9,1
+1697,AmazonBasics 2-Tier Shoe Rack with Seat,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage, Seat","Shoes, Storage, Organization, Seating",1699,4.5,2
+1698,IKEA Trones Shoe Rack with Baskets,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage, Baskets","Shoes, Storage, Organization, Concealment",1899,4.8,0
+1699,Pepperfry 3-Tier Shoe Rack with Doors,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage, Doors","Shoes, Storage, Organization, Concealment",2099,4.7,1
+1700,Urban Ladder 4-Tier Shoe Rack with Shelves,Shoe Racks,Free-Standing Shoe Racks,"Shoe Rack, Organizer, Storage, Shelves","Shoes, Storage, Organization, Display",2299,4.9,2
+1701,Wooden Clothespins (Eco-Products),Home & Kitchen,Laundry,Clothespins,"Wooden, Eco-friendly, Sustainable",200,4.5,2
+1702,Stainless Steel Clothespins (GreenLiving),Home & Kitchen,Laundry,Clothespins,"Stainless Steel, Rust-proof, Durable",300,4,0
+1703,Plastic Clothespins (Clothespin Central),Home & Kitchen,Laundry,Clothespins,"Plastic, Affordable, Colorful",100,3.5,1
+1704,Bamboo Clothespins (EcoFriendlyHome),Home & Kitchen,Laundry,Clothespins,"Bamboo, Sustainable, Biodegradable",250,4.2,2
+1705,Spring Clothespins (ClothespinWorld),Home & Kitchen,Laundry,Clothespins,"Spring-loaded, Easy to use, Secure",150,3.7,1
+1706,Decorative Clothespins (ClothespinCreative),Home & Kitchen,Laundry,Clothespins,"Fun, Colorful, Unique",120,3.8,1
+1707,Travel Clothespins (ClothespinToGo),Travel,Accessories,Clothespins,"Lightweight, Portable, Compact",180,4.1,0
+1708,Heavy-Duty Clothespins (ClothespinStrong),Home & Kitchen,Laundry,Clothespins,"Strong, Durable, All-weather",350,4.6,1
+1709,Solar-Powered Clothespins (GreenLiving),Home & Kitchen,Laundry,Clothespins,"Solar-powered, Eco-friendly, Efficient",500,4.3,0
+1710,Smart Clothespins (ClothespinSmart),Home & Kitchen,Laundry,Clothespins,"Smart, Wi-Fi enabled, Connected",800,4.8,1
+1711,Wooden Clothespins with Pegs (Eco-Products),Home & Kitchen,Laundry,Clothespins,"Wooden, Eco-friendly, Sustainable, Pegs",220,4.6,2
+1712,Stainless Steel Clothespins with Springs (GreenLiving),Home & Kitchen,Laundry,Clothespins,"Stainless Steel, Rust-proof, Durable, Spring-loaded",320,4.1,0
+1713,Plastic Clothespins with Grips (Clothespin Central),Home & Kitchen,Laundry,Clothespins,"Plastic, Affordable, Colorful, Grips",110,3.6,1
+1714,Bamboo Clothespins with Hooks (EcoFriendlyHome),Home & Kitchen,Laundry,Clothespins,"Bamboo, Sustainable, Biodegradable, Hooks",260,4.3,2
+1715,Spring Clothespins with Clips (ClothespinWorld),Home & Kitchen,Laundry,Clothespins,"Spring-loaded, Easy to use, Secure, Clips",160,3.8,1
+1716,Decorative Clothespins with Patterns (ClothespinCreative),Home & Kitchen,Laundry,Clothespins,"Fun, Colorful, Unique, Patterns",130,3.9,1
+1717,Travel Clothespins with Pouch (ClothespinToGo),Travel,Accessories,Clothespins,"Lightweight, Portable, Compact, Pouch",190,4.2,0
+1718,Heavy-Duty Clothespins with Double Springs (ClothespinStrong),Home & Kitchen,Laundry,Clothespins,"Strong, Durable, All-weather, Double Springs",360,4.7,1
+1719,Solar-Powered Clothespins with Light (GreenLiving),Home & Kitchen,Laundry,Clothespins,"Solar-powered, Eco-friendly, Efficient, Light",520,4.4,0
+1720,Smart Clothespins with App Control (ClothespinSmart),Home & Kitchen,Laundry,Clothespins,"Smart, Wi-Fi enabled, Connected, App Control",820,4.9,1
+1721,Wooden hanger with standard hook,Clothing,Hanger,"wooden hanger, hanger, wooden, standard hook, sustainable clothing","hanger, wooden, sustainable, standard hook",699,4.9,0
+1722,Metal hanger with velvet coating,Clothing,Hanger,"metal hanger, hanger, metal, velvet coating, sustainable clothing","hanger, metal, sustainable, velvet coating",1099,4.9,0
+1723,Bamboo hanger with non-slip design,Clothing,Hanger,"bamboo hanger, hanger, bamboo, non-slip, sustainable clothing","hanger, bamboo, sustainable, non-slip",1299,4.9,0
+1724,Plastic hanger with standard hook,Clothing,Hanger,"plastic hanger, hanger, plastic, standard hook, sustainable clothing","hanger, plastic, sustainable, standard hook",899,4.9,1
+1725,Plastic hanger with velvet coating,Clothing,Hanger,"plastic hanger, hanger, plastic, velvet coating, sustainable clothing","hanger, plastic, sustainable, velvet coating",1245,4.9,1
+1726,Wooden hanger with cascading hooks,Clothing,Hanger,"wooden hanger, hanger, wooden, cascading hooks, sustainable clothing","hanger, wooden, sustainable, cascading hooks",1999,4.9,0
+1727,Plastic hanger with space-saving design,Clothing,Hanger,"plastic hanger, hanger, plastic, space-saving, sustainable clothing","hanger, plastic, sustainable, space-saving",1100,4.9,1
+1728,Metal hanger with adjustable height,Clothing,Hanger,"metal hanger, hanger, metal, adjustable height, sustainable clothing","hanger, metal, sustainable, adjustable height",1499,4.9,0
+1729,Plastic hanger with heavy-duty construction,Clothing,Hanger,"plastic hanger, hanger, plastic, heavy-duty, sustainable clothing","hanger, plastic, sustainable, heavy-duty",989,4.9,1
+1730,Bamboo hanger with eco-friendly finish,Clothing,Hanger,"bamboo hanger, hanger, bamboo, eco-friendly finish, sustainable clothing","hanger, bamboo, sustainable, eco-friendly finish",1599,4.9,0
+1731,Plastic hanger with personalized engraving,Clothing,Hanger,"plastic hanger, hanger, plastic, personalized engraving, sustainable clothing","hanger, plastic, sustainable, personalized engraving",1499,4.9,1
+1732,Wooden hanger with cascading hooks,Clothing,Hanger,"wooden hanger, hanger, wooden, cascading hooks, sustainable clothing","hanger, wooden, sustainable, cascading hooks",1399,4.9,0
+1733,Plastic hanger with non-slip coating,Clothing,Hanger,"plastic hanger, hanger, plastic, non-slip coating, sustainable clothing","hanger, plastic, sustainable, non-slip coating",1299,4.9,1
+1734,Metal hanger with rust-resistant finish,Clothing,Hanger,"metal hanger, hanger, metal, rust-resistant finish, sustainable clothing","hanger, metal, sustainable, rust-resistant finish",1359,4.9,0
+1735,Plastic hanger with tiered design,Clothing,Hanger,"plastic hanger, hanger, plastic, tiered, sustainable clothing","hanger, plastic, sustainable, tiered",1259,4.9,1
+1736,Wooden hanger with child-size design,Clothing,Hanger,"wooden hanger, hanger, wooden, child-size, sustainable clothing","hanger, wooden, sustainable, child-size",1349,4.9,0
+1737,Metal hanger with velvet-covered clips,Clothing,Hanger,"metal hanger, hanger, metal, velvet-covered clips, sustainable clothing","hanger, metal, sustainable, velvet-covered clips",1399,4.9,0
+1738,Plastic hanger with extendable design,Clothing,Hanger,"plastic hanger, hanger, plastic, extendable, sustainable clothing","hanger, plastic, sustainable, extendable",1249,4.9,1
+1739,Wooden hanger with non-slip rubber grips,Clothing,Hanger,"wooden hanger, hanger, wooden, non-slip rubber grips, sustainable clothing","hanger, wooden, sustainable, non-slip rubber grips",1299,4.9,0
+1740,Metal hanger with heavy-duty swivel hook,Clothing,Hanger,"metal hanger, hanger, metal, heavy-duty swivel hook, sustainable clothing","hanger, metal, sustainable, heavy-duty swivel hook",1139,4.9,0
+1741,Aluminium Extension Ladder (Bosch),Tools & Hardware,Ladders & Scaffolding,"Aluminium, Extension, Bosch","aluminium, extension, ladder, bosch",2500,4.5,1
+1742,Fiberglass Step Ladder (Werner),Tools & Hardware,Ladders & Scaffolding,"Fiberglass, Step, Werner","fiberglass, step, ladder, werner",3000,4.7,2
+1743,Multi-Purpose Ladder (Little Giant),Tools & Hardware,Ladders & Scaffolding,"Multi-Purpose, Little Giant","multi-purpose, ladder, little giant",3500,4.8,1
+1744,Attic Ladder (Fakro),Tools & Hardware,Ladders & Scaffolding,"Attic, Fakro","attic, ladder, fakro",4000,4.6,0
+1745,Telescopic Ladder (Wolf),Tools & Hardware,Ladders & Scaffolding,"Telescopic, Wolf","telescopic, ladder, wolf",4500,4.8,1
+1746,Scaffolding Ladder (Layher),Tools & Hardware,Ladders & Scaffolding,"Scaffolding, Layher","scaffolding, ladder, layher",5000,4.7,2
+1747,Garden Ladder (Spear & Jackson),Gardening & DIY,Ladders & Steps,"Garden, Spear & Jackson","garden, ladder, spear & jackson",2000,4.4,1
+1748,Step Stool (Rubbermaid),Home & Kitchen,Ladders & Steps,"Step Stool, Rubbermaid","step stool, rubbermaid",1500,4.3,0
+1749,Ladder Dolly (Kwik-Step),Tools & Hardware,Ladders & Scaffolding,"Ladder Dolly, Kwik-Step","ladder dolly, kwik-step",1000,4.6,1
+1750,Ladder Stabilizer (Xtend & Climb),Tools & Hardware,Ladders & Scaffolding,"Ladder Stabilizer, Xtend & Climb","ladder stabilizer, xtend & climb",500,4.7,2
+1751,Wooden Step Ladder (Louisville Ladder),Tools & Hardware,Ladders & Scaffolding,"Wooden, Step, Louisville Ladder","wooden, step, ladder, louisville ladder",2700,4.3,1
+1752,Foldable Ladder (Gorilla Ladders),Tools & Hardware,Ladders & Scaffolding,"Foldable, Gorilla Ladders","foldable, ladder, gorilla ladders",3200,4.5,2
+1753,Platform Ladder (Werner),Tools & Hardware,Ladders & Scaffolding,"Platform, Werner","platform, ladder, werner",3700,4.6,1
+1754,Painter's Ladder (Little Giant),Tools & Hardware,Ladders & Scaffolding,"Painter's, Little Giant","painter's, ladder, little giant",4200,4.7,2
+1755,Roof Ladder (Werner),Tools & Hardware,Ladders & Scaffolding,"Roof, Werner","roof, ladder, werner",4700,4.8,1
+1756,Industrial Ladder (Louisville Ladder),Tools & Hardware,Ladders & Scaffolding,"Industrial, Louisville Ladder","industrial, ladder, louisville ladder",5200,4.7,2
+1757,Orchard Ladder (Gorilla Ladders),Gardening & DIY,Ladders & Steps,"Orchard, Gorilla Ladders","orchard, ladder, gorilla ladders",2200,4.4,1
+1758,Step Ladder with Handrail (Rubbermaid),Home & Kitchen,Ladders & Steps,"Step Ladder, Handrail, Rubbermaid","step ladder, handrail, rubbermaid",1700,4.3,0
+1759,Ladder Extension (Kwik-Step),Tools & Hardware,Ladders & Scaffolding,"Ladder Extension, Kwik-Step","ladder extension, kwik-step",1200,4.6,1
+1760,Ladder Leveler (Xtend & Climb),Tools & Hardware,Ladders & Scaffolding,"Ladder Leveler, Xtend & Climb","ladder leveler, xtend & climb",600,4.7,2
+1761,Manduka eKO Lite Yoga Mat,Fitness & Exercise,Yoga Mats,"eco-friendly yoga mat, yoga mat, eco-friendly, sustainable","yoga, mat, eco-friendly, sustainable",1400,4.9,0
+1762,JadeYoga Harmony Yoga Mat,Fitness & Exercise,Yoga Mats,"sustainable yoga mat, yoga mat, sustainable, eco-friendly","yoga, mat, sustainable, eco-friendly",1500,4.9,0
+1763,B Yoga B Mat Everyday Yoga Mat,Fitness & Exercise,Yoga Mats,"natural rubber yoga mat, yoga mat, natural rubber, eco-friendly","yoga, mat, natural rubber, eco-friendly",1200,4.9,0
+1764,CorkYogis Natural Cork Yoga Mat,Fitness & Exercise,Yoga Mats,"cork yoga mat, natural cork, yoga mat, eco-friendly","yoga, mat, cork, eco-friendly",1300,4.9,0
+1765,Gaiam Yoga Mat Eco Friendly,Fitness & Exercise,Yoga Mats,"eco-friendly yoga mat, yoga mat, eco-friendly, sustainable","yoga, mat, eco-friendly, sustainable",1000,4.9,0
+1766,PVC Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, PVC, non-eco-friendly","yoga, mat, PVC, non-eco-friendly",400,4.9,1
+1767,NBR Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, NBR, non-eco-friendly","yoga, mat, NBR, non-eco-friendly",300,4.9,1
+1768,TPE Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, TPE, non-eco-friendly","yoga, mat, TPE, non-eco-friendly",600,4.9,1
+1769,EVA Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, EVA, non-eco-friendly","yoga, mat, EVA, non-eco-friendly",500,4.9,1
+1770,Recycled Plastic Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, recycled plastic, non-eco-friendly","yoga, mat, recycled plastic, non-eco-friendly",800,4.9,1
+1771,Hemp Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, hemp, eco-friendly","yoga, mat, hemp, eco-friendly",1500,4.9,0
+1772,Organic Cotton Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, organic cotton, eco-friendly","yoga, mat, organic cotton, eco-friendly",1600,4.9,0
+1773,Natural Rubber Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, natural rubber, eco-friendly","yoga, mat, natural cork, eco-friendly",1800,4.9,0
+1774,Cork Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, cork, eco-friendly","yoga, mat, cork, eco-friendly",1300,4.9,0
+1775,Bamboo Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, bamboo, eco-friendly","yoga, mat, bamboo, eco-friendly",1400,4.9,0
+1776,Jute Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, jute, eco-friendly","yoga, mat, jute, eco-friendly",1500,4.9,0
+1777,Wool Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, wool, eco-friendly","yoga, mat, wool, eco-friendly",1600,4.9,0
+1778,PVC Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, PVC, non-eco-friendly","yoga, mat, PVC, non-eco-friendly",400,4.9,1
+1779,NBR Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, NBR, non-eco-friendly","yoga, mat, NBR, non-eco-friendly",300,4.9,1
+1780,TPE Yoga Mat,Fitness & Exercise,Yoga Mats,"yoga mat, TPE, non-eco-friendly","yoga, mat, TPE, non-eco-friendly",600,4.9,1
+1781,MRF Kashmir Willow Cricket Bat,Bats,English Willow Bats,Kashmir Willow Bat,"Cricket bat, English willow, Kashmir willow, MRF",10000,4.5,2
+1782,SS Ton Cricket Bat,Bats,English Willow Bats,SS Ton Bat,"Cricket bat, English willow, SS Ton",15000,4.8,0
+1783,SG Icon Cricket Bat,Bats,English Willow Bats,SG Icon Bat,"Cricket bat, English willow, SG Icon",20000,4.9,2
+1784,Kookaburra Kahuna Cricket Bat,Bats,Australian Willow Bats,Kookaburra Kahuna Bat,"Cricket bat, Australian willow, Kookaburra Kahuna",25000,5,0
+1785,Gray Nicolls Masterclass Cricket Bat,Bats,English Willow Bats,Gray Nicolls Masterclass Bat,"Cricket bat, English willow, Gray Nicolls Masterclass",30000,4.7,2
+1786,Gunn & Moore Diamond Cricket Bat,Bats,English Willow Bats,Gunn & Moore Diamond Bat,"Cricket bat, English willow, Gunn & Moore Diamond",35000,4.9,0
+1787,Masuri Ghost Cricket Bat,Bats,English Willow Bats,Masuri Ghost Bat,"Cricket bat, English willow, Masuri Ghost",40000,5,2
+1788,Adidas Adipower Cricket Shoe,Cricket,Shoe,Adidas Adipower Bat,"Cricket bat, English willow, Adidas Adipower",45000,4.8,1
+1789,Nike Air Zoom Cricket Bat,Bats,English Willow Bats,Nike Air Zoom Bat,"Cricket bat, English willow, Nike Air Zoom",50000,4.9,2
+1790,Puma EvoPower Cricket Bat,Bats,English Willow Bats,Puma EvoPower Bat,"Cricket bat, English willow, Puma EvoPower",55000,5,0
+1791,Ram Crazy Plastic Cricket Bat,Bats,Plastic Bats,Plastic Bat,"Cricket bat, plastic bat, Ram Crazy",500,3.5,1
+1792,GRS Kids Zone Heavy Grade Plastic Cricket Bat,Bats,Plastic Bats,Kids Plastic Bat,"Cricket bat, plastic bat, kids plastic bat",750,4,1
+1793,CW Plastic Cricket Bat,Bats,Plastic Bats,Plastic Bat,"Cricket bat, plastic bat, CW",1000,4.5,1
+1794,RANROX FITNESS Plastic Cricket Bat,Bats,Plastic Bats,Plastic Bat,"Cricket bat, plastic bat, RANROX FITNESS",1250,4.7,1
+1795,Hyper Heavy Grade Hard Plastic Cricket Bat,Bats,Plastic Bats,Hard Plastic Bat,"Cricket bat, hard plastic bat, Hyper",1500,4.9,1
+1796,Ram Crazy Rubber Cricket Bat,Bats,Rubber Bats,Rubber Bat,"Cricket bat, rubber bat, Ram Crazy",1000,3.5,1
+1797,GRS Kids Zone Heavy Grade Rubber Cricket Bat,Bats,Rubber Bats,Kids Rubber Bat,"Cricket bat, rubber bat, kids rubber bat",1250,4,0
+1798,CW Rubber Cricket Bat,Bats,Rubber Bats,Rubber Bat,"Cricket bat, rubber bat, CW",1500,4.5,2
+1799,RANROX FITNESS Rubber Cricket Bat,Bats,Rubber Bats,Rubber Bat,"Cricket bat, rubber bat, RANROX FITNESS",1750,4.7,2
+1800,Hyper Heavy Grade Hard Rubber Cricket Bat,Bats,Rubber Bats,Hard Rubber Bat,"Cricket bat, hard rubber bat, Hyper",2000,4.9,2
+1801,Konjac Sponge,Bath & Body,Loofahs,"konjac sponge, loofah, eco-friendly, sustainable","konjac, sponge, loofah, eco-friendly, sustainable",100,4.9,0
+1802,Luffa Sponge,Bath & Body,Loofahs,"luffa sponge, loofah, eco-friendly, sustainable","luffa, sponge, loofah, eco-friendly, sustainable",50,4.9,0
+1803,Bamboo Loofah,Bath & Body,Loofahs,"bamboo loofah, loofah, eco-friendly, sustainable","bamboo, loofah, eco-friendly, sustainable",70,4.9,0
+1804,Hemp Loofah,Bath & Body,Loofahs,"hemp loofah, loofah, eco-friendly, sustainable","hemp, loofah, eco-friendly, sustainable",80,4.9,0
+1805,Sisal Loofah,Bath & Body,Loofahs,"sisal loofah, loofah, eco-friendly, sustainable","sisal, loofah, eco-friendly, sustainable",60,4.9,0
+1806,Plastic Loofah,Bath & Body,Loofahs,"plastic loofah, loofah, plastic, non-eco-friendly","plastic, loofah, non-eco-friendly",30,4.9,1
+1807,Synthetic Loofah,Bath & Body,Loofahs,"synthetic loofah, loofah, synthetic, non-eco-friendly","synthetic, loofah, non-eco-friendly",40,4.9,1
+1808,Sea Wool Loofah,Bath & Body,Loofahs,"sea wool loofah, loofah, eco-friendly, sustainable","sea wool, loofah, eco-friendly, sustainable",90,4.9,0
+1809,Loofah Back Scrubber,Bath & Body,Loofahs,"loofah back scrubber, loofah, eco-friendly, sustainable","loofah, back scrubber, eco-friendly, sustainable",100,4.9,0
+1810,Loofah Facial Pad,Bath & Body,Loofahs,"loofah facial pad, loofah, eco-friendly, sustainable","loofah, facial pad, eco-friendly, sustainable",70,4.9,0
+1811,Loofah Exfoliating Gloves,Bath & Body,Loofahs,"loofah exfoliating gloves, loofah, eco-friendly, sustainable","loofah, exfoliating gloves, eco-friendly, sustainable",120,4.9,0
+1812,Loofah Soap Pouch,Bath & Body,Loofahs,"loofah soap pouch, loofah, eco-friendly, sustainable","loofah, soap pouch, eco-friendly, sustainable",80,4.9,0
+1813,Loofah Dish Scrubber,Bath & Body,Loofahs,"loofah dish scrubber, loofah, eco-friendly, sustainable","loofah, dish scrubber, eco-friendly, sustainable",60,4.9,0
+1814,Loofah Body Brush,Bath & Body,Loofahs,"loofah body brush, loofah, eco-friendly, sustainable","loofah, body brush, eco-friendly, sustainable",90,4.9,0
+1815,Loofah Shoe Brush,Bath & Body,Loofahs,"loofah shoe brush, loofah, eco-friendly, sustainable","loofah, shoe brush, eco-friendly, sustainable",80,4.9,0
+1816,Loofah Pot Scrubber,Bath & Body,Loofahs,"loofah pot scrubber, loofah, eco-friendly, sustainable","loofah, pot scrubber, eco-friendly, sustainable",70,4.9,0
+1817,Loofah Vegetable Brush,Bath & Body,Loofahs,"loofah vegetable brush, loofah, eco-friendly, sustainable","loofah, vegetable brush, eco-friendly, sustainable",60,4.9,0
+1818,Plastic Loofah Brush,Bath & Body,Loofahs,"plastic loofah brush, loofah, plastic, non-eco-friendly","plastic, loofah, non-eco-friendly",30,4.9,1
+1819,Synthetic Loofah Brush,Bath & Body,Loofahs,"synthetic loofah brush, loofah, synthetic, non-eco-friendly","synthetic, loofah, non-eco-friendly",40,4.9,1
+1820,Loofah Pet Brush,Bath & Body,Loofahs,"loofah pet brush, loofah, eco-friendly, sustainable","loofah, pet brush, eco-friendly, sustainable",80,4.9,0
+1821,Bamboo Laundry Basket (IKEA),Home & Kitchen,Laundry,Laundry Baskets,"bamboo, laundry basket, ikea",1000,4.8,2
+1822,Fabric Laundry Basket (Walmart),Home & Kitchen,Laundry,Laundry Baskets,"fabric, laundry basket, walmart",750,4.3,1
+1823,Wicker Laundry Basket (Target),Home & Kitchen,Laundry,Laundry Baskets,"wicker, laundry basket, target",1200,4.7,2
+1824,Stainless Steel Laundry Basket (Home Depot),Home & Kitchen,Laundry,Laundry Baskets,"stainless steel, laundry basket, home depot",2000,4.9,1
+1825,Foldable Laundry Basket (TJ Maxx),Home & Kitchen,Laundry,Laundry Baskets,"foldable, laundry basket, tj maxx",600,4.4,0
+1826,Hanging Laundry Basket (Overstock),Home & Kitchen,Laundry,Laundry Baskets,"hanging, laundry basket, overstock",800,4.6,1
+1827,Collapsible Laundry Basket (Bed Bath & Beyond),Home & Kitchen,Laundry,Laundry Baskets,"collapsible, laundry basket, bed bath & beyond",700,4.5,1
+1828,Stackable Laundry Basket (Container Store),Home & Kitchen,Laundry,Laundry Baskets,"stackable, laundry basket, container store",1100,4.7,2
+1829,Rolling Laundry Basket (Wayfair),Home & Kitchen,Laundry,Laundry Baskets,"rolling, laundry basket, wayfair",1500,4.9,1
+1830,Plastic Laundry Basket (Amazon),Home & Kitchen,Laundry,Laundry Baskets,"plastic, laundry basket, amazon",500,4.5,0
+1831,Mesh Laundry Basket (Bed Bath & Beyond),Home & Kitchen,Laundry,Laundry Baskets,"mesh, laundry basket, bed bath & beyond",700,4.5,1
+1832,Plastic Laundry Bag (Amazon),Home & Kitchen,Laundry,Laundry Bags,"plastic, laundry bag, amazon",300,4.2,0
+1833,Hamper (Target),Home & Kitchen,Laundry,Hampers,"hamper, target",1000,4.7,1
+1834,Laundry Sorter (Home Depot),Home & Kitchen,Laundry,Laundry Sorters,"laundry sorter, home depot",1500,4.8,2
+1835,Laundry Basket Organizer (Overstock),Home & Kitchen,Laundry,Laundry Organizers,"laundry organizer, overstock",800,4.6,1
+1836,Pop-Up Laundry Basket (Container Store),Home & Kitchen,Laundry,Laundry Baskets,"pop-up, laundry basket, container store",600,4.4,0
+1837,Underbed Laundry Basket (Bed Bath & Beyond),Home & Kitchen,Laundry,Laundry Baskets,"underbed, laundry basket, bed bath & beyond",700,4.5,1
+1838,Wall-Mounted Laundry Basket (Wayfair),Home & Kitchen,Laundry,Laundry Baskets,"wall-mounted, laundry basket, wayfair",800,4.6,1
+1839,Laundry Cart (Amazon),Home & Kitchen,Laundry,Laundry Carts,"laundry cart, amazon",1200,4.7,0
+1840,Laundry Hamper with Lid (Target),Home & Kitchen,Laundry,Hampers,"hamper with lid, target",1000,4.7,1
+1841,Biodegradable Mailer Bags (EcoEnclose),Shipping Bags,Compostable Mailers,"biodegradable, compostable, eco-friendly, shipping bags","mailer bags, compost bags, green packaging",200,4.5,2
+1842,Recycled Paper Bubble Wrap (Better Packaging Company),Cushioning Materials,Recycled Bubble Wrap,"recycled, paper, cushioning, bubble wrap","eco-friendly packaging, green packaging, recycled materials",300,4.8,1
+1843,Plant-Based Packing Peanuts (Packing Peanuts Direct),Cushioning Materials,Plant-Based Packing Peanuts,"plant-based, biodegradable, compostable, packing peanuts","eco-friendly packaging, green packaging, sustainable packaging",400,4.7,2
+1844,Reusable Shipping Boxes (RePack),Shipping Boxes,Reusable Shipping Boxes,"reusable, shipping boxes, eco-friendly","sustainable packaging, green packaging, cost-effective packaging",500,4.9,1
+1845,Recycled Paper Tape (Uline),Shipping Tape,Recycled Paper Tape,"recycled, paper, shipping tape, eco-friendly","sustainable packaging, green packaging, strong tape",100,4.6,1
+1846,Water-Activated Paper Tape (Eco-Products),Shipping Tape,Water-Activated Paper Tape,"water-activated, paper, shipping tape, eco-friendly","sustainable packaging, green packaging, biodegradable tape",150,4.7,2
+1847,Compostable Food Packaging (Greenware),Food Packaging,Compostable Food Packaging,"compostable, food packaging, eco-friendly","sustainable packaging, green packaging, disposable packaging",250,4.8,2
+1848,Recycled Glass Jars (Ball Mason Jars),Food Packaging,Recycled Glass Jars,"recycled, glass, food packaging, eco-friendly","sustainable packaging, green packaging, reusable packaging",350,4.9,1
+1849,Bamboo Utensils (Eco Bamboo Products),Food Utensils,Bamboo Utensils,"bamboo, food utensils, eco-friendly","sustainable packaging, green packaging, reusable utensils",450,4.7,1
+1850,Reusable Shopping Bags (ChicoBag),Shopping Bags,Reusable Shopping Bags,"reusable, shopping bags, eco-friendly","sustainable packaging, green packaging, cost-effective packaging",550,4.9,1
+1851,Recycled Paper Void Fill (Better Packaging Company),Cushioning Materials,Recycled Paper Void Fill,"recycled, paper, void fill, eco-friendly","sustainable packaging, green packaging, protective packaging",200,4.5,1
+1852,Biodegradable Air Pillows (EcoEnclose),Cushioning Materials,Biodegradable Air Pillows,"biodegradable, air pillows, cushioning, eco-friendly","sustainable packaging, green packaging, protective packaging",300,4.8,2
+1853,Plant-Based Packing Cubes (Packing Peanuts Direct),Cushioning Materials,Plant-Based Packing Cubes,"plant-based, biodegradable, compostable, packing cubes","eco-friendly packaging, green packaging, sustainable packaging",400,4.7,2
+1854,Reusable Shipping Envelopes (RePack),Shipping Envelopes,Reusable Shipping Envelopes,"reusable, shipping envelopes, eco-friendly","sustainable packaging, green packaging, cost-effective packaging",500,4.9,1
+1855,Recycled Kraft Paper (Uline),Wrapping Paper,Recycled Kraft Paper,"recycled, kraft paper, wrapping paper, eco-friendly","sustainable packaging, green packaging, brown paper",100,4.6,1
+1856,Eco-Friendly Shipping Labels (Eco-Products),Shipping Labels,Eco-Friendly Shipping Labels,"eco-friendly, shipping labels, recycled","sustainable packaging, green packaging, compostable labels",150,4.7,2
+1857,Compostable Food Service Containers (Greenware),Food Service Containers,Compostable Food Service Containers,"compostable, food service containers, eco-friendly","sustainable packaging, green packaging, disposable containers",250,4.8,2
+1858,Recycled Plastic Cups (Ball Mason Jars),Food Service Containers,Recycled Plastic Cups,"recycled, plastic, cups, food service containers, eco-friendly","sustainable packaging, green packaging, reusable cups",350,4.9,1
+1859,Bamboo Straws (Eco Bamboo Products),Food Utensils,Bamboo Straws,"bamboo, food utensils, straws, eco-friendly","sustainable packaging, green packaging, reusable utensils",450,4.7,1
+1860,Reusable Shopping Totes (ChicoBag),Shopping Bags,Reusable Shopping Totes,"reusable, shopping totes, eco-friendly","sustainable packaging, green packaging, cost-effective packaging",550,4.9,1
+1861,Ethique Shampoo Bar,Bath & Body,Soaps,"shampoo bar, eco-friendly, sustainable, zero waste","shampoo, bar, eco-friendly, sustainable, zero waste",100,4.9,0
+1862,Dr. Bronner's Magic Soaps,Bath & Body,Soaps,"liquid soap, eco-friendly, sustainable, cruelty-free","liquid soap, eco-friendly, sustainable, cruelty-free",120,4.9,0
+1863,Castile Soap,Bath & Body,Soaps,"castile soap, eco-friendly, sustainable, vegan","castile soap, eco-friendly, sustainable, vegan",80,4.9,0
+1864,Glycerin Soap,Bath & Body,Soaps,"glycerin soap, eco-friendly, sustainable, moisturizing","glycerin soap, eco-friendly, sustainable, moisturizing",90,4.9,0
+1865,Shea Butter Soap,Bath & Body,Soaps,"shea butter soap, eco-friendly, sustainable, nourishing","shea butter soap, eco-friendly, sustainable, nourishing",100,4.9,0
+1866,Goat's Milk Soap,Bath & Body,Soaps,"goat's milk soap, eco-friendly, sustainable, gentle","goat's milk soap, eco-friendly, sustainable, gentle",110,4.9,0
+1867,Aleppo Soap,Bath & Body,Soaps,"aleppo soap, eco-friendly, sustainable, traditional","aleppo soap, eco-friendly, sustainable, traditional",120,4.9,0
+1868,Olive Oil Soap,Bath & Body,Soaps,"olive oil soap, eco-friendly, sustainable, moisturizing","olive oil soap, eco-friendly, sustainable, moisturizing",90,4.9,0
+1869,Coconut Oil Soap,Bath & Body,Soaps,"coconut oil soap, eco-friendly, sustainable, cleansing","coconut oil soap, eco-friendly, sustainable, cleansing",80,4.9,0
+1870,Honey Soap,Bath & Body,Soaps,"honey soap, eco-friendly, sustainable, nourishing","honey soap, eco-friendly, sustainable, nourishing",100,4.9,0
+1871,Oatmeal Soap,Bath & Body,Soaps,"oatmeal soap, eco-friendly, sustainable, soothing","oatmeal soap, eco-friendly, sustainable, soothing",90,4.9,0
+1872,Lavender Soap,Bath & Body,Soaps,"lavender soap, eco-friendly, sustainable, calming","lavender soap, eco-friendly, sustainable, calming",80,4.9,0
+1873,Ethique Shampoo Bar,Bath & Body,Soaps,"shampoo bar, eco-friendly, sustainable, zero waste","shampoo, bar, eco-friendly, sustainable, zero waste",100,4.9,0
+1874,Dr. Bronner's Magic Soaps,Bath & Body,Soaps,"liquid soap, eco-friendly, sustainable, cruelty-free","liquid soap, eco-friendly, sustainable, cruelty-free",120,4.9,0
+1875,Castile Soap,Bath & Body,Soaps,"castile soap, eco-friendly, sustainable, vegan","castile soap, eco-friendly, sustainable, vegan",80,4.9,0
+1876,Glycerin Soap,Bath & Body,Soaps,"glycerin soap, eco-friendly, sustainable, moisturizing","glycerin soap, eco-friendly, sustainable, moisturizing",90,4.9,0
+1877,Shea Butter Soap,Bath & Body,Soaps,"shea butter soap, eco-friendly, sustainable, nourishing","shea butter soap, eco-friendly, sustainable, nourishing",100,4.9,0
+1878,Goat's Milk Soap,Bath & Body,Soaps,"goat's milk soap, eco-friendly, sustainable, gentle","goat's milk soap, eco-friendly, sustainable, gentle",110,4.9,0
+1879,Palm Oil Soap,Bath & Body,Soaps,"palm oil soap, non-eco-friendly, unsustainable","palm oil soap, non-eco-friendly, unsustainable",50,4.9,1
+1880,Detergent Bar,Bath & Body,Soaps,"detergent bar, non-eco-friendly, unsustainable","detergent bar, non-eco-friendly, unsustainable",30,4.9,1
+1881,Plastic Rope (ABC Company),Home & Garden,Hardware,Rope,"Plastic, Rope",200,4.5,2
+1882,Jute Rope (XYZ Company),Home & Garden,Hardware,Rope,"Jute, Rope",300,5,0
+1883,Wool Rope (PQR Company),Home & Garden,Hardware,Rope,"Wool, Rope",400,4,0
+1884,Synthetic Rope (MNO Company),Home & Garden,Hardware,Rope,"Synthetic, Rope",500,3.5,1
+1885,Rubber Rope (LKO Company),Home & Garden,Hardware,Rope,"Rubber, Rope",600,4,1
+1886,Steel Rope (JKL Company),Home & Garden,Hardware,Rope,"Steel, Rope",700,4.5,2
+1887,Plastic Rope (DEF Company),Industrial & Scientific,Construction,Rope,"Plastic, Rope",800,4,2
+1888,Jute Rope (GHI Company),Industrial & Scientific,Construction,Rope,"Jute, Rope",900,5,0
+1889,Wool Rope (RST Company),Marine,Boating,Rope,"Wool, Rope",1000,4,0
+1890,Synthetic Rope (UVW Company),Marine,Boating,Rope,"Synthetic, Rope",1100,3.5,1
+1891,Aramid Rope (ABC Company),Safety & Security,Climbing,Rope,"Aramid, Rope",1200,4.5,2
+1892,Cotton Rope (XYZ Company),Home & Garden,Arts & Crafts,Rope,"Cotton, Rope",1300,5,0
+1893,Bamboo Rope (PQR Company),Pet Supplies,Toys,Rope,"Bamboo, Rope",1400,4,0
+1894,Hemp Rope (MNO Company),Sports & Outdoors,Camping & Hiking,Rope,"Hemp, Rope",1500,3.5,0
+1895,Coir Rope (LKO Company),Marine,Fishing,Rope,"Coir, Rope",1600,4,0
+1896,Sisal Rope (JKL Company),Industrial & Scientific,Agriculture,Rope,"Sisal, Rope",1700,4.5,1
+1897,Manila Rope (DEF Company),Industrial & Scientific,Mining,Rope,"Manila, Rope",1800,5,1
+1898,Dyneema Rope (GHI Company),Safety & Security,Rescue,Rope,"Dyneema, Rope",1900,4,2
+1899,Vectran Rope (RST Company),Marine,Sailing,Rope,"Vectran, Rope",2000,3.5,2
+1900,Spectra Rope (UVW Company),Sports & Outdoors,Mountaineering,Rope,"Spectra, Rope",2100,4,2
+1901,Manduka Bamboo Paperweight,Office & School Supplies,Paperweights,"bamboo paperweight, eco-friendly, sustainable","bamboo, paperweight, eco-friendly, sustainable",100,4.9,0
+1902,CorkYogis Cork Paperweight,Office & School Supplies,Paperweights,"cork paperweight, eco-friendly, sustainable","cork, paperweight, eco-friendly, sustainable",120,4.9,0
+1903,Recycled Paper Paperweight,Office & School Supplies,Paperweights,"recycled paper paperweight, eco-friendly, sustainable","recycled paper, paperweight, eco-friendly, sustainable",80,4.9,0
+1904,Seed Paper Paperweight,Office & School Supplies,Paperweights,"seed paper paperweight, eco-friendly, sustainable","seed paper, paperweight, eco-friendly, sustainable",100,4.9,0
+1905,Glass Paperweight,Office & School Supplies,Paperweights,"glass paperweight, non-eco-friendly","glass, paperweight, non-eco-friendly",50,4.9,1
+1906,Metal Paperweight,Office & School Supplies,Paperweights,"metal paperweight, non-eco-friendly","metal, paperweight, non-eco-friendly",30,4.9,1
+1907,Plastic Paperweight,Office & School Supplies,Paperweights,"plastic paperweight, non-eco-friendly","plastic, paperweight, non-eco-friendly",20,4.9,1
+1908,Stone Paperweight,Office & School Supplies,Paperweights,"stone paperweight, non-eco-friendly","stone, paperweight, non-eco-friendly",40,4.9,1
+1909,Ceramic Paperweight,Office & School Supplies,Paperweights,"ceramic paperweight, non-eco-friendly","ceramic, paperweight, non-eco-friendly",50,4.9,1
+1910,Crystal Paperweight,Office & School Supplies,Paperweights,"crystal paperweight, non-eco-friendly","crystal, paperweight, non-eco-friendly",100,4.9,1
+1911,Wood Paperweight,Office & School Supplies,Paperweights,"wood paperweight, non-eco-friendly","wood, paperweight, non-eco-friendly",80,4.9,1
+1912,Leather Paperweight,Office & School Supplies,Paperweights,"leather paperweight, non-eco-friendly","leather, paperweight, non-eco-friendly",120,4.9,1
+1913,Recycled Plastic Paperweight,Office & School Supplies,Paperweights,"recycled plastic paperweight, eco-friendly, sustainable","recycled plastic, paperweight, eco-friendly, sustainable",70,4.9,1
+1914,Silicone Paperweight,Office & School Supplies,Paperweights,"silicone paperweight, non-eco-friendly","silicone, paperweight, non-eco-friendly",50,4.9,1
+1915,Acrylic Paperweight,Office & School Supplies,Paperweights,"acrylic paperweight, non-eco-friendly","acrylic, paperweight, non-eco-friendly",40,4.9,1
+1916,Resin Paperweight,Office & School Supplies,Paperweights,"resin paperweight, non-eco-friendly","resin, paperweight, non-eco-friendly",60,4.9,1
+1917,Epoxy Paperweight,Office & School Supplies,Paperweights,"epoxy paperweight, non-eco-friendly","epoxy, paperweight, non-eco-friendly",80,4.9,1
+1918,Concrete Paperweight,Office & School Supplies,Paperweights,"concrete paperweight, non-eco-friendly","concrete, paperweight, non-eco-friendly",100,4.9,1
+1919,Marble Paperweight,Office & School Supplies,Paperweights,"marble paperweight, non-eco-friendly","marble, paperweight, non-eco-friendly",120,4.9,1
+1920,Gemstone Paperweight,Office & School Supplies,Paperweights,"gemstone paperweight, non-eco-friendly","gemstone, paperweight, non-eco-friendly",150,4.9,1
+1921,L'Oreal Paris Revitalift Hyaluronic Acid Serum,Skincare,Serums,"Hyaluronic acid, anti-aging","moisturizing, hydrating, plumping",999,4.5,1
+1922,Maybelline New York Fit Me Matte + Poreless Foundation,Makeup,Face,Foundation,"matte, full-coverage, long-wearing",599,4.8,2
+1923,Plum BodyLovin' Shower Gel in Mandarin & Jasmine,Bath & Body,Shower Gels,"Mandarin, jasmine","refreshing, cleansing, moisturizing",299,4.7,0
+1924,The Body Shop British Rose Body Butter,Bath & Body,Body Lotions & Creams,Rose,"moisturizing, nourishing, soothing",899,4.9,1
+1925,Mamaearth Onion Black Seed Hair Oil,Hair Care,Hair Oils,"Onion, black seed","hair growth, hair fall control, scalp care",399,4.6,2
+1926,Nykaa Naturals Coco Charcoal Face Mask,Skincare,Face Masks,Charcoal,"deep cleaning, pore minimizing, blackhead removal",499,4.4,1
+1927,Sugar Cosmetics Contour De Force Mini Highlighter,Makeup,Face,Highlighter,"natural glow, shimmer, luminous",399,4.7,0
+1928,MyGlamm LIT Liquid Lipstick in Scarlet Siren,Makeup,Lips,Lipstick,"matte, transfer-proof, long-wearing",499,4.6,2
+1929,Lakme Absolute Shine Line Matte Lipstick in Berry Divine,Makeup,Lips,Lipstick,"matte, creamy, pigmented",399,4.8,1
+1930,Bella Voste Flawless Finish Foundation Brush,Makeup Tools,Brushes,Foundation brush,"synthetic bristles, soft, angled",699,4.9,0
+1931,Minimalist 2% Alpha Arbutin Serum,Skincare,Serums,"Alpha arbutin, dark spot removal","brightening, even-toned, glowing",499,4.7,2
+1932,Dermafique Sunscreen SPF 50+ PA+++,Skincare,Sunscreens,"SPF 50+, PA+++","broad-spectrum protection, water-resistant, sweat-resistant",699,4.9,1
+1933,Biotique Bio Bhringraj Fresh Green Tea Shampoo,Hair Care,Shampoos,"Bhringraj, green tea","hair growth, hair fall control, dandruff removal",299,4.8,1
+1934,Innisfree My Real Squeeze Mask in Green Tea,Skincare,Face Masks,Green tea,"hydrating, soothing, refreshing",199,4.9,2
+1935,Kama Ayurveda Kumkumadi Tailam Night Serum,Skincare,Serums,"Kumkumadi oil, saffron","brightening, anti-aging, nourishing",1299,4.8,0
+1936,Forest Essentials Facial Treatment Essential Facial Oil - Sandalwood & Turmeric,Skincare,Facial Oils,"Sandalwood, turmeric","brightening, anti-aging, soothing",1999,4.9,1
+1937,The Moms Co. Natural Under Eye Cream,Skincare,Eye Creams,Under eye cream,"caffeine, hyaluronic acid",599,4.7,2
+1938,Good Vibes Vitamin C Face Serum,Skincare,Serums,"Vitamin C, hyaluronic acid","brightening, antioxidant, hydrating",299,4.8,1
+1939,MCaffeine Coffee Body Scrub,Bath & Body,Body Scrubs,Coffee,"exfoliating, moisturizing, brightening",499,4.9,2
+1940,The Face Shop Rice Water Bright Cleansing Foam,Skincare,Cleansers,Face wash,"rice water, hyaluronic acid",499,4.8,1
+1941,Buffy Breeze Pillow,Home & Garden,Pillows,"Buffy, Breeze Pillow, pillows, eco-friendly, sustainable","Buffy, Breeze Pillow, pillows, eco-friendly, sustainable",100,4.9,0
+1942,Avocado Green Pillow,Home & Garden,Pillows,"Avocado, Green Pillow, pillows, eco-friendly, sustainable","Avocado, Green Pillow, pillows, eco-friendly, sustainable",120,4.9,0
+1943,Coyuchi Organic Latex Molded Pillow,Home & Garden,Pillows,"Coyuchi, Organic Latex Molded Pillow, pillows, eco-friendly, sustainable","Coyuchi, Organic Latex Molded Pillow, pillows, eco-friendly, sustainable",140,4.9,0
+1944,Hullo Buckwheat Pillow,Home & Garden,Pillows,"Hullo, Buckwheat Pillow, pillows, eco-friendly, sustainable","Hullo, Buckwheat Pillow, pillows, eco-friendly, sustainable",90,4.9,0
+1945,Coop Sleep Goods The Original Pillow,Home & Garden,Pillows,"Coop Sleep Goods, The Original Pillow, pillows, eco-friendly, sustainable","Coop Sleep Goods, The Original Pillow, pillows, eco-friendly, sustainable",110,4.9,0
+1946,Naturepedic PLA Pillow,Home & Garden,Pillows,"Naturepedic, PLA Pillow, pillows, eco-friendly, sustainable","Naturepedic, PLA Pillow, pillows, eco-friendly, sustainable",130,4.9,0
+1947,Nest Bedding Luxury Shredded Memory Foam Pillow,Home & Garden,Pillows,"Nest Bedding, Luxury Shredded Memory Foam Pillow, pillows, non-eco-friendly","Nest Bedding, Luxury Shredded Memory Foam Pillow, pillows, non-eco-friendly",140,4.9,1
+1948,Tempur-Pedic TEMPUR-Neck Pillow,Home & Garden,Pillows,"Tempur-Pedic, TEMPUR-Neck Pillow, pillows, non-eco-friendly","Tempur-Pedic, TEMPUR-Neck Pillow, pillows, non-eco-friendly",150,4.9,1
+1949,Organic Bamboo Pillow,Home & Garden,Pillows,"organic bamboo pillow, eco-friendly, sustainable","organic bamboo pillow, eco-friendly, sustainable",80,4.9,0
+1950,Down Alternative Pillow,Home & Garden,Pillows,"down alternative pillow, eco-friendly, sustainable","down alternative pillow, eco-friendly, sustainable",70,4.9,0
+1951,Buckwheat Hull Pillow,Home & Garden,Pillows,"buckwheat hull pillow, eco-friendly, sustainable","buckwheat hull pillow, eco-friendly, sustainable",60,4.9,0
+1952,Memory Foam Pillow,Home & Garden,Pillows,"memory foam pillow, non-eco-friendly","memory foam pillow, non-eco-friendly",50,4.9,1
+1953,Kapok Pillow,Home & Garden,Pillows,"Kapok pillow, eco-friendly, sustainable","Kapok pillow, eco-friendly, sustainable",100,4.9,0
+1954,Wool Pillow,Home & Garden,Pillows,"Wool pillow, eco-friendly, sustainable","Wool pillow, eco-friendly, sustainable",120,4.9,0
+1955,Soybean Pillow,Home & Garden,Pillows,"Soybean pillow, eco-friendly, sustainable","Soybean pillow, eco-friendly, sustainable",140,4.9,0
+1956,Buckwheat Hull Pillow,Home & Garden,Pillows,"Buckwheat hull pillow, eco-friendly, sustainable","Buckwheat hull pillow, eco-friendly, sustainable",90,4.9,0
+1957,Memory Foam Pillow,Home & Garden,Pillows,"Memory foam pillow, non-eco-friendly","Memory foam pillow, non-eco-friendly",110,4.9,1
+1958,Latex Pillow,Home & Garden,Pillows,"Latex pillow, non-eco-friendly","Latex pillow, non-eco-friendly",130,4.9,1
+1959,Synthetic Fiber Pillow,Home & Garden,Pillows,"Synthetic fiber pillow, non-eco-friendly","Synthetic fiber pillow, non-eco-friendly",140,4.9,1
+1960,Feather Pillow,Home & Garden,Pillows,"Feather pillow, non-eco-friendly","Feather pillow, non-eco-friendly",150,4.9,1
+1961,Neem oil (Organic India),Gardening supplies,Insecticides,Neem oil,"organic, insecticide, neem",200,4.5,2
+1962,Compost bin (Bokashi),Gardening supplies,Composting bins,Bokashi,"composting, bokashi, bin",1000,4.8,1
+1963,Garden gloves (Gardeners' Supply Company),Gardening supplies,Gloves,Garden gloves,"gloves, gardening",300,4.7,0
+1964,Watering can (Gardena),Gardening supplies,Watering cans,Watering can,"watering, can",500,4.6,0
+1965,Pruning shears (Felco),Gardening supplies,Pruning shears,Pruning shears,"pruning, shears",800,4.9,0
+1966,Organic fertilizer (Mother Earth Products),Gardening supplies,Fertilizers,Organic fertilizer,"organic, fertilizer",400,4.8,2
+1967,Vegetable seeds (Burpee),Gardening supplies,Seeds,Vegetable seeds,"seeds, vegetables",100,4.7,0
+1968,Flower seeds (Park Seed),Gardening supplies,Seeds,Flower seeds,"seeds, flowers",50,4.6,0
+1969,Garden hose (Suncast),Gardening supplies,Hoses,Garden hose,"hose, watering",700,4.5,0
+1970,Garden cart (Gorilla Carts),Gardening supplies,Carts,Garden cart,"cart, garden",1200,4.9,0
+1971,Compost tea brewer (Worm's Way),Gardening supplies,Composting accessories,Compost tea brewer,"compost, tea, brewer",2500,4.4,1
+1972,Soil test kit (LaMotte),Gardening supplies,Soil testing kits,Soil test kit,"soil, test, kit",1000,4.6,0
+1973,Raised garden bed (EarthBox),Gardening supplies,Raised garden beds,Raised garden bed,"raised, bed, garden",3000,4.7,1
+1974,Garden thermometer (Taylor Precision Products),Gardening supplies,Garden thermometers,Garden thermometer,"thermometer, garden",500,4.5,0
+1975,Garden hose nozzle (Melnor),Gardening supplies,Hose nozzles,Garden hose nozzle,"nozzle, hose",300,4.4,0
+1976,Garden trowel (Gardeners' Supply Company),Gardening supplies,Hand tools,Garden trowel,"trowel, garden",200,4.6,0
+1977,Garden shears (Felco),Gardening supplies,Hand tools,Garden shears,"shears, garden",400,4.7,0
+1978,Garden fork (Gardeners' Supply Company),Gardening supplies,Hand tools,Garden fork,"fork, garden",300,4.8,0
+1979,Wheelbarrow (Marathon Wheelbarrows),Gardening supplies,Carts,Wheelbarrow,"wheelbarrow, cart",1500,4.9,0
+1980,Garden kneeler (Gardeners' Supply Company),Gardening supplies,Accessories,Garden kneeler,"kneeler, garden",500,4.6,0
+1981,Manduka Bamboo Shuttlecock,Sports & Outdoors,Badminton,"bamboo shuttlecock, eco-friendly, sustainable","bamboo, shuttlecock, eco-friendly, sustainable",100,4.9,0
+1982,CorkYogis Cork Shuttlecock,Sports & Outdoors,Badminton,"cork shuttlecock, eco-friendly, sustainable","cork, shuttlecock, eco-friendly, sustainable",120,4.9,0
+1983,Recycled Paper Shuttlecock,Sports & Outdoors,Badminton,"recycled paper shuttlecock, eco-friendly, sustainable","recycled paper, shuttlecock, eco-friendly, sustainable",80,4.9,0
+1984,Seed Paper Shuttlecock,Sports & Outdoors,Badminton,"seed paper shuttlecock, eco-friendly, sustainable","seed paper, shuttlecock, eco-friendly, sustainable",100,4.9,0
+1985,Goose Feather Shuttlecock,Sports & Outdoors,Badminton,"goose feather shuttlecock, non-eco-friendly","goose feather, shuttlecock, non-eco-friendly",150,4.9,1
+1986,Duck Feather Shuttlecock,Sports & Outdoors,Badminton,"duck feather shuttlecock, non-eco-friendly","duck feather, shuttlecock, non-eco-friendly",120,4.9,1
+1987,Plastic Shuttlecock,Sports & Outdoors,Badminton,"plastic shuttlecock, non-eco-friendly","plastic, shuttlecock, non-eco-friendly",50,4.9,1
+1988,Nylon Shuttlecock,Sports & Outdoors,Badminton,"nylon shuttlecock, non-eco-friendly","nylon, shuttlecock, non-eco-friendly",30,4.9,1
+1989,Synthetic Shuttlecock,Sports & Outdoors,Badminton,"synthetic shuttlecock, non-eco-friendly","synthetic, shuttlecock, non-eco-friendly",20,4.9,1
+1990,Feathered Shuttlecock,Sports & Outdoors,Badminton,"feathered shuttlecock, non-eco-friendly","feathered, shuttlecock, non-eco-friendly",10,4.9,1
+1991,Bamboo Cork Shuttlecock,Sports & Outdoors,Badminton,"bamboo cork shuttlecock, eco-friendly, sustainable","bamboo, cork, shuttlecock, eco-friendly, sustainable",150,4.9,0
+1992,Recycled Plastic Shuttlecock,Sports & Outdoors,Badminton,"recycled plastic shuttlecock, eco-friendly, sustainable","recycled plastic, shuttlecock, eco-friendly, sustainable",100,4.9,0
+1993,Feathered Cork Shuttlecock,Sports & Outdoors,Badminton,"feathered cork shuttlecock, non-eco-friendly","feathered, cork, shuttlecock, non-eco-friendly",120,4.9,1
+1994,Feathered Plastic Shuttlecock,Sports & Outdoors,Badminton,"feathered plastic shuttlecock, non-eco-friendly","feathered, plastic, shuttlecock, non-eco-friendly",150,4.9,1
+1995,Goose Feather Shuttlecock (Durable),Sports & Outdoors,Badminton,"goose feather shuttlecock, durable, non-eco-friendly","goose feather, durable, shuttlecock, non-eco-friendly",200,4.9,1
+1996,Duck Feather Shuttlecock (Durable),Sports & Outdoors,Badminton,"duck feather shuttlecock, durable, non-eco-friendly","duck feather, durable, shuttlecock, non-eco-friendly",180,4.9,1
+1997,Synthetic Feather Shuttlecock (Durable),Sports & Outdoors,Badminton,"synthetic feather shuttlecock, durable, non-eco-friendly","synthetic feather, durable, shuttlecock, non-eco-friendly",150,4.9,1
+1998,Plastic Shuttlecock (Durable),Sports & Outdoors,Badminton,"plastic shuttlecock, durable, non-eco-friendly","plastic, durable, shuttlecock, non-eco-friendly",120,4.9,1
+1999,Nylon Shuttlecock (Durable),Sports & Outdoors,Badminton,"nylon shuttlecock, durable, non-eco-friendly","nylon, durable, shuttlecock, non-eco-friendly",100,4.9,1
+2000,Synthetic Shuttlecock (Indoor),Sports & Outdoors,Badminton,"synthetic shuttlecock, indoor, non-eco-friendly","synthetic, indoor, shuttlecock, non-eco-friendly",80,4.9,1
