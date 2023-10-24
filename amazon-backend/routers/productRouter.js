@@ -50,7 +50,7 @@ productRouter.get('/:id', expressAsyncHandler(async (req, res) => {
 productRouter.get('/getsimilar/:id', expressAsyncHandler(async (req, res) => {
     const id = req.params.id;
 
-    const pyProg = spawn('python3', ['/Users/newuser/Desktop/ipv/Internal-Pointer-Variable/amazon-backend/script.py', id]);
+    const pyProg = spawn('python3', ['../script/script.py', id]);
 
     pyProg.stdout.on('data', (data) => {
         res.send({ 'topSimilarItems': data.toString() });
