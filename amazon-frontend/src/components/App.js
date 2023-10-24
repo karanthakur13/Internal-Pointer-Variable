@@ -20,6 +20,7 @@ import AddProduct from "../pages/Admin/AddProduct";
 import GreenCredits from "../pages/GreenCredits";
 import AmazonGreen from "../pages/AmazonGreen";
 import BlockchainFrontend from "../pages/BlockchainFrontend";
+import BlockchainClient from "../pages/BlockchainClient";
 
 const App = () => {
   return (
@@ -40,7 +41,8 @@ const App = () => {
           <Route path="/order/:id" component={OrderDetails}></Route>
           <Route path="/orderhistory" component={OrderHistory}></Route>
           <Route path="/greenCredits" component={GreenCredits}></Route>
-          <Route path="/bcn" component={BlockchainFrontend}></Route>
+          <Route path="/manbc" component={BlockchainFrontend}></Route>
+          <Route path="/supbc" component={BlockchainClient}></Route>
           <PrivateRoute path="/profile" component={UserProfile}></PrivateRoute>
           <Route
             path="/searchresults/:query"

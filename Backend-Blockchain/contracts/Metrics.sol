@@ -47,6 +47,31 @@ contract ProductRegistry {
         emit ProductAdded(productCount, msg.sender);
     }
 
+    function updateProduct(
+        uint _productId,
+        uint _carbonEmission,
+        uint _waterUsage,
+        uint _energyEfficiency,
+        uint _wasteGeneration,
+        uint _renewableEnergyUsage
+    ) public {
+        products[_productId].carbonEmission =
+            products[_productId].carbonEmission +
+            _carbonEmission;
+        products[_productId].waterUsage =
+            products[_productId].waterUsage +
+            _waterUsage;
+        products[_productId].energyEfficiency =
+            products[_productId].energyEfficiency +
+            _energyEfficiency;
+        products[_productId].wasteGeneration =
+            products[_productId].wasteGeneration +
+            _wasteGeneration;
+        products[_productId].renewableEnergyUsage =
+            products[_productId].renewableEnergyUsage +
+            _renewableEnergyUsage;
+    }
+
     // Function to convert biodiversity string to integer
     function biodiversityStringToUint(
         string memory biodiversity

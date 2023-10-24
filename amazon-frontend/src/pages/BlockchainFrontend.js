@@ -10,11 +10,11 @@ import FormField from "../components/FormField";
 import Loader from "../components/Loader";
 import CustomButton from "../components/CustomButton";
 import QrCode from "qrcode";
-import '../styles/BCN.css'
+import "../styles/BCN.css";
 
 const BlockchainFrontend = () => {
   const { contract } = useContract(
-    "0xC62672cf4784eCC94CBbaC4AF610866eedAa4486"
+    "0xA85D1Ae5157E6c6eEd906cDd20800f753a15429a"
   );
 
   const address = useAddress();
@@ -85,75 +85,74 @@ const BlockchainFrontend = () => {
     setIsLoading(false);
   };
   return (
-      <div className="bcn-container">
-        {isLoading && <Loader />}
-        <form
-          onSubmit={handleSubmit}
-          className="bcn-form"
-        >
-          <div className="formFields">
-            <FormField
-              labelName="Carbon Emission"
-              inputType="number"
-              value={form.CarbonEmission}
-              handleChange={(e) => handleFormFieldChange("CarbonEmission", e)}
-            />
+    <div className="bcn-container">
+      {isLoading && <Loader />}
+      <form onSubmit={handleSubmit} className="bcn-form">
+        <div className="formFields">
+          <FormField
+            labelName="Carbon Emission"
+            inputType="number"
+            value={form.CarbonEmission}
+            handleChange={(e) => handleFormFieldChange("CarbonEmission", e)}
+          />
 
-            <FormField
-              labelName="Energy Efficicency"
-              inputType="number"
-              value={form.EnergyEfficiency}
-              handleChange={(e) => handleFormFieldChange("EnergyEfficiency", e)}
-            />
+          <FormField
+            labelName="Energy Efficicency"
+            inputType="number"
+            value={form.EnergyEfficiency}
+            handleChange={(e) => handleFormFieldChange("EnergyEfficiency", e)}
+          />
 
-            <FormField
-              labelName="Water Usage"
-              inputType="number"
-              value={form.WaterUsage}
-              handleChange={(e) => handleFormFieldChange("WaterUsage", e)}
-            />
+          <FormField
+            labelName="Water Usage"
+            inputType="number"
+            value={form.WaterUsage}
+            handleChange={(e) => handleFormFieldChange("WaterUsage", e)}
+          />
 
-            <FormField
-              labelName="Renewable Energy Usage"
-              inputType="number"
-              value={form.RenewableEnergyUsage}
-              handleChange={(e) =>
-                handleFormFieldChange("RenewableEnergyUsage", e)
-              }
-            />
-            <FormField
-              labelName="Waste Generation"
-              inputType="number"
-              value={form.WasteGeneration}
-              handleChange={(e) => handleFormFieldChange("WasteGeneration", e)}
-            />
-            <FormField
-              labelName="Biodiversity Usage"
-              inputType="text"
-              value={form.BiodiversityUsage}
-              handleChange={(e) =>
-                handleFormFieldChange("BiodiversityUsage", e)
-              }
-            />
-            <div className="bcn-buttons">
-              <button type="button" onClick={onClickHandler} className="connect-button">
-                Connect
-              </button>
-              <button className="bcn-submit" type="sumbit">Register</button>
-            </div>
+          <FormField
+            labelName="Renewable Energy Usage"
+            inputType="number"
+            value={form.RenewableEnergyUsage}
+            handleChange={(e) =>
+              handleFormFieldChange("RenewableEnergyUsage", e)
+            }
+          />
+          <FormField
+            labelName="Waste Generation"
+            inputType="number"
+            value={form.WasteGeneration}
+            handleChange={(e) => handleFormFieldChange("WasteGeneration", e)}
+          />
+          <FormField
+            labelName="Biodiversity Usage"
+            inputType="text"
+            value={form.BiodiversityUsage}
+            handleChange={(e) => handleFormFieldChange("BiodiversityUsage", e)}
+          />
+          <div className="bcn-buttons">
+            <button
+              type="button"
+              onClick={onClickHandler}
+              className="connect-button"
+            >
+              Connect
+            </button>
+            <button className="bcn-submit" type="sumbit">
+              Register
+            </button>
           </div>
-        </form>
-        {qrData && (
-          <div className="qrCode">
-            <span className="f">
-              Product Registered Successfully{" "}
-            </span>
-            <div className="">
-              <img src={url} alt="qrcode" />
-            </div>
+        </div>
+      </form>
+      {qrData && (
+        <div className="qrCode">
+          <span className="f">Product Registered Successfully </span>
+          <div className="">
+            <img src={url} alt="qrcode" />
           </div>
-        )}
-      </div>
+        </div>
+      )}
+    </div>
   );
 };
 
