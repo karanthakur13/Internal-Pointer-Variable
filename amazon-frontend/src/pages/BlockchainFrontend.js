@@ -10,6 +10,7 @@ import FormField from "../components/FormField";
 import Loader from "../components/Loader";
 import CustomButton from "../components/CustomButton";
 import QrCode from "qrcode";
+import '../styles/BCN.css'
 
 const BlockchainFrontend = () => {
   const { contract } = useContract(
@@ -84,22 +85,13 @@ const BlockchainFrontend = () => {
     setIsLoading(false);
   };
   return (
-    <div>
-      <div className="mt-[30px] backdrop-brightness-50 flex justify-center items-center flex-col rounded-[10px] sm:p-10 p-4">
+      <div className="bcn-container">
         {isLoading && <Loader />}
-        <button
-          type="button"
-          onClick={onClickHandler}
-          className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 text-center mr-3 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-        >
-          Connect
-        </button>
-
         <form
           onSubmit={handleSubmit}
-          className="w-full mt-[65px] flex flex-col gap-[30px]"
+          className="bcn-form"
         >
-          <div className="flex flex-wrap gap-[40px]">
+          <div className="formFields">
             <FormField
               labelName="Carbon Emission"
               inputType="number"
@@ -143,27 +135,25 @@ const BlockchainFrontend = () => {
                 handleFormFieldChange("BiodiversityUsage", e)
               }
             />
-            {
-              <CustomButton
-                btnType="submit"
-                title="Register Product"
-                styles="dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-              />
-            }
+            <div className="bcn-buttons">
+              <button type="button" onClick={onClickHandler} className="connect-button">
+                Connect
+              </button>
+              <button className="bcn-submit" type="sumbit">Register</button>
+            </div>
           </div>
         </form>
         {qrData && (
-          <div className="mt-[26px]">
-            <span className="font-epilogue font-medium text-[14px] leading-[22px] text-white ">
+          <div className="qrCode">
+            <span className="f">
               Product Registered Successfully{" "}
             </span>
-            <div className="flex justify-center items-center mt-[26px] ">
+            <div className="">
               <img src={url} alt="qrcode" />
             </div>
           </div>
         )}
       </div>
-    </div>
   );
 };
 

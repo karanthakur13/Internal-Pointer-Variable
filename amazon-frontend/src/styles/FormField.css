@@ -1,0 +1,16 @@
+.bcn-formField{
+    display: flex;
+    flex-direction: column;
+    gap:.5rem
+}
+.bcn-label{
+    font-size: 1.2rem;
+}
+.bcn-input{
+    font-size: 1.4rem;
+    border-style: solid;
+    padding:.3rem .4rem;
+    border-width: .5px;
+    border-radius: 8px;
+}
+
