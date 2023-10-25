@@ -11,7 +11,7 @@ The homepage of our platform welcomes users with an engaging showcase of product
 
 ## Amazon Green
 
-The **"Amazon Green"** section is a **dedicated marketplace within our platform for eco-friendly products with net zero or negative carbon emission**. It provides customers with a single, easily accessible destination for exploring and purchasing eco-friendly products. By offering a dedicated section for this, Amazon actively encourages customers to make sustainable choices by prioritising the sustainable and eco friendly products on its platform. Users can easily browse through various product categories, making it effortless to discover and purchase eco-friendly alternatives that contribute to a greener future.
+The **"Amazon Green"** section is a **dedicated marketplace within our platform for eco-friendly products with net zero or negative carbon emission**. It provides customers with a single, easily accessible destination for exploring and purchasing eco-friendly products. **By offering a dedicated section for this, Amazon actively encourages customers to make sustainable choices by prioritising the sustainable and eco friendly products on its platform.** Users can easily browse through various product categories, making it effortless to discover and purchase eco-friendly alternatives that contribute to a greener future.
 
 <img width="1470" alt="Screenshot 2023-10-25 at 7 49 13 PM" src="https://github.com/karanthakur13/Internal-Pointer-Variable/assets/75665601/bef30939-e180-49f3-8323-6bfdc58ae646">
 
