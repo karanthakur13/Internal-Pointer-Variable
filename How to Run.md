@@ -1,4 +1,5 @@
 ## Amazon-Backend
+
 Go to Amazon-Backend directory
 
 ```cd amazon-backend```
@@ -12,27 +13,46 @@ Run the command : ```npm install```
 
 
 To run the recommendation engine,
+
 ```cd amazon-backend```
-cd script
+
+```cd script```
+
 Need to have python3
+
 How to install pip:
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-python3 get-pip.py
+
+```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py```
+
+```python3 get-pip.py```
+
 Install required packages:
-pip3 install pandas
-pip3 install nltk
-python3
-import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
-pip3 install scikit-learn
+
+```pip3 install pandas```
+
+```pip3 install nltk```
+
+```python3```
+
+```import nltk```
+
+```nltk.download('punkt')```
+
+```nltk.download('stopwords')```
+
+```pip3 install scikit-learn```
 
 
 ## Amazon-Frontend
+
 Go to Amazon-Frontend Directory
-cd amazon-frontend
-npm install --force
-npm start (to start the frontend)
+
+```cd amazon-frontend```
+
+```npm install --force```
+
+```npm start``` (to start the frontend)
 
 ## Blockchain
+
 To run blockchain you need to have a metamask account and the extension for it.
