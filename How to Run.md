@@ -1,32 +1,32 @@
-# Amazon-Backend
+<h1>Amazon-Backend</h1>
 
-<h3> Go to Amazon-Backend directory </h3>
+<h2> Go to Amazon-Backend directory </h2>
 
 ```cd amazon-backend```
 
-Need to have node package manager (npm) already installed
+<h3>Need to have node package manager (npm) already installed</h3>
 
 Run the command : ```npm install```
 
 ```node server.js``` (to run the backend)
 
 
+<h2>To run the recommendation engine</h2>
 
-To run the recommendation engine,
 
 ```cd amazon-backend```
 
 ```cd script```
 
-Need to have python3
+<h3>Need to have python3</h3>
 
-How to install pip:
+<h2>How to install pip:</h2>
 
 ```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py```
 
 ```python3 get-pip.py```
 
-Install required packages:
+<h2>Install required packages:</h2>
 
 ```pip3 install pandas```
 
@@ -43,9 +43,9 @@ Install required packages:
 ```pip3 install scikit-learn```
 
 
-## Amazon-Frontend
+<h1> Amazon-Frontend </h1>
 
-Go to Amazon-Frontend Directory
+<h2>Go to Amazon-Frontend Directory</h2>
 
 ```cd amazon-frontend```
 
@@ -53,6 +53,6 @@ Go to Amazon-Frontend Directory
 
 ```npm start``` (to start the frontend)
 
-## Blockchain
+<h1>Blockchain</h1> 
 
-To run blockchain you need to have a metamask account and the extension for it.
+<h3>To run blockchain you need to have a metamask account and the extension for it.</h3>
