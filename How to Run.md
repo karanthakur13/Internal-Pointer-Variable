@@ -1,13 +1,18 @@
 ## Amazon-Backend
 Go to Amazon-Backend directory
-cd amazon-backend
-Need to have node package manager (npm) already installed\n
-Run the command : npm install
-node server.js (to run the backend)
 
 ```cd amazon-backend```
 
+Need to have node package manager (npm) already installed
+
+Run the command : ```npm install```
+
+```node server.js``` (to run the backend)
+
+
+
 To run the recommendation engine,
+```cd amazon-backend```
 cd script
 Need to have python3
 How to install pip:
