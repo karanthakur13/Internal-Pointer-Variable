@@ -6,7 +6,7 @@
 
 <h3>Need to have node package manager (npm) already installed</h3>
 
-Run the command : ```npm install```
+```npm install``` (Run the command)
 
 ```node server.js``` (to run the backend)
 
