@@ -1,6 +1,6 @@
 ## Amazon-Backend
 
-<h1> Go to Amazon-Backend directory </h1>
+<h3> Go to Amazon-Backend directory </h3>
 
 ```cd amazon-backend```
 
