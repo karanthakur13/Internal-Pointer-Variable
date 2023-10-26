@@ -5,7 +5,7 @@ Need to have node package manager (npm) already installed\n
 Run the command : npm install
 node server.js (to run the backend)
 
-cd amazon-backend
+```cd amazon-backend```
 
 To run the recommendation engine,
 cd script
