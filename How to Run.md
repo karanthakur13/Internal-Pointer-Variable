@@ -1,7 +1,7 @@
 ## Amazon-Backend
 Go to Amazon-Backend directory
 cd amazon-backend
-Need to have node package manager (npm) already installed
+Need to have node package manager (npm) already installed\n
 Run the command : npm install
 node server.js (to run the backend)
 
